@@ -78,7 +78,7 @@ where $V_{gr}$ is the crystal pulling/growth velocity (normal to the interface, 
 
 ### 3.2 Crucible Rotation
 
-At the crucible wall (side and bottom, $r = R_{cr}(z)$ or $z = z_{bottom}(r)$), the no-slip condition imposes:
+At the crucible wall (side and bottom, $r = R_{cr}(z)$ or $z = z_{bottom}(r)$ ), the no-slip condition imposes:
 
 $$
 u_r = 0, \qquad u_\varphi = \omega_{cru}\, r, \qquad u_z = 0
