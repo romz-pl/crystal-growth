@@ -18,6 +18,7 @@
 + [Vertical Gradient Freeze (VGF) Method](./doc/method-vertical-gradient-freeze.md)
 + [Float Zone (FZ) Method](./doc/method-float-zone.md)
 + [Zone Melting / Zone Refining (Pfann Method)](./doc/method-pfann.md)
++ [Verneuil (Flame-Fusion) Method](./doc/method-verneuil.md)
 
 
 
