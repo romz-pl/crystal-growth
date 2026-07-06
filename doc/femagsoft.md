@@ -629,6 +629,15 @@ For a physicist or engineer working in crystal growth simulation, FEMAG/CZ remai
 15. Prostomolotov, "CrystmoNet Remote Access Code for Czochralski Crystal Growth Modelling," *SCIT* (2013)
 16. Thaker Simulation Technologies LLC, FEMAG distribution page: http://www.thakerllc.com/femag.html
 
+
+---
+
+## Further Reading
+
++ [Peer-Reviewed Journal Articles on FEMAG / FEMAG-CZ (FEMAGSoft S.A., Belgium)](./reference-femag.md)
++ [Organizations Known to Have Applied or Used FEMAG / FEMAG-CZ (FEMAGSoft S.A., Belgium) for Crystal Growth Modeling](./users-femagsoft.md)
+
+
 ---
 
 *This report was compiled from publicly available technical documentation, product pages, peer-reviewed literature, conference proceedings, and corporate data sources. All technical statements are attributed to their primary sources. Information concerning post-2019 product releases and internal corporate developments may be incomplete due to limited public disclosure.*
