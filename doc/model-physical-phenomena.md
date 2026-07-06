@@ -213,7 +213,7 @@ Advection–diffusion transport of dopants, impurities, or (in solution growth) 
 
 ### 6.2 Segregation at the Growth Interface
 
-- **Equilibrium segregation coefficient** $k_0 = C_s^*/C_l^*$ relates solid and liquid interfacial concentrations at equilibrium.
+- **Equilibrium segregation coefficient** $k_0 = C_s^* / C_l^*$ relates solid and liquid interfacial concentrations at equilibrium.
 - **Effective segregation coefficient** (Burton–Prim–Slichter, BPS): accounts for the diffusive/convective boundary layer of thickness $\delta$ at the growing interface,
 
 $$
