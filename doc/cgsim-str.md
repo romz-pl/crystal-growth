@@ -606,6 +606,13 @@ Against a backdrop of strong demand for high-quality substrates in power electro
 
 ---
 
+## Further Reading
++ [Peer-Reviewed Journal Articles on CrysVUn / CrysVUN++](./reference-crysvun.md)
++ [Bibliography of Peer-Reviewed Application Papers Using CrysVUn / CrysVUn++](./applications-crysvun.md)
++ [Customers of CrysMAS Family](./users-crysmas.md)
+
+---
+
 *End of Report*
 
 *Prepared on the basis of publicly available information from STR Group's official website, peer-reviewed publications, patent literature, and conference proceedings, current as of June 2026.*
