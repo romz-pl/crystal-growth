@@ -682,6 +682,7 @@ As of 2026, CrysMAS remains an active, continuously applied simulation tool at I
 
 ## Further Reading
 + [Peer-Reviewed Journal Articles on CrysVUn / CrysVUN++](./reference-crysvun.md)
++ [Peer-Reviewed Journal Articles Describing the CrysMAS Crystal Growth Simulation Software](./reference-crysmas.md)
 + [Bibliography of Peer-Reviewed Application Papers Using CrysVUn / CrysVUn++](./applications-crysvun.md)
 + [Customers of CrysMAS Family](./users-crysmas.md)
 
