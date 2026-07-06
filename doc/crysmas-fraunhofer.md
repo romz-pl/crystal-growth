@@ -677,6 +677,14 @@ As of 2026, CrysMAS remains an active, continuously applied simulation tool at I
 
 - Fraunhofer IISB Crystal Growth Brochure (2012). https://www.iisb.fraunhofer.de/content/dam/iisb/de/documents/presse_publikationen/prospekte/Brochure_CrystalGrowth_2012_www.pdf
 
+
+---
+
+## Further Reading
++ [Peer-Reviewed Journal Articles on CrysVUn / CrysVUN++](./reference-crysvun.md)
++ [Bibliography of Peer-Reviewed Application Papers Using CrysVUn / CrysVUn++](./applications-crysvun.md)
++ [Customers of CrysMAS Family](./users-crysmas.md)
+
 ---
 
 *Report prepared June 2026. All information is based on publicly available documentation, peer-reviewed literature, and official Fraunhofer IISB web resources.*
