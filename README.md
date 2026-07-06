@@ -38,6 +38,7 @@
 
 ## References
 + [Selected Books and Handbooks](./doc/refs-books.md)
++ [PhD Theses on Crystal Growth Modeling and Simulation](./doc/refs-phd-theses.md)
 
 ## PhD Theses on Crystal Growth Modeling and Simulation
 + [PhD Theses published after 2020](./doc/phd-theses-after-2020.md)
