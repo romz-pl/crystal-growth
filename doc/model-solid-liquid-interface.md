@@ -29,7 +29,7 @@ where:
 - $\kappa = \dfrac{1}{R_1} + \dfrac{1}{R_2}$ is the total (mean) curvature of the surface, with $R_1$, $R_2$ the two principal radii of curvature,
 - $\Delta p$ includes contributions from hydrostatic pressure ($\rho g z$), the pressure exerted by any encapsulant layer (in LEC), and, for magnetically stabilized growth, an effective magnetic pressure term.
 
-For axisymmetric configurations (CZ, LEC, Kyropoulos), the meniscus profile $r(z)$ (or $z(r)$) is obtained by solving the full nonlinear ODE for the axisymmetric capillary surface:
+For axisymmetric configurations (CZ, LEC, Kyropoulos), the meniscus profile $r(z)$ (or $z(r)$ ) is obtained by solving the full nonlinear ODE for the axisymmetric capillary surface:
 
 $$
 \gamma \left[ \frac{z''}{\left(1+z'^2\right)^{3/2}} + \frac{z'}{r\left(1+z'^2\right)^{1/2}} \right] = \rho g z - p_0 + \lambda
