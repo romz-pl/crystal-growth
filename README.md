@@ -30,7 +30,7 @@
 
 ## Numerical Modeling and Simulation
 
-+ [How can crystal growth be modelled numerically?](./doc/model-crystal-growth-how-to.md)
++ [How can crystal growth be modelled numerically](./doc/model-crystal-growth-how-to.md)
 
 
 
