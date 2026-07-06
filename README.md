@@ -16,8 +16,8 @@
 + [Vertical Bridgman (VB) Method](./doc/method-vertical-bridgman.md)
 + [Horizontal Bridgman (HB) Method](./doc/method-horizontal-bridgman.md)
 
-## Software
-+ [Software for Modeling the Crystal Growth Process](./doc/software-overview.md)
+## Software for Modeling the Crystal Growth Process
++ [Overview of Software for Modeling](./doc/software-overview.md)
 + [CGSim from the STR Group](./doc/cgsim-str.md)
 + [CrysMAS from Fraunhofer IISB (Germany)](./doc/crysmas-fraunhofer.md)
 + [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
