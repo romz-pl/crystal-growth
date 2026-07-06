@@ -47,7 +47,7 @@
 
 
 ## References
-+ [Selected Books and Handbooks](./doc/refs-books.md)
++ [Books and Handbooks](./doc/refs-books.md)
 + [PhD Theses on Crystal Growth Modeling and Simulation](./doc/refs-phd-theses.md)
 + [Numerical Models Software](./doc/refs-software.md)
 + [Journals for Publishing Crystal Growth Research](./doc/journals.md)
