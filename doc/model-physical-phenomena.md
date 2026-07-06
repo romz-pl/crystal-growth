@@ -250,7 +250,8 @@ Although the strict melt/solution transport problem ends at the growth interface
 
 ### 7.1 Thermoelastic Stress
 
-The non-uniform temperature field frozen into the growing/cooling crystal generates thermal stresses, computed from the thermoelasticity equations (equilibrium of stress $\nabla\cdot\boldsymbol{\sigma}=0$ with the constitutive relation $\boldsymbol{\sigma} = \mathbf{C}:(\boldsymbol{\varepsilon}-\boldsymbol{\varepsilon}_{\text{th}})$, where $\boldsymbol{\varepsilon}_{\text{th}}$ is the thermal strain and $\mathbf{C}$ the (possibly anisotropic, crystal-orientation-dependent) elastic stiffness tensor). This is fully three-dimensional even for an axisymmetric crystal unless a special crystallographic orientation coincides with the growth axis.
+The non-uniform temperature field frozen into the growing/cooling crystal generates thermal stresses, computed from the thermoelasticity equations (equilibrium of stress $\nabla \cdot \boldsymbol{\sigma} = 0$ with the constitutive relation 
+$\boldsymbol{\sigma} = \mathbf{C} : (\boldsymbol{\varepsilon} - \boldsymbol{\varepsilon}_ {\text{th}})$, where $\boldsymbol{\varepsilon}_{\text{th}}$ is the thermal strain and $\mathbf{C}$ the (possibly anisotropic, crystal-orientation-dependent) elastic stiffness tensor). This is fully three-dimensional even for an axisymmetric crystal unless a special crystallographic orientation coincides with the growth axis.
 
 ### 7.2 Chemical (Compositional) Stress
 
