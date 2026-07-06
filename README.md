@@ -33,7 +33,7 @@
 + [CGSim from the STR Group](./doc/cgsim-str.md)
 + [CrysMAS from Fraunhofer IISB (Germany)](./doc/crysmas-fraunhofer.md)
 + [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
-+ [Cats2D (https://cats2d.com/) by Andrew Yeckel](./doc/cats2d.md)
++ [Cats2D by Andrew Yeckel](./doc/cats2d.md)
 
 
 ## Leaders and Champions in Numerical Modeling
