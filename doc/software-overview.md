@@ -1,4 +1,4 @@
-# Software for Modeling the Czochralski Crystal Growth Process
+# Software for Modeling the Crystal Growth Process
 
 ## 1. Introduction and Scope
 
