@@ -34,6 +34,7 @@
 + [Continuum (Macroscopic) Model of Melt/Solution Crystal Growth](./doc/model-physical-phenomena.md)
 + [Melt/Crystal (Solid–Liquid) Interface](./doc/model-solid-liquid-interface.md)
 + [Free Melt Surface (Melt–Gas Meniscus)](./doc/model-free-melt-surface.md)
++ [Surface Tension Phenomena](./doc/model-surface-tension.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
