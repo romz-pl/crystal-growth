@@ -35,9 +35,11 @@ $$
 where $\boldsymbol{\tau} = \mu(\nabla\mathbf{u}+\nabla\mathbf{u}^T)$ for a Newtonian fluid, and $\mathbf{F}_{\text{body}}$ collects additional body forces (Lorentz force from applied magnetic fields, Coriolis/centrifugal terms in rotating frames).
 
 **Boussinesq approximation** is standard for buoyancy: density variation is retained only in the buoyancy term,
+
 $$
 \rho \approx \rho_0\left[1 - \beta_T(T-T_0) - \beta_C(C-C_0)\right]
 $$
+
 with $\beta_T$ the thermal expansion coefficient and $\beta_C$ the solutal expansion coefficient (important in solution growth and doped-melt growth).
 
 ### 2.3 Conservation of Energy
@@ -65,19 +67,25 @@ The distinguishing complexity of crystal-growth continuum modeling, relative to 
 ### 3.1 Melt/Crystal (Solid–Liquid) Interface
 
 - **Stefan condition (latent heat balance):** the interface releases (or absorbs) latent heat $L$ as it advances at normal velocity $v_n$:
+
 $$
 k_s\left.\frac{\partial T}{\partial n}\right|_s - k_l\left.\frac{\partial T}{\partial n}\right|_l = \rho_s L\, v_n
 $$
+
 - **Thermodynamic equilibrium / kinetic undercooling:** the interface temperature equals the local melting point corrected for curvature (Gibbs–Thomson effect) and attachment kinetics:
+
 $$
 T_{\text{int}} = T_m - \Gamma\kappa - \mu_k^{-1} v_n
 $$
+
 where $\Gamma$ is the Gibbs–Thomson coefficient, $\kappa$ the local interface curvature, and $\mu_k$ a kinetic growth coefficient (very large/fast for rough, atomically disordered interfaces; small and anisotropic for faceted interfaces).
 - **Faceting:** for materials with strongly anisotropic interfacial kinetics (oxides, many semiconductors at low supercooling), flat crystallographic facets appear and coexist with rounded, kinetically rough regions on the same interface. This is modeled either by strongly anisotropic kinetic coefficients or by explicit facet-tracking algorithms, and it directly affects local dopant segregation (facet vs. non-facet segregation coefficients differ).
 - **Solute rejection/incorporation:** at the interface, species conservation gives
+
 $$
 \rho_l D_l \left.\frac{\partial C_l}{\partial n}\right| = v_n\,(C_l - C_s) = v_n\, C_l(1-k_0)
 $$
+
 where $k_0$ is the equilibrium segregation coefficient.
 - **Interface shape** (planar, concave, convex, or "W"-shaped) results from the competition between radial and axial heat flow and is a key predicted/controlled quantity, since it governs dislocation generation, radial segregation, and facet size.
 
@@ -86,13 +94,17 @@ where $k_0$ is the equilibrium segregation coefficient.
 Relevant in CZ, KY, and FZ growth, where the meniscus shape must be solved as part of the free-boundary problem.
 
 - **Young–Laplace equation** (normal stress balance with surface tension):
+
 $$
 p_l - p_g = \sigma\kappa_{\text{surf}}
 $$
+
 - **Marangoni (thermocapillary) stress:** tangential stress balance driven by surface-tension gradients (with temperature and, in solutions, with concentration):
+
 $$
 \mu\frac{\partial u_t}{\partial n} = \frac{\partial \sigma}{\partial T}\nabla_t T + \frac{\partial \sigma}{\partial C}\nabla_t C
 $$
+
 - **Contact-angle (growth-angle) condition** at the triple line where melt, crystal, and gas meet fixes the crystal diameter in CZ growth: the meniscus makes a fixed growth angle with the crystal surface, determined by surface-tension balance and the material's characteristic growth angle.
 
 ### 3.3 Container/Crucible Walls and Other Solid–Liquid Boundaries
@@ -162,9 +174,11 @@ Radiation dominates heat exchange within the hot zone above roughly 1000–1200 
 
 - **Diffuse-gray (or non-gray, spectral) surface-to-surface radiation** in an enclosure: requires computing **view factors** between all visible surface elements, accounting for self-shadowing by non-convex bodies (e.g., the crystal shadowing part of the melt surface, or the crucible rim shadowing the melt).
 - **Net-radiation / radiosity method:** solves for the radiosity $J_i$ on each surface element $i$,
+
 $$
 J_i = \varepsilon_i \sigma_{SB} T_i^4 + (1-\varepsilon_i)\sum_j F_{ij} J_j
 $$
+
 with $\sigma_{SB}$ the Stefan–Boltzmann constant, $\varepsilon_i$ surface emissivity, and $F_{ij}$ the view factor between elements $i$ and $j$.
 - **Volume (participating-medium) radiation:** required when the melt or an encapsulant (e.g., B₂O₃ in LEC growth) is semi-transparent; radiative transport within the volume must then be solved (e.g., via the P1 approximation, discrete-ordinates method, or Monte Carlo ray tracing) rather than treated as an opaque surface.
 - **Semi-transparency of the crystal itself:** many oxide and some semiconductor crystals are partially transparent to the relevant thermal-radiation wavelengths, requiring internal radiative transport within the growing crystal, coupled back to the conduction equation as an internal heat source/sink.
@@ -201,9 +215,11 @@ Advection–diffusion transport of dopants, impurities, or (in solution growth) 
 
 - **Equilibrium segregation coefficient** $k_0 = C_s^*/C_l^*$ relates solid and liquid interfacial concentrations at equilibrium.
 - **Effective segregation coefficient** (Burton–Prim–Slichter, BPS): accounts for the diffusive/convective boundary layer of thickness $\delta$ at the growing interface,
+
 $$
 k_{\text{eff}} = \frac{k_0}{k_0 + (1-k_0)e^{-v\delta/D}}
 $$
+
 which depends on growth rate $v$, boundary-layer thickness (set by the local flow field), and diffusivity — providing the crucial link between the fluid-dynamics sub-model and the resulting axial and radial dopant distribution in the grown crystal.
 - **Radial segregation** results from radial non-uniformity of the boundary-layer thickness and interface shape, driven by the melt-flow pattern (rotation vs. buoyancy competition).
 - **Facet-related segregation:** facets typically exhibit a different (often much higher) effective segregation coefficient than adjoining rough interface regions, producing localized compositional anomalies ("facet striations" / core effects).
@@ -211,9 +227,11 @@ which depends on growth rate $v$, boundary-layer thickness (set by the local flo
 ### 6.3 Constitutional Supercooling and Morphological Interface Instability
 
 When solute rejection at an advancing interface creates a region ahead of the interface where the actual temperature falls below the local liquidus temperature (set by the local, solute-depleted composition), the planar interface becomes morphologically unstable, breaking down into cells or dendrites. The classical **constitutional-supercooling criterion**,
+
 $$
 \frac{G}{v} < \frac{m\,C_0(1-k_0)}{k_0 D}
 $$
+
 (with $G$ the liquid-side temperature gradient at the interface and $m$ the liquidus slope) is evaluated from the coupled thermal/solutal continuum solution to assess stability limits on growth rate and gradient.
 
 ### 6.4 Multi-Component and Solution-Specific Effects
