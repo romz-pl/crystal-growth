@@ -17,6 +17,9 @@
 + [Horizontal Bridgman (HB) Method](./doc/method-horizontal-bridgman.md)
 + [Vertical Gradient Freeze (VGF) Method](./doc/method-vertical-gradient-freeze.md)
 + [Float Zone (FZ) Method](./doc/method-float-zone.md)
++ [Zone Melting / Zone Refining (Pfann Method)](./doc/method-pfann.md)
+
+
 
 ## Software for Modeling the Crystal Growth Process
 + [Overview of Software for Modeling](./doc/software-overview.md)
