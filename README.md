@@ -35,7 +35,8 @@
 + [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
 + [Cats2D (https://cats2d.com/) by Andrew Yeckel](./doc/cats2d.md)
 
-## Books
+
+## References
 + [Selected Books and Handbooks](./doc/refs-books.md)
 
 ## PhD Theses on Crystal Growth Modeling and Simulation
