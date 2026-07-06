@@ -63,10 +63,10 @@ $$
 For solutions/melts with more than one component (doped crystals, alloys, solution growth such as LPE or flux growth), this generalizes to the **liquidus condition**:
 
 $$
-T_{\text{interface}} = T_{liq}(C_{L,\text{interface}})
+T_{\text{interface}} = T_{\text{liq}}(C_{L,\text{interface}})
 $$
 
-where $C_{L,\text{interface}}$ is the interfacial liquid-phase solute concentration and $T_{liq}$ is obtained from the phase diagram (linearized liquidus slope $m$ is commonly used: $T_{liq} = T_m + m \, C_L$).
+where $C_{L,\text{interface}}$ is the interfacial liquid-phase solute concentration and $T_{\text{liq}}$ is obtained from the phase diagram (linearized liquidus slope $m$ is commonly used: $T_{\text{liq}} = T_m + m \, C_L$).
 
 ### 3.2 Gibbs–Thomson (Curvature) Undercooling
 
