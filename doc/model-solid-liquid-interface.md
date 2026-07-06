@@ -30,8 +30,8 @@ This contrasts with **diffuse-interface (phase-field) models**, which resolve a 
 ### 2.2 Interface Parametrization
 
 The interface shape is represented as:
-- An unknown function \( z = f(r, t) \) in axisymmetric (r–z) coordinates for Czochralski (CZ), liquid-encapsulated Czochralski (LEC), Kyropoulos (KY)
-- An unknown function \( \Gamma(x, t) \) in 2D/3D Cartesian representations for Bridgman/vertical gradient freeze (VGF/VB) configurations
+- An unknown function $z = f(r, t)$ in axisymmetric (r–z) coordinates for Czochralski (CZ), liquid-encapsulated Czochralski (LEC), Kyropoulos (KY)
+- An unknown function $\Gamma(x, t)$ in 2D/3D Cartesian representations for Bridgman/vertical gradient freeze (VGF/VB) configurations
 - Represented numerically via:
   - **Boundary-fitted (deforming) mesh methods** — the mesh conforms to the interface and is re-generated/deformed at each iteration (dominant approach in CGSim, FEMAG-CZ)
   - **Front-tracking methods** — explicit marker points/elements track the interface within a fixed or adaptive mesh
@@ -56,27 +56,27 @@ This is the single most numerically demanding sub-problem in global CZ/Bridgman 
 
 The interface temperature is pinned to the (possibly pressure- and curvature-corrected) melting/liquidus temperature:
 
-\[
-T_{interface} = T_m
-\]
+$$
+T_{\text{interface}} = T_m
+$$
 
 For solutions/melts with more than one component (doped crystals, alloys, solution growth such as LPE or flux growth), this generalizes to the **liquidus condition**:
 
-\[
-T_{interface} = T_{liq}(C_{L,interface})
-\]
+$$
+T_{\text{interface}} = T_{liq}(C_{L,\text{interface}})
+$$
 
-where \(C_{L,interface}\) is the interfacial liquid-phase solute concentration and \(T_{liq}\) is obtained from the phase diagram (linearized liquidus slope \(m\) is commonly used: \(T_{liq} = T_m + m \, C_L\)).
+where $C_{L,interface}$ is the interfacial liquid-phase solute concentration and $T_{liq}$ is obtained from the phase diagram (linearized liquidus slope $m$ is commonly used: $T_{liq} = T_m + m \, C_L$).
 
 ### 3.2 Gibbs–Thomson (Curvature) Undercooling
 
 Interface curvature shifts the equilibrium melting temperature:
 
-\[
-T_{interface} = T_m - \Gamma_{GT}\, \kappa
-\]
+$$
+T_{\text{interface}} = T_m - \Gamma_{GT}\, \kappa
+$$
 
-where \(\Gamma_{GT}\) is the Gibbs–Thomson coefficient (proportional to solid–liquid surface energy divided by latent heat per unit volume) and \(\kappa\) is the local interface curvature (sum of principal curvatures in 3D). This effect is:
+where $\Gamma_{GT}$ is the Gibbs–Thomson coefficient (proportional to solid–liquid surface energy divided by latent heat per unit volume) and $\kappa$ is the local interface curvature (sum of principal curvatures in 3D). This effect is:
 - Significant for facet edges, dendrite tips, and small-radius interface regions
 - Generally small for macroscopic bulk-growth interfaces except at the triple line (crystal–melt–gas contact) and where interface curvature is locally sharp
 - Often neglected in first-order global thermal models but retained in higher-fidelity or shape-stability analyses
@@ -85,32 +85,32 @@ where \(\Gamma_{GT}\) is the Gibbs–Thomson coefficient (proportional to solid�
 
 For finite attachment kinetics, the actual interface temperature departs from equilibrium by an amount proportional to growth velocity:
 
-\[
-T_{interface} = T_m - \frac{v_n}{\mu_k}
-\]
+$$
+T_{\text{interface}} = T_m - \frac{v_n}{\mu_k}
+$$
 
-where \(v_n\) is the normal growth velocity and \(\mu_k\) is the kinetic growth coefficient. This is:
+where $v_n$ is the normal growth velocity and $\mu_k$ is the kinetic growth coefficient. This is:
 - Negligible for most metals and many oxide/semiconductor melt growth systems (fast atomic attachment, effectively isothermal interface)
 - **Not negligible** for faceted growth (e.g., some oxides, semiconductors growing on singular low-index facets, and many solution-growth systems) where anisotropic, orientation-dependent kinetic coefficients control facet formation and step-flow growth
-- Modeled via anisotropic kinetic laws \(\mu_k(\theta)\) dependent on crystallographic orientation relative to the interface normal
+- Modeled via anisotropic kinetic laws $\mu_k(\theta)$ dependent on crystallographic orientation relative to the interface normal
 
 ### 3.4 Stefan (Latent Heat) Energy Balance
 
 The core interface condition is the jump in normal heat flux balancing latent heat release/absorption:
 
-\[
+$$
 k_S \left(\frac{\partial T}{\partial n}\right)_S - k_L \left(\frac{\partial T}{\partial n}\right)_L = \rho_S \, L \, v_n
-\]
+$$
 
 where:
-- \(k_S, k_L\) — thermal conductivities of solid and liquid (often strongly temperature- and, for semi-transparent crystals, radiation-dependent)
-- \(L\) — latent heat of fusion
-- \(\rho_S\) — solid density
-- \(v_n\) — normal interface velocity (positive for growth)
+- $k_S, k_L$ — thermal conductivities of solid and liquid (often strongly temperature- and, for semi-transparent crystals, radiation-dependent)
+- $L$ — latent heat of fusion
+- $\rho_S$ — solid density
+- $v_n$ — normal interface velocity (positive for growth)
 
 This single equation is what actually **determines the interface shape**: at each point, the imbalance between conductive heat extraction (through the crystal, typically) and heat supplied from the melt fixes the local growth rate, and the requirement of a consistent, continuous interface shape over the whole domain closes the problem.
 
-Physically relevant contributions to \(k_S(\partial T/\partial n)_S\) and \(k_L(\partial T/\partial n)_L\):
+Physically relevant contributions to $k_S(\partial T/\partial n)_S$ and $k_L(\partial T/\partial n)_L$:
 - Pure conduction in opaque crystals/melts
 - **Radiative conduction contribution** in semi-transparent crystals (oxides such as sapphire, YAG, and many optical/laser crystals) — treated via a Rosseland diffusion approximation or discrete-ordinates radiative transfer that augments the effective thermal conductivity near and within the crystal
 - Convective heat delivery in the melt via buoyancy, forced (crucible/crystal rotation), Marangoni, and (for larger systems) turbulent transport — see Section 5
@@ -125,22 +125,22 @@ Relevant for doped crystals (e.g., CZ silicon with dopants, oxide crystals with 
 
 At the moving interface, solute rejected or absorbed during solidification must balance diffusive/convective flux in the liquid:
 
-\[
+$$
 D_L \left(\frac{\partial C_L}{\partial n}\right)_{interface} = v_n \, (C_L - C_S)_{interface} = v_n\, C_L (1 - k_{eff})
-\]
+$$
 
-where \(D_L\) is the liquid-phase solute diffusivity, \(C_L, C_S\) are interfacial liquid and solid concentrations, and \(k_{eff}\) is the effective segregation coefficient.
+where $D_L$ is the liquid-phase solute diffusivity, $C_L, C_S$ are interfacial liquid and solid concentrations, and $k_{eff}$ is the effective segregation coefficient.
 
 ### 4.2 Segregation Coefficient
 
-- **Equilibrium segregation coefficient** \(k_0 = C_S/C_L\) from the phase diagram
+- **Equilibrium segregation coefficient** $k_0 = C_S/C_L$ from the phase diagram
 - **Effective (Burton–Prim–Slichter, BPS) segregation coefficient**:
 
-\[
+$$
 k_{eff} = \frac{k_0}{k_0 + (1-k_0)\exp(-v_n \delta / D_L)}
-\]
+$$
 
-where \(\delta\) is the solute boundary-layer thickness, itself a function of melt convection strength (rotation rate, buoyancy). This couples segregation directly to the fluid-dynamic solution — a key reason global CZ models solve fluid flow even when only average axial dopant profiles are of interest.
+where $\delta$ is the solute boundary-layer thickness, itself a function of melt convection strength (rotation rate, buoyancy). This couples segregation directly to the fluid-dynamic solution — a key reason global CZ models solve fluid flow even when only average axial dopant profiles are of interest.
 
 ### 4.3 Constitutional Supercooling and Morphological Stability
 
@@ -173,11 +173,11 @@ For larger melt volumes (industrial-diameter CZ, VB furnaces), the melt flow can
 - **No-slip** tangential velocity condition on the liquid side (melt does not slip relative to the moving/rotating solid surface)
 - **Kinematic condition**: normal liquid velocity relative to the moving interface accounts for the density change upon solidification:
 
-\[
+$$
 \rho_L (v_{L,n} - v_{int,n}) = \rho_S (v_{S,n} - v_{int,n})
-\]
+$$
 
-commonly simplified to a normal mass-conservation jump when \(\rho_S \neq \rho_L\) (important for materials with significant solidification shrinkage/expansion, e.g., water/ice, silicon, germanium)
+commonly simplified to a normal mass-conservation jump when $\rho_S \neq \rho_L$ (important for materials with significant solidification shrinkage/expansion, e.g., water/ice, silicon, germanium)
 
 ---
 
@@ -191,7 +191,7 @@ The macroscopic interface shape (in axisymmetric growth) is classified by its de
 - **Inflected/S-shaped** (can arise from competing radial heat flux contributions, e.g., strong sidewall heating combined with central seed cooling)
 
 Interface shape is a primary design/process target because it directly governs:
-- **Dopant/impurity radial distribution** (curved interfaces produce radially varying local growth angle relative to isotherms, altering local \(v_n\) and hence local \(k_{eff}\))
+- **Dopant/impurity radial distribution** (curved interfaces produce radially varying local growth angle relative to isotherms, altering local $v_n$ and hence local $k_{eff}$)
 - **Thermal stress and dislocation generation** in the growing crystal (interface curvature couples to von Mises stress fields near the interface)
 - **Facet formation** (locally flat, low-index crystallographic regions can appear at interface regions aligned with low-index planes, particularly pronounced for oxide crystals)
 
@@ -225,7 +225,7 @@ The interface's radial extent (crystal diameter) is linked to global mass conser
 The interface's energy balance (Section 3.4) depends on heat delivered/extracted well beyond the melt itself:
 
 ### 8.1 Conduction Through the Growing Crystal
-Axial and radial conduction through the crystal (with temperature-dependent thermal conductivity, and radiative augmentation for semi-transparent crystals) sets \((\partial T/\partial n)_S\).
+Axial and radial conduction through the crystal (with temperature-dependent thermal conductivity, and radiative augmentation for semi-transparent crystals) sets $(\partial T/\partial n)_S$.
 
 ### 8.2 Radiative Heat Exchange
 - Surface-to-surface radiative exchange between crystal, melt free surface, crucible, heaters, and insulation (view-factor-based or ray-tracing/Monte Carlo radiative solvers)
@@ -241,13 +241,13 @@ As the melt is progressively consumed, the melt volume and its free-surface elev
 
 ## 9. Facsimile of the Full Interface Boundary-Condition Set
 
-At every point of the (unknown) interface \(\Gamma\), the continuum model simultaneously enforces:
+At every point of the (unknown) interface $\Gamma$, the continuum model simultaneously enforces:
 
 | # | Condition | Physical meaning |
 |---|---|---|
-| 1 | \(T = T_m - \Gamma_{GT}\kappa - v_n/\mu_k(\theta)\) (or liquidus form with \(C_L\)) | Local phase equilibrium ± curvature/kinetic corrections |
-| 2 | \(k_S \partial_n T_S - k_L \partial_n T_L = \rho_S L v_n\) | Stefan energy balance → determines \(v_n\), hence shape evolution |
-| 3 | \(D_L \partial_n C_L = v_n C_L(1-k_{eff})\) | Solute rejection/incorporation balance |
+| 1 | $T = T_m - \Gamma_{GT}\kappa - v_n/\mu_k(\theta)$ (or liquidus form with $C_L$) | Local phase equilibrium ± curvature/kinetic corrections |
+| 2 | $k_S \partial_n T_S - k_L \partial_n T_L = \rho_S L v_n$ | Stefan energy balance → determines $v_n$, hence shape evolution |
+| 3 | $D_L \partial_n C_L = v_n C_L(1-k_{eff})$ | Solute rejection/incorporation balance |
 | 4 | No-slip + kinematic mass-jump velocity condition | Momentum coupling, shrinkage/expansion accommodation |
 | 5 | Triple-point growth-angle condition | Fixes crystal radius / links to meniscus shape |
 | 6 | Global mass balance (pulling rate, melt-level drop) | Closes the kinematic/geometric system |
@@ -273,13 +273,3 @@ These are solved **simultaneously and iteratively** with the bulk melt (Navier�
 - Global mass balance (pulling rate, melt-level descent) and diameter control
 - Coupling to furnace-scale radiative, conductive, and electromagnetic (induction) heat transfer
 - Quasi-steady vs. fully transient treatment depending on growth technique (CZ/KY vs. Bridgman/VGF/VB)
-
----
-
-> [!NOTE]
-> 
-> Generated by Claude.ai
->
-> Model: Sonet 5
->
-> Prompt: Provide an exhaustive description of the Melt/Crystal (Solid–Liquid) Interface in the  Continuum (Macroscopic) Model of Melt/Solution Growth. Provide description of all physical relevant phenomena. Show the output in Markdown format. Do not copy the output of the exported files into the chat.
