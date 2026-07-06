@@ -31,6 +31,7 @@
 ## Numerical Modeling and Simulation
 
 + [How can crystal growth be modelled numerically](./doc/model-crystal-growth-how-to.md)
++ [Numerical Continuum (Macroscopic) Models](./doc/model-continuum.md)
 
 
 
