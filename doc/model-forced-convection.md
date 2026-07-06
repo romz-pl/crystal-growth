@@ -250,7 +250,7 @@ Both energy and species equations are advected by the same velocity field $\math
 - **Steady axisymmetric flow**: at low-to-moderate $Re_\omega$ and $Gr$, flow remains laminar, steady, and axisymmetric — the regime assumed by most 2D axisymmetric macroscopic growth simulators.
 - **Taylor–Görtler and spiral vortex instabilities**: at sufficiently high $Re_\omega$, the rotating boundary layer over the crystal or crucible can become unstable to spiral vortices, breaking axisymmetry.
 - **Baroclinic/buoyant-rotational oscillatory instabilities**: in the mixed-convection regime ( $Gr/Re_\omega^2 \sim O(1)$ ), time-periodic or quasi-periodic flow oscillations arise from the competition between Coriolis and buoyancy forces, a well-documented source of dopant **striations** in as-grown crystals.
-- **Three-dimensional turbulence**: at industrially large melt volumes (e.g., large-diameter Czochralski silicon growth), $Re_\omega$ and $Gr$ can both be large enough that the melt flow is genuinely turbulent, requiring turbulence closure models (e.g., RANS with $k$–$\varepsilon$ or Reynolds-stress models, or, less commonly in production codes, large-eddy simulation) superimposed on the rotating-boundary-condition framework described above.
+- **Three-dimensional turbulence**: at industrially large melt volumes (e.g., large-diameter Czochralski silicon growth), $Re_\omega$ and $Gr$ can both be large enough that the melt flow is genuinely turbulent, requiring turbulence closure models (e.g., RANS with $k - \varepsilon$ or Reynolds-stress models, or, less commonly in production codes, large-eddy simulation) superimposed on the rotating-boundary-condition framework described above.
 
 ## 8. Summary of Key Non-Dimensional Control Parameters
 
