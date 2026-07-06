@@ -1,4 +1,4 @@
-# The Melt/Crystal (Solid–Liquid) Interface in Continuum Models of Melt/Solution Growth
+# Melt/Crystal (Solid–Liquid) Interface
 
 ## 1. Scope and Modeling Philosophy
 
