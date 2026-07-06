@@ -150,7 +150,7 @@ Industrial-scale melt flows (especially Si, oxide, and metal melts at large diam
 
 - **Direct Numerical Simulation (DNS):** fully resolves all turbulent scales; computationally prohibitive for industrial geometries and long process times.
 - **Large-Eddy Simulation (LES):** resolves large scales, models sub-grid scales; used for research-scale/laboratory analysis of oscillatory convection and temperature fluctuations.
-- **Reynolds-Averaged Navier–Stokes (RANS)** with two-equation closure (e.g., low-Reynolds-number $k$–$\varepsilon$ models such as Chien's model, or $k$–$\omega$ models): the standard workhorse for steady/quasi-steady industrial global models due to tractable cost.
+- **Reynolds-Averaged Navier–Stokes (RANS)** with two-equation closure (e.g., low-Reynolds-number $k – \varepsilon$ models such as Chien's model, or $k – \omega$ models): the standard workhorse for steady/quasi-steady industrial global models due to tractable cost.
 - **Partially-Averaged Navier–Stokes (PANS)**: a hybrid RANS/DNS approach with a tunable filter parameter, allowing variable resolution between full RANS and near-DNS.
 - **Unsteady RANS (URANS)** and **combined 2D-axisymmetric/3D approaches**: since fully transient 3D turbulence-resolving simulation of an entire industrial process (hours of real growth time) is generally not economically justified, practice commonly combines an axisymmetric global heat-transfer model (for the whole furnace) with localized 3D transient melt-flow simulations using boundary conditions extracted from the global model.
 
