@@ -72,21 +72,21 @@ $$
 k_s\left.\frac{\partial T}{\partial n}\right|_s - k_l\left.\frac{\partial T}{\partial n}\right|_l = \rho_s L\, v_n
 $$
 
-- **Thermodynamic equilibrium / kinetic undercooling:** the interface temperature equals the local melting point corrected for curvature (Gibbs–Thomson effect) and attachment kinetics:
+- **Thermodynamic equilibrium / kinetic undercooling:** the interface temperature equals the local melting point corrected for curvature (Gibbs–Thomson effect) and attachment kinetics, where $\Gamma$ is the Gibbs–Thomson coefficient, $\kappa$ the local interface curvature, and $\mu_k$ a kinetic growth coefficient (very large/fast for rough, atomically disordered interfaces; small and anisotropic for faceted interfaces):
 
 $$
 T_{\text{int}} = T_m - \Gamma\kappa - \mu_k^{-1} v_n
 $$
 
-where $\Gamma$ is the Gibbs–Thomson coefficient, $\kappa$ the local interface curvature, and $\mu_k$ a kinetic growth coefficient (very large/fast for rough, atomically disordered interfaces; small and anisotropic for faceted interfaces).
+
 - **Faceting:** for materials with strongly anisotropic interfacial kinetics (oxides, many semiconductors at low supercooling), flat crystallographic facets appear and coexist with rounded, kinetically rough regions on the same interface. This is modeled either by strongly anisotropic kinetic coefficients or by explicit facet-tracking algorithms, and it directly affects local dopant segregation (facet vs. non-facet segregation coefficients differ).
-- **Solute rejection/incorporation:** at the interface, species conservation gives
+- **Solute rejection/incorporation:** at the interface, species conservation gives, where $k_0$ is the equilibrium segregation coefficient:
 
 $$
 \rho_l D_l \left.\frac{\partial C_l}{\partial n}\right| = v_n\,(C_l - C_s) = v_n\, C_l(1-k_0)
 $$
 
-where $k_0$ is the equilibrium segregation coefficient.
+
 - **Interface shape** (planar, concave, convex, or "W"-shaped) results from the competition between radial and axial heat flow and is a key predicted/controlled quantity, since it governs dislocation generation, radial segregation, and facet size.
 
 ### 3.2 Free Melt Surface (Melt–Gas Meniscus)
