@@ -33,6 +33,7 @@
 + [How can crystal growth be modelled numerically](./doc/model-crystal-growth-how-to.md)
 + [Continuum (Macroscopic) Model of Melt/Solution Crystal Growth](./doc/model-physical-phenomena.md)
 + [Melt/Crystal (Solid–Liquid) Interface](./doc/model-solid-liquid-interface.md)
++ [Free Melt Surface (Melt–Gas Meniscus)](./doc/model-free-melt-surface.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
