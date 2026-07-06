@@ -36,6 +36,7 @@
 + [Free Melt Surface (Melt–Gas Meniscus)](./doc/model-free-melt-surface.md)
 + [Surface Tension Phenomena](./doc/model-surface-tension.md)
 + [Forced Convection from Crystal and Crucible Rotation](./doc/model-forced-convection.md)
++ [Radiative Heat Transfer](./doc/model-radiative-heat-transfer.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
