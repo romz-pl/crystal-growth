@@ -36,25 +36,7 @@
 + [Cats2D (https://cats2d.com/) by Andrew Yeckel](./doc/cats2d.md)
 
 
-## References
-+ [Selected Books and Handbooks](./doc/refs-books.md)
-+ [PhD Theses on Crystal Growth Modeling and Simulation](./doc/refs-phd-theses.md)
-+ [Numerical Models Software](./doc/refs-software.md)
-
-
-
-## References for Software Numerical Models
-+ [CrysVUn from Erlangen](./doc/reference-crysvun.md)
-+ [CrysMAS from Erlangen](./doc/reference-crysmas.md)
-+ [CGSim from the STR Group](./doc/reference-cgsim.md)
-+ [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./doc/reference-femag.md)
-
-
-## References for Software Applications
-+ [CrysVUn from Erlangen](./doc/applications-crysvun.md)
-+ [CGSim from the STR Group](./doc/applications-cgsim.md)
-
-## References by Leaders
+## Leaders and Champions in Numerical Modeling
 + [**Georg Müller**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-gmuller.md)
 + [**Jochen Friedrich**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-jfriedrich.md)
 + [**Jeffrey J. Derby**, Department of Chemical Engineering and Materials Science, University of Minnesota](./doc/bibliography-derby.md)
@@ -64,11 +46,10 @@
 + [**Aleks G. Ostrogorsky**, Mechanical & Aerospace Engineering Department, Illinois Institute of Technology](./doc/bibliography-aostrogorsky.md)
 
 
-## Customer List
-+ [CGSim from the STR Group](./doc/users-cgsim.md)
-+ [CrysMAS/STHAMAS/CrysVUn/CrysVUN++ from Fraunhofer IISB, Erlangen](./doc/users-crysmas.md)
-+ [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./doc/users-femagsoft.md)
-
-## Journals and Conferences
+## References
++ [Selected Books and Handbooks](./doc/refs-books.md)
++ [Leaders and Champions in Numerical Modeling](./doc/refs-leaders-modeling.md)
++ [PhD Theses on Crystal Growth Modeling and Simulation](./doc/refs-phd-theses.md)
++ [Numerical Models Software](./doc/refs-software.md)
 + [Journals for Publishing Crystal Growth Research](./doc/journals.md)
 + [International Conferences for Crystal Growth Research](./doc/conferences.md)
