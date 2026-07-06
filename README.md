@@ -23,6 +23,7 @@
 + [Micro-Pulling-Down (μ-PD) Method](./doc/method-micro-pulling-down.md)
 + [Laser-Heated Pedestal Growth (LHPG) Method](./doc/method-laser-heated-pedestal-growth.md)
 + [Skull Melting (Cold Crucible / Skull Crucible Method)](./doc/method-skull-melting.md)
++ [Heat Exchanger Method (HEM)](./doc/method-heat-exchanger.md)
 
 
 
