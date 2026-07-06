@@ -66,7 +66,7 @@ $$
 T_{\text{interface}} = T_{liq}(C_{L,\text{interface}})
 $$
 
-where $C_{L,interface}$ is the interfacial liquid-phase solute concentration and $T_{liq}$ is obtained from the phase diagram (linearized liquidus slope $m$ is commonly used: $T_{liq} = T_m + m \, C_L$).
+where $C_{L,\text{interface}}$ is the interfacial liquid-phase solute concentration and $T_{liq}$ is obtained from the phase diagram (linearized liquidus slope $m$ is commonly used: $T_{liq} = T_m + m \, C_L$).
 
 ### 3.2 Gibbs–Thomson (Curvature) Undercooling
 
@@ -126,7 +126,7 @@ Relevant for doped crystals (e.g., CZ silicon with dopants, oxide crystals with 
 At the moving interface, solute rejected or absorbed during solidification must balance diffusive/convective flux in the liquid:
 
 $$
-D_L \left(\frac{\partial C_L}{\partial n}\right)_{interface} = v_n \, (C_L - C_S)_{interface} = v_n\, C_L (1 - k_{eff})
+D_L \left(\frac{\partial C_L}{\partial n}\right)_ {\text{interface}} = v_n \, (C_L - C_S)_ {\text{interface}} = v_n\, C_L (1 - k_{eff})
 $$
 
 where $D_L$ is the liquid-phase solute diffusivity, $C_L, C_S$ are interfacial liquid and solid concentrations, and $k_{eff}$ is the effective segregation coefficient.
