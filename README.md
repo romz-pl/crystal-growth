@@ -31,8 +31,8 @@
 ## Numerical Modeling and Simulation
 
 + [How can crystal growth be modelled numerically](./doc/model-crystal-growth-how-to.md)
-+ [Models of Physical Phenomena](./doc/model-physical-phenomena.md)
-+ [History of Numerical Continuum Models of Melt/Solution Growth](./doc/model-continuum.md)
++ [Continuum (Macroscopic) Model of Melt/Solution Crystal Growth](./doc/model-physical-phenomena.md)
++ [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
 
