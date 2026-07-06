@@ -604,12 +604,7 @@ Against a backdrop of strong demand for high-quality substrates in power electro
 - US Patent 9,822,468 (SiC single crystal production; CGSim STR Japan Ver. 14.1 cited for ΔT simulation in TSSG)
 - US Patent 10,094,044 (SiC single crystal, solution growth; CGSim STR Japan Ver. 14.1)
 
----
 
-## Further Reading
-+ [Peer-Reviewed Journal Articles on CrysVUn / CrysVUN++](./reference-crysvun.md)
-+ [Bibliography of Peer-Reviewed Application Papers Using CrysVUn / CrysVUn++](./applications-crysvun.md)
-+ [Customers of CrysMAS Family](./users-crysmas.md)
 
 ---
 
