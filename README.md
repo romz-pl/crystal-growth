@@ -20,6 +20,7 @@
 + [Zone Melting / Zone Refining (Pfann Method)](./doc/method-pfann.md)
 + [Verneuil (Flame-Fusion) Method](./doc/method-verneuil.md)
 + [Edge-Defined Film-Fed Growth (EFG) Method](./doc/method-edge-defined-film-fed.md)
++ [Micro-Pulling-Down (μ-PD) Method](./doc/method-micro-pulling-down.md)
 
 
 
