@@ -605,6 +605,11 @@ Against a backdrop of strong demand for high-quality substrates in power electro
 - US Patent 10,094,044 (SiC single crystal, solution growth; CGSim STR Japan Ver. 14.1)
 
 
+## Further Reading
+
++ [Peer-Reviewed Journal Articles Describing/Applying the CGSim Program (STR Group / Soft-Impact Ltd.)](./reference-cgsim.md)
++ [Bibliography of Peer-Reviewed Application Papers Using CGSim (STR Group)](./applications-cgsim.md)
++ [STR Group customer list](./users-cgsim.md)
 
 ---
 
