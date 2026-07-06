@@ -214,13 +214,13 @@ Advection–diffusion transport of dopants, impurities, or (in solution growth) 
 ### 6.2 Segregation at the Growth Interface
 
 - **Equilibrium segregation coefficient** $k_0 = C_s^* / C_l^*$ relates solid and liquid interfacial concentrations at equilibrium.
-- **Effective segregation coefficient** (Burton–Prim–Slichter, BPS): accounts for the diffusive/convective boundary layer of thickness $\delta$ at the growing interface,
+- **Effective segregation coefficient** (Burton–Prim–Slichter, BPS): accounts for the diffusive/convective boundary layer of thickness $\delta$ at the growing interface, which depends on growth rate $v$, boundary-layer thickness (set by the local flow field), and diffusivity — providing the crucial link between the fluid-dynamics sub-model and the resulting axial and radial dopant distribution in the grown crystal:
 
 $$
 k_{\text{eff}} = \frac{k_0}{k_0 + (1-k_0)e^{-v\delta/D}}
 $$
 
-which depends on growth rate $v$, boundary-layer thickness (set by the local flow field), and diffusivity — providing the crucial link between the fluid-dynamics sub-model and the resulting axial and radial dopant distribution in the grown crystal.
+
 - **Radial segregation** results from radial non-uniformity of the boundary-layer thickness and interface shape, driven by the melt-flow pattern (rotation vs. buoyancy competition).
 - **Facet-related segregation:** facets typically exhibit a different (often much higher) effective segregation coefficient than adjoining rough interface regions, producing localized compositional anomalies ("facet striations" / core effects).
 
