@@ -28,6 +28,12 @@
 
 
 
+## Numerical Modeling and Simulation
+
++ [How can crystal growth be modelled numerically?](./doc/model-crystal-growth-how-to.md)
+
+
+
 ## Software for Modeling the Crystal Growth Process
 + [Overview of Software for Modeling](./doc/software-overview.md)
 + [**CGSim** from the STR Group](./doc/cgsim-str.md)
