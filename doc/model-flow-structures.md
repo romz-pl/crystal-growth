@@ -268,15 +268,19 @@ For your report, I recommend citing papers from the highest-impact journals in f
 
 ### 9.1 Symmetry, Stability, and Bifurcation Theory
 
-1. Taylor, G. I. (1923). *Stability of a Viscous Liquid Contained Between Two Rotating Cylinders*. [Philosophical Transactions of the Royal Society A, **223**, 289–343](https://doi.org/10.1098/rsta.1923.0008)
+6. Andereck, C. D., Liu, S. S., & Swinney, H. L. (1986). *Flow Regimes in a Circular Couette System with Independently Rotating Cylinders*. [Journal of Fluid Mechanics, **164**, 155–183](https://doi.org/10.1017/S0022112086002513)
 
-2. Gollub, J. P., & Swinney, H. L. (1975). *Onset of Turbulence in a Rotating Fluid*. [Physical Review Letters, **35**, 927–930](https://doi.org/10.1103/PhysRevLett.35.927)
+7. Marcus, P. S. (1984). *Simulation of Taylor–Couette Flow. Part 2. Numerical Results for Wavy-Vortex Flow with One Travelling Wave*. [Journal of Fluid Mechanics, **146**, 65–113](https://doi.org/10.1017/S0022112084001774)
 
-3. Golubitsky, M., & Stewart, I. (1985). *Hopf Bifurcation in the Presence of Symmetry*. [Archive for Rational Mechanics and Analysis, **87**, 107–165](https://doi.org/10.1007/BF00280698)
+8. Jones, C. A. (1985). *The Transition to Wavy Taylor Vortices*. [Journal of Fluid Mechanics, **157**, 135–162](https://doi.org/10.1017/S0022112085002336)
 
-4. Golubitsky, M., & Stewart, I. (1986). *Symmetry and Stability in Taylor–Couette Flow*. [SIAM Journal on Mathematical Analysis, **17**, 249–288](https://doi.org/10.1137/0517023)
+9. Davey, A., DiPrima, R. C., & Stuart, J. T. (1968). *On the Instability of Taylor Vortices*. [Journal of Fluid Mechanics, **31**, 17–52](https://doi.org/10.1017/S0022112068000022)
 
-5. Chossat, P., & Iooss, G. (1985). *Primary and Secondary Bifurcations in the Couette–Taylor Problem*. [Japan Journal of Applied Mathematics, **2**, 37–68](https://doi.org/10.1007/BF03167038)
+10. Heise, M., Hoffmann, C., Will, C., Altmeyer, S., Gohlke, C., & Pfister, G. (2013). *Co-rotating Taylor–Couette Flow Enclosed by Stationary Disks*. [Journal of Fluid Mechanics, **716**, R4](https://doi.org/10.1017/jfm.2012.530)
+
+11. Grossmann, S., Lohse, D., & Sun, C. (2016). *High–Reynolds Number Taylor–Couette Turbulence*. [Annual Review of Fluid Mechanics, **48**, 53–80](https://doi.org/10.1146/annurev-fluid-122414-034353)
+
+12. Lueptow, R. M., Hollerbach, R., & Serre, E. (Eds.). (2023). *Taylor–Couette and Related Flows on the Centennial of Taylor's Seminal Paper*. [Philosophical Transactions of the Royal Society A, **381** (Theme Issue)](https://doi.org/10.1098/rsta.2022.0140)
 
 
 ### 9.2 Taylor–Couette Flow and Wavy Vortices
