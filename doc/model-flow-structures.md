@@ -390,410 +390,117 @@ These provide broad context and are excellent sources for introductions and lite
 ## 10. References: books 
 
 
-For a comprehensive report on **Non-Axisymmetric Flow Structures in Axisymmetric Geometries**, the literature naturally spans several disciplines:
+### 10.1 Hydrodynamic Stability and Instability
 
-* Hydrodynamic stability
-* Rotating fluid mechanics
-* Thermal convection
-* Crystal growth
-* Pattern formation and bifurcation
-* Nonlinear dynamics
-* Computational fluid dynamics
-* Turbulence
-* Numerical methods
+1. P. G. Drazin and W. H. Reid, *Hydrodynamic Stability*, **2004** (10.1017/CBO9780511616938)
 
-The following **30 books** are among the most authoritative references used by researchers in these areas.
+2. S. Chandrasekhar, *Hydrodynamic and Hydromagnetic Stability*, **1961** (No DOI assigned)
 
----
+3. Paul Manneville, *Instabilities, Chaos and Turbulence*, **2010** (10.1142/p739)
 
-# I. Hydrodynamic Stability (Essential)
+4. Peter J. Schmid and Dan S. Henningson, *Stability and Transition in Shear Flows*, **2001** (10.1007/978-1-4615-1757-4)
 
-### 1.
+5. Richard Bellman, *The Theory of Hydrodynamic Stability*, **1953** (No DOI assigned)
 
-Hydrodynamic Stability
 
-**P. G. Drazin & W. H. Reid**
 
-Cambridge University Press (2nd Edition)
+### 10.2 Rotating Fluids and Vortex Dynamics
 
-*The standard graduate text on linear stability theory.*
+6. Peter R. N. Childs, *Rotating Flow*, **2010** (10.1016/B978-0-08-096299-2.00001-7)
 
----
+7. Joseph Pedlosky, *Geophysical Fluid Dynamics*, **1987** (10.1007/978-1-4612-4650-7)
 
-### 2.
+8. Adrian E. Gill, *Atmosphere–Ocean Dynamics*, **1982** (No DOI assigned)
 
-Hydrodynamic and Hydromagnetic Stability
+9. James Lighthill, *Waves in Fluids*, **1978** (10.1017/CBO9780511624124)
 
-**S. Chandrasekhar**
+10. P. G. Saffman, *Vortex Dynamics*, **1992** (10.1017/CBO9780511624063)
 
-Oxford University Press
 
-*The classic reference on Taylor–Couette flow, rotating fluids, Rayleigh–Bénard convection, and magnetohydrodynamics.*
 
----
+### 10.3 Thermal Convection and Buoyancy-Driven Instabilities
 
-### 3.
+11. Marcello Lappa, *Thermal Convection: Patterns, Evolution and Stability*, **2009** (10.1002/9780470744052)
 
-Instabilities, Chaos and Turbulence
+12. Donald A. Nield and Adrian Bejan, *Convection in Porous Media*, **2017** (10.1007/978-3-319-49562-0)
 
-**Paul Manneville**
+13. Louis C. Burmeister, *Convective Heat Transfer*, **1993** (No DOI assigned)
 
-Imperial College Press
+14. Y. Jaluria, *Natural Convection Heat and Mass Transfer*, **1980** (No DOI assigned)
 
-*Covers nonlinear instability, bifurcation, and transition to turbulence.*
 
----
 
-### 4.
+### 10.4 Crystal Growth and Czochralski Flow
 
-Stability and Transition in Shear Flows
+15. Peter Rudolph (Ed.), *The Czochralski Method: Growth and Properties of Silicon Crystals*, **2014** (10.1007/978-3-642-10457-7)
 
-**Peter J. Schmid & Dan S. Henningson**
+16. D. T. J. Hurle (Ed.), *Handbook of Crystal Growth*, **1993** (10.1016/B978-0-444-88977-9.X5000-5)
 
-Springer
+17. Ivan V. Markov, *Crystal Growth for Beginners: Fundamentals of Nucleation, Crystal Growth and Epitaxy*, **2003** (10.1142/5050)
 
-*Modern treatment of linear and non-modal stability analysis.*
+18. D. T. J. Hurle (Ed.), *Bulk Crystal Growth*, **1994** (10.1016/B978-0-444-88977-9.X5000-5)
 
----
 
-### 5.
 
-The Theory of Hydrodynamic Stability
+### 10.5 Pattern Formation and Symmetry Breaking
 
-**Richard Bellman**
+19. Rebecca Hoyle, *Pattern Formation: An Introduction to Methods*, **2006** (10.1017/CBO9780511607448)
 
-Dover Publications
+20. Michael C. Cross and Henry Greenside, *Pattern Formation and Dynamics in Nonequilibrium Systems*, **2009** (10.1017/CBO9780511627200)
 
-*A concise mathematical introduction to classical stability theory.*
+21. Gregoire Nicolis and Ilya Prigogine, *Self-Organization in Nonequilibrium Systems*, **1977** (No DOI assigned)
 
----
 
-# II. Rotating Fluid Mechanics
 
-### 6.
+### 10.6 Nonlinear Dynamics and Bifurcation Theory
 
-Rotating Flow
+22. Steven H. Strogatz, *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*, **2015** (10.1201/9780429492563)
 
-**Peter R. N. Childs**
+23. Stephen Wiggins, *Introduction to Applied Nonlinear Dynamical Systems and Chaos*, **2003** (10.1007/b97481)
 
-Butterworth-Heinemann
+24. Morris W. Hirsch, Stephen Smale, and Robert L. Devaney, *Differential Equations, Dynamical Systems, and an Introduction to Chaos*, **2013** (10.1016/C2010-0-65510-0)
 
-*Engineering treatment of rotating flows, Ekman layers, and rotating machinery.*
+25. Yuri A. Kuznetsov, *Elements of Applied Bifurcation Theory*, **2004** (10.1007/978-1-4757-3979-7)
 
----
 
-### 7.
 
-Geophysical Fluid Dynamics
+### 10.7 Fluid Mechanics Fundamentals
 
-**Joseph Pedlosky**
+26. L. D. Landau and E. M. Lifshitz, *Fluid Mechanics*, **1987** (10.1016/B978-0-08-033933-7.50001-6)
 
-Springer
+27. Pijush K. Kundu, Ira M. Cohen, and David R. Dowling, *Fluid Mechanics*, **2015** (10.1016/C2012-0-00642-4)
 
-*Authoritative reference on rotating fluids, Rossby waves, and baroclinic instability.*
+28. Frank M. White, *Viscous Fluid Flow*, **2006** (No DOI assigned)
 
----
 
-### 8.
 
-Atmosphere–Ocean Dynamics
+### 10.8 Computational Fluid Dynamics
 
-**Adrian E. Gill**
+29. Joel H. Ferziger, Milovan Perić, and Robert L. Street, *Computational Methods for Fluid Dynamics*, **2020** (10.1007/978-3-319-99693-6)
 
-Academic Press
+30. John D. Anderson Jr., *Computational Fluid Dynamics: The Basics with Applications*, **1995** (No DOI assigned) ([SCIRP][1])
 
-*Excellent discussion of rotating stratified flows.*
 
----
 
-### 9.
+### 10.9 Most relevant subset for your specific report
 
-Waves in Fluids
+For **non-axisymmetric structures in axisymmetric geometries**, the highest priority citations would be:
 
-**James Lighthill**
+1. Drazin & Reid — *Hydrodynamic Stability*
+2. Chandrasekhar — *Hydrodynamic and Hydromagnetic Stability*
+3. Lappa — *Thermal Convection: Patterns, Evolution and Stability*
+4. Cross & Greenside — *Pattern Formation and Dynamics in Nonequilibrium Systems*
+5. Kuznetsov — *Elements of Applied Bifurcation Theory*
+6. Saffman — *Vortex Dynamics*
+7. Rudolph (Ed.) — *The Czochralski Method*
+8. Schmid & Henningson — *Stability and Transition in Shear Flows*
+9. Ferziger, Perić & Street — *Computational Methods for Fluid Dynamics*
+10. Anderson — *Computational Fluid Dynamics: The Basics with Applications*
 
-Cambridge University Press
+These ten most directly support the report’s sections on **SO(2)/O(2) symmetry breaking, azimuthal Fourier modes, rotating waves, Taylor–Couette instability, thermocapillary convection, Czochralski melt flow, nonlinear bifurcation, and numerical simulation**.
 
-*Essential reference on inertial waves and rotating-fluid wave dynamics.*
+[1]: https://www.scirp.org/reference/referencespapers?referenceid=4225304&utm_source=chatgpt.com "Anderson, J.D. (1995) Computational Fluid Dynamics The Basics with Applications. McGraw-Hill. - References - Scientific Research Publishing"
 
----
-
-### 10.
-
-Vortex Dynamics
-
-**P. G. Saffman**
-
-Cambridge University Press
-
-*Fundamental reference on vortex dynamics and swirling flows.*
-
----
-
-# III. Thermal Convection
-
-### 11.
-
-Thermal Convection: Patterns, Evolution and Stability
-
-**Marcello Lappa**
-
-John Wiley & Sons
-
-*Probably the single best book for Sections 3.3–3.7 of your report.*
-
----
-
-### 12.
-
-Convection in Porous Media
-
-**Donald A. Nield & Adrian Bejan**
-
-Springer
-
-*Comprehensive treatment of buoyancy-driven convection.*
-
----
-
-### 13.
-
-Convective Heat Transfer
-
-**Louis C. Burmeister**
-
-Wiley
-
-*Strong theoretical foundation for thermal convection.*
-
----
-
-### 14.
-
-Natural Convection in Enclosures
-
-**Y. Jaluria**
-
-Taylor & Francis
-
-*Focused on buoyancy-driven flows in enclosed geometries.*
-
----
-
-# IV. Crystal Growth
-
-### 15.
-
-The Czochralski Method: Crystal Growth and Characterization
-
-Edited by **Peter Rudolph**
-
-Springer
-
-*The definitive reference on Czochralski growth.*
-
----
-
-### 16.
-
-Handbook of Crystal Growth
-
-Edited by **D. T. J. Hurle**
-
-Elsevier
-
-*The standard multi-volume reference in crystal growth.*
-
----
-
-### 17.
-
-Crystal Growth for Beginners
-
-**Ivan V. Markov**
-
-World Scientific
-
-*Excellent introductory text with discussions of melt convection.*
-
----
-
-### 18.
-
-Handbook of Crystal Growth: Bulk Crystal Growth
-
-Elsevier
-
-*Detailed treatment of melt hydrodynamics and thermal transport.*
-
----
-
-# V. Pattern Formation
-
-### 19.
-
-Pattern Formation: An Introduction to Methods
-
-**Rebecca Hoyle**
-
-Cambridge University Press
-
-*Outstanding introduction to symmetry breaking and pattern formation.*
-
----
-
-### 20.
-
-Pattern Formation and Dynamics in Nonequilibrium Systems
-
-**Michael Cross & Henry Greenside**
-
-Cambridge University Press
-
-*The modern reference on amplitude equations and nonlinear pattern selection.*
-
----
-
-### 21.
-
-Self-Organization in Nonequilibrium Systems
-
-**Gregoire Nicolis & Ilya Prigogine**
-
-Wiley
-
-*A classic on spontaneous symmetry breaking.*
-
----
-
-# VI. Nonlinear Dynamics
-
-### 22.
-
-Nonlinear Dynamics and Chaos
-
-**Steven H. Strogatz**
-
-CRC Press
-
-*Graduate-level introduction to bifurcation and chaos.*
-
----
-
-### 23.
-
-Introduction to Applied Nonlinear Dynamical Systems and Chaos
-
-**Stephen Wiggins**
-
-Springer
-
-*Rigorous mathematical treatment of nonlinear systems.*
-
----
-
-### 24.
-
-Differential Equations, Dynamical Systems, and an Introduction to Chaos
-
-**Morris W. Hirsch, Stephen Smale & Robert L. Devaney**
-
-Academic Press
-
-*Foundational text for dynamical systems theory.*
-
----
-
-### 25.
-
-Elements of Applied Bifurcation Theory
-
-**Yuri A. Kuznetsov**
-
-Springer
-
-*The standard graduate reference on bifurcation analysis.*
-
----
-
-# VII. Fluid Mechanics
-
-### 26.
-
-Fluid Mechanics
-
-**L. D. Landau & E. M. Lifshitz**
-
-Butterworth-Heinemann
-
-*A rigorous theoretical treatment of continuum mechanics and fluid flow.*
-
----
-
-### 27.
-
-Fluid Mechanics
-
-**Pijush K. Kundu, Ira M. Cohen & David R. Dowling**
-
-Academic Press
-
-*Widely used graduate textbook with strong coverage of vorticity, instability, and rotating flows.*
-
----
-
-### 28.
-
-Viscous Fluid Flow
-
-**Frank M. White**
-
-McGraw-Hill
-
-*Comprehensive reference on viscous flows and boundary layers.*
-
----
-
-# VIII. Computational Fluid Dynamics
-
-### 29.
-
-Computational Methods for Fluid Dynamics
-
-**Joel H. Ferziger, Milovan Perić & Robert L. Street**
-
-Springer
-
-*One of the most respected CFD texts, covering finite-volume methods and incompressible flow simulation.*
-
----
-
-### 30.
-
-Computational Fluid Dynamics: The Basics with Applications
-
-**John D. Anderson Jr.**
-
-McGraw-Hill
-
-*A widely adopted introduction to CFD with practical numerical methods.*
-
-## Most essential books for this report
-
-If you want the strongest possible core library for your report, these ten stand out:
-
-1. Hydrodynamic Stability — Drazin & Reid
-2. Hydrodynamic and Hydromagnetic Stability — Chandrasekhar
-3. Thermal Convection: Patterns, Evolution and Stability — Lappa
-4. Pattern Formation and Dynamics in Nonequilibrium Systems — Cross & Greenside
-5. Stability and Transition in Shear Flows — Schmid & Henningson
-6. The Czochralski Method: Crystal Growth and Characterization — Rudolph (Ed.)
-7. Geophysical Fluid Dynamics — Pedlosky
-8. Vortex Dynamics — Saffman
-9. Elements of Applied Bifurcation Theory — Kuznetsov
-10. Computational Methods for Fluid Dynamics — Ferziger, Perić & Street
-
-These ten provide comprehensive coverage of the mathematical foundations (stability, symmetry, bifurcation, and nonlinear dynamics), the key physical mechanisms (centrifugal, buoyancy-driven, thermocapillary, rotating, and vortex-dominated flows), and the computational methods needed to support the theory and applications discussed throughout your report.
 
 
 ---
