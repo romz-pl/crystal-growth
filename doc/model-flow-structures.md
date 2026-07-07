@@ -396,7 +396,7 @@ These provide broad context and are excellent sources for introductions and lite
 
 2. S. Chandrasekhar, *Hydrodynamic and Hydromagnetic Stability*, **1961** (No DOI assigned)
 
-3. Paul Manneville, *Instabilities, Chaos and Turbulence*, [**2010**](https://doi.org/10.1142/P739)
+3. Paul Manneville, *Instabilities, Chaos and Turbulence*, [**2010**](https://doi.org/10.1142/P642)
 
 4. Peter J. Schmid and Dan S. Henningson, *Stability and Transition in Shear Flows*, [**2001**](https://doi.org/10.1007/978-1-4615-1757-4)
 
@@ -405,7 +405,7 @@ These provide broad context and are excellent sources for introductions and lite
 
 ### 10.2 Rotating Fluids and Vortex Dynamics
 
-6. Peter R. N. Childs, *Rotating Flow*, [**2010**](https://doi.org/10.1016/B978-0-08-096299-2.00001-7)
+6. Peter R. N. Childs, *Rotating Flow*, **2010** (No DOI assigned)
 
 7. Joseph Pedlosky, *Geophysical Fluid Dynamics*, [**1987**](https://doi.org/10.1007/978-1-4612-4650-7)
 
@@ -472,10 +472,6 @@ These provide broad context and are excellent sources for introductions and lite
 29. Joel H. Ferziger, Milovan Perić, and Robert L. Street, *Computational Methods for Fluid Dynamics*, [**2020**](https://doi.org/10.1007/978-3-319-99693-6)
 
 30. John D. Anderson Jr., *Computational Fluid Dynamics: The Basics with Applications*, **1995** (No DOI assigned)
-
-30. John D. Anderson Jr., *Computational Fluid Dynamics: The Basics with Applications*, [**1995**](https://www.scirp.org/reference/referencespapers?referenceid=4225304)
-
-
 
 ### 10.9 Most relevant subset for your specific report
 
