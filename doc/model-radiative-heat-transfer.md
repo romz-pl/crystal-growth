@@ -1,4 +1,4 @@
-# Radiative Heat Transfer in the Continuum (Macroscopic) Model of Melt/Solution Crystal Growth
+# Radiative Heat Transfer
 
 ## 1. Scope and Role Within the Global Heat-Transfer Model
 
