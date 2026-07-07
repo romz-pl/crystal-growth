@@ -20,10 +20,10 @@ The macroscopic segregation problem sits at the intersection of:
 At thermodynamic equilibrium, the partitioning of a solute between solid and liquid at the interface is described by the **equilibrium segregation coefficient**:
 
 $$
-k_0 = \frac{C_s^{*}}{C_l^{*}}
+k_0 = \frac{C_s^{ * }}{C_l^{ * }}
 $$
 
-where $C_s^{*}$ is the solute concentration in the solid immediately at the interface and $C_l^{*}$ is the solute concentration in the liquid immediately at the interface. This quantity is a direct consequence of the binary (or multicomponent) phase diagram — specifically the ratio of the slopes of the solidus and liquidus lines near the melting point of the solvent:
+where $C_s^{ * }$ is the solute concentration in the solid immediately at the interface and $C_l^{ * }$ is the solute concentration in the liquid immediately at the interface. This quantity is a direct consequence of the binary (or multicomponent) phase diagram — specifically the ratio of the slopes of the solidus and liquidus lines near the melting point of the solvent:
 
 $$
 k_0 = \frac{m_l}{m_s} \quad \text{(in the dilute-solution limit, from local liquidus/solidus slopes)}
@@ -35,7 +35,7 @@ $$
 
 ### 2.2 Concentration Dependence
 
-$k_0$ is strictly constant only in the dilute limit. For non-dilute systems, or where the phase diagram is non-linear, $k_0 = k_0(C_l^{*}, T^{*})$ becomes a function of local interface concentration and temperature, requiring a locally linearized liquidus slope $m_l(C)$ evaluated at each interface point in the simulation.
+$k_0$ is strictly constant only in the dilute limit. For non-dilute systems, or where the phase diagram is non-linear, $k_0 = k_0(C_l^{ * }, T^{ * })$ becomes a function of local interface concentration and temperature, requiring a locally linearized liquidus slope $m_l(C)$ evaluated at each interface point in the simulation.
 
 ---
 
@@ -46,7 +46,7 @@ $k_0$ is strictly constant only in the dilute limit. For non-dilute systems, or 
 In real growth processes, growth rates $V$ are finite, and solute rejected at the interface cannot instantaneously equilibrate with the bulk melt. A solute-enriched (or depleted) boundary layer of thickness $\delta_c$ develops ahead of the interface. The continuum model captures this via mass transport equations rather than atomistic attachment kinetics, but the **effective distribution coefficient** $k_{\mathrm{eff}}$ emerges as a diagnostic/derived quantity representing the ratio of solute actually incorporated into the crystal to the solute concentration in the bulk melt far from the interface:
 
 $$
-k_{\mathrm{eff}} = \frac{C_s^{*}}{C_{l,\infty}}
+k_{\mathrm{eff}} = \frac{C_s^{ * }}{C_{l,\infty}}
 $$
 
 where $C_{l,\infty}$ is the solute concentration in the well-mixed bulk liquid, outside the diffusion boundary layer.
@@ -104,7 +104,7 @@ $$
 \frac{\partial C_s}{\partial t} \approx 0 \quad \text{(frozen-in composition, except for post-growth annealing/homogenization studies)}
 $$
 
-This is the standard justification for treating the solid concentration field as simply "written" by the moving interface at each instant, i.e., $C_s(\mathbf{x}) = C_s^{*}(\mathbf{x}_{\Gamma}, t)$ at the moment the interface passed through point $\mathbf{x}$.
+This is the standard justification for treating the solid concentration field as simply "written" by the moving interface at each instant, i.e., $C_s(\mathbf{x}) = C_s^{ * }(\mathbf{x}_{\Gamma}, t)$ at the moment the interface passed through point $\mathbf{x}$.
 
 ---
 
@@ -115,23 +115,23 @@ This is the standard justification for treating the solid concentration field as
 The interface is a discontinuity surface. A local solute flux balance in the frame moving with the interface (normal velocity $V_n$) gives:
 
 $$
-V_n \left( C_l^{*} - C_s^{*} \right) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}} + D_s \frac{\partial C_s}{\partial n} \Big|_{\Gamma^{-}}
+V_n \left( C_l^{ * } - C_s^{ * } \right) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}} + D_s \frac{\partial C_s}{\partial n} \Big|_{\Gamma^{-}}
 $$
 
 Neglecting solid-state diffusion ($D_s \to 0$):
 
 $$
-V_n \left( C_l^{*} - C_s^{*} \right) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}}
+V_n \left( C_l^{ * } - C_s^{ * } \right) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}}
 $$
 
-This equation states that the solute rejected (or absorbed) by the moving interface, $V_n(C_l^{*} - C_s^{*})$, must be carried away (or supplied) by diffusive flux in the liquid immediately adjacent to the interface. This is the fundamental **interfacial boundary condition** applied at every point of $\Gamma$ in the continuum model, coupled to the equilibrium (or kinetic) partition relation $C_s^{*} = k_0 C_l^{*}$.
+This equation states that the solute rejected (or absorbed) by the moving interface, $V_n(C_l^{ * } - C_s^{ * })$, must be carried away (or supplied) by diffusive flux in the liquid immediately adjacent to the interface. This is the fundamental **interfacial boundary condition** applied at every point of $\Gamma$ in the continuum model, coupled to the equilibrium (or kinetic) partition relation $C_s^{ * } = k_0 C_l^{ * }$.
 
 ### 5.2 Combined Interface Condition
 
 Substituting the partition law into the flux balance:
 
 $$
-V_n \, C_l^{*} (1 - k_0) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}}
+V_n \, C_l^{ * } (1 - k_0) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}}
 $$
 
 This nonlinear Robin-type (mixed) boundary condition couples the local growth rate $V_n$ (itself determined by the thermal field via the Stefan condition, see §7) to the local solute concentration gradient in the melt.
@@ -171,17 +171,17 @@ In fully resolved continuum simulations (CGSim, FEMAG-CZ, etc.), $\delta_c$ is n
 The local liquidus temperature at the interface depends on the local melt composition:
 
 $$
-T_{\mathrm{liq}}^{*} = T_m + m_l \, C_l^{*}
+T_{\mathrm{liq}}^{ * } = T_m + m_l \, C_l^{ * }
 $$
 
-where $T_m$ is the melting point of the pure solvent and $m_l$ is the liquidus slope (negative for most dopant systems that lower the melting point). This couples segregation directly to the thermal field and to the shape/position of the growth interface, since the interface must satisfy $T^{*} = T_{\mathrm{liq}}^{*}(C_l^{*})$ — a **constitutional coupling** that can produce constitutional supercooling (§8).
+where $T_m$ is the melting point of the pure solvent and $m_l$ is the liquidus slope (negative for most dopant systems that lower the melting point). This couples segregation directly to the thermal field and to the shape/position of the growth interface, since the interface must satisfy $T^{ * } = T_{\mathrm{liq}}^{ * }(C_l^{ * })$ — a **constitutional coupling** that can produce constitutional supercooling (§8).
 
 ### 6.2 Multicomponent / Multi-Dopant Systems
 
 For simultaneous multiple solutes $C_l^{(i)}$, each species has its own $k_0^{(i)}$, $D_l^{(i)}$, and $m_l^{(i)}$, and the liquidus depression becomes (to first order):
 
 $$
-T_{\mathrm{liq}}^{*} = T_m + \sum_i m_l^{(i)} \, C_l^{(i)*}
+T_{\mathrm{liq}}^{ * } = T_m + \sum_i m_l^{(i)} \, C_l^{(i)*}
 $$
 
 with cross-diffusion (Soret/Dufour-type) effects generally neglected in standard macroscopic growth codes unless explicitly modeled.
@@ -199,7 +199,7 @@ $$
 where $\rho_s$ is solid density, $L_f$ is latent heat of fusion, and $k_s, k_l$ are solid/liquid thermal conductivities. Because $V_n$ appears in both the thermal Stefan condition and the solute flux balance (§5.1–5.2), **segregation and interface morphology/growth-rate are two-way coupled**:
 
 - Changes in local growth rate change local segregation ($k_{\mathrm{eff}}$ via BPS),
-- Changes in local solute concentration change the local liquidus temperature (§6.1), which shifts the interface position/shape to maintain $T^{*} = T_{\mathrm{liq}}^{*}$, which in turn feeds back into $V_n$.
+- Changes in local solute concentration change the local liquidus temperature (§6.1), which shifts the interface position/shape to maintain $T^{ * } = T_{\mathrm{liq}}^{ * }$, which in turn feeds back into $V_n$.
 
 This bidirectional coupling is why segregation cannot, in general, be solved as a decoupled post-processing step in rigorous continuum simulations, though simplified/decoupled ("one-way coupled") approaches are common when solute concentrations are dilute enough that thermal feedback is negligible.
 
@@ -222,7 +222,7 @@ where $G$ is the temperature gradient in the liquid at the interface and $V$ the
 A more general linear stability analysis (Mullins–Sekerka) extends this to perturbations of arbitrary wavelength, yielding a growth-rate-dependent critical wavelength band for instability, incorporating surface energy (Gibbs–Thomson) stabilization:
 
 $$
-T^{*} = T_{\mathrm{liq}}(C_l^{*}) - \Gamma_{\mathrm{GT}} \, \kappa
+T^{ * } = T_{\mathrm{liq}}(C_l^{ * }) - \Gamma_{\mathrm{GT}} \, \kappa
 $$
 
 where $\Gamma_{\mathrm{GT}}$ is the Gibbs–Thomson coefficient (surface energy divided by entropy of fusion per unit volume) and $\kappa$ is the local interface curvature. This term stabilizes short-wavelength perturbations, capping the destabilization predicted by constitutional supercooling alone.
@@ -238,13 +238,13 @@ While full morphological (cellular/dendritic) stability analysis is generally ou
 Even under a spatially uniform $k_{\mathrm{eff}}$, progressive solute rejection into a finite melt volume causes bulk melt concentration $C_{l,\infty}(t)$ to evolve over the growth run, described (in the perfect-mixing limit, no boundary layer) by the **normal freezing / Scheil equation**:
 
 $$
-C_s^{*}(f_s) = k_0 \, C_0 \, (1 - f_s)^{k_0 - 1}
+C_s^{ * }(f_s) = k_0 \, C_0 \, (1 - f_s)^{k_0 - 1}
 $$
 
 where $C_0$ is the initial melt concentration and $f_s$ is the solidified fraction of the melt. Under **effective** (BPS) partitioning instead of full equilibrium mixing, the Scheil-type equation is modified to use $k_{\mathrm{eff}}$ in place of $k_0$:
 
 $$
-C_s^{*}(f_s) = k_{\mathrm{eff}} \, C_0 \, (1 - f_s)^{k_{\mathrm{eff}} - 1}
+C_s^{ * }(f_s) = k_{\mathrm{eff}} \, C_0 \, (1 - f_s)^{k_{\mathrm{eff}} - 1}
 $$
 
 This produces the characteristic **axial (longitudinal) segregation profile** observed along the growth axis of Czochralski, Bridgman, and related boules — solute-depleted near the seed end (for $k_0<1$) and progressively enriched toward the tail end.
@@ -263,7 +263,7 @@ Time-dependent, often periodic fluctuations in $V_n$ and in the flow field (e.g.
 
 ### 10.1 Kinetic Segregation Coefficient
 
-At very high growth rates (rapid solidification regimes), attachment kinetics at the atomic scale become rate-limiting, and the interface cannot maintain local equilibrium even locally ($C_s^{*} \ne k_0 C_l^{*}$). A phenomenological **kinetic partition function**, commonly the Aziz continuous growth model, is used:
+At very high growth rates (rapid solidification regimes), attachment kinetics at the atomic scale become rate-limiting, and the interface cannot maintain local equilibrium even locally ($C_s^{ * } \ne k_0 C_l^{ * }$). A phenomenological **kinetic partition function**, commonly the Aziz continuous growth model, is used:
 
 $$
 k(V) = \frac{k_0 + \left(V / V_D\right)}{1 + \left(V / V_D\right)}
@@ -279,7 +279,7 @@ This regime is generally outside standard bulk melt/solution growth conditions (
 
 1. **Interface tracking**: The interface $\Gamma$ is usually tracked as a deforming boundary (body-fitted moving mesh / Arbitrary Lagrangian-Eulerian, ALE) rather than captured implicitly (level-set/phase-field), consistent with the "sharp interface" continuum approach.
 2. **Segregation as a boundary condition, not a bulk equation**: The partition law and flux balance (§5) are applied as boundary conditions on the species transport PDE (§4.1), not as separate bulk conservation laws.
-3. **Iterative/coupled solution**: Because $V_n$, $T^{*}$, $C_l^{*}$, and interface shape are mutually dependent, most codes solve the coupled thermal–flow–species–interface system iteratively (e.g., Newton-type or fixed-point iteration) at each (pseudo-)time step, especially in quasi-steady global CZ/Bridgman simulations.
+3. **Iterative/coupled solution**: Because $V_n$, $T^{ * }$, $C_l^{ * }$, and interface shape are mutually dependent, most codes solve the coupled thermal–flow–species–interface system iteratively (e.g., Newton-type or fixed-point iteration) at each (pseudo-)time step, especially in quasi-steady global CZ/Bridgman simulations.
 4. **Dilute-solution approximation**: Nearly all global growth codes assume dilute solute concentrations, allowing linearized liquidus slopes $m_l$, constant $k_0$, and negligible solutal buoyancy feedback on the flow field — though solutal buoyancy (density variation with $C_l$) can be included via an extended Boussinesq term when segregation levels are significant (e.g., heavily doped Si, SiGe, or oxide solid solutions).
 5. **Decoupling for post-processing**: A common simplified workflow computes the thermal/flow field first (assuming the solute field does not feed back on the melt properties or interface shape), then solves the species transport equation as a post-processing step using the frozen velocity and interface-shape fields — valid only when solutal effects on density, viscosity, and liquidus temperature are small.
 
@@ -289,15 +289,15 @@ This regime is generally outside standard bulk melt/solution growth conditions (
 
 | Phenomenon | Governing Relation |
 |---|---|
-| Equilibrium partitioning | $k_0 = C_s^{*}/C_l^{*}$ |
+| Equilibrium partitioning | $k_0 = C_s^{ * }/C_l^{ * }$ |
 | Non-equilibrium (BPS) partitioning | $k_{\mathrm{eff}} = k_0 / [k_0 + (1-k_0)e^{-V\delta_c/D_l}]$ |
 | Bulk species transport (melt) | $\partial_t C_l + \mathbf{u}\cdot\nabla C_l = D_l \nabla^2 C_l$ |
-| Interfacial solute flux balance | $V_n(C_l^{*}-C_s^{*}) = -D_l \, \partial C_l/\partial n\Big|_{\Gamma}$ |
-| Liquidus depression | $T_{\mathrm{liq}}^{*} = T_m + m_l C_l^{*}$ |
+| Interfacial solute flux balance | $V_n(C_l^{ * }-C_s^{ * }) = -D_l \, \partial C_l/\partial n\Big|_{\Gamma}$ |
+| Liquidus depression | $T_{\mathrm{liq}}^{ * } = T_m + m_l C_l^{ * }$ |
 | Thermal Stefan condition | $\rho_s L_f V_n = k_s \partial_n T\Big|_{\Gamma^{-}} - k_l \partial_n T\Big|_{\Gamma^{+}}$ |
 | Constitutional supercooling criterion | $G/V < m_l C_{l,\infty}(1-k_0)/(k_0 D_l)$ |
-| Gibbs–Thomson curvature correction | $T^{*} = T_{\mathrm{liq}}(C_l^{*}) - \Gamma_{\mathrm{GT}}\kappa$ |
-| Axial macrosegregation (BPS-modified Scheil) | $C_s^{*}(f_s) = k_{\mathrm{eff}} C_0 (1-f_s)^{k_{\mathrm{eff}}-1}$ |
+| Gibbs–Thomson curvature correction | $T^{ * } = T_{\mathrm{liq}}(C_l^{ * }) - \Gamma_{\mathrm{GT}}\kappa$ |
+| Axial macrosegregation (BPS-modified Scheil) | $C_s^{ * }(f_s) = k_{\mathrm{eff}} C_0 (1-f_s)^{k_{\mathrm{eff}}-1}$ |
 | Kinetic partition (Aziz model) | $k(V) = [k_0 + V/V_D]/[1 + V/V_D]$ |
 
 ---
