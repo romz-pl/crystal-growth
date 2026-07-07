@@ -276,7 +276,7 @@ For your report, I recommend citing papers from the highest-impact journals in f
 
 4. Golubitsky, M., & Stewart, I. (1986). *Symmetry and Stability in Taylor–Couette Flow*. [SIAM Journal on Mathematical Analysis, **17**, 249–288](https://doi.org/10.1137/0517023)
 
-5. Chossat, P., & Iooss, G. (1985). *Primary and Secondary Bifurcations in the Couette–Taylor Problem*. [Japan Journal of Applied Mathematics, **2**, 37–68](https://doi.org/10.1007/BF03167017)
+5. Chossat, P., & Iooss, G. (1985). *Primary and Secondary Bifurcations in the Couette–Taylor Problem*. [Japan Journal of Applied Mathematics, **2**, 37–68](https://doi.org/10.1007/BF03167038)
 
 
 ### 9.2 Taylor–Couette Flow and Wavy Vortices
