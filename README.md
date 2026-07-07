@@ -41,6 +41,7 @@
 + [Marangoni (thermocapillary) convection](./doc/model-marangoni.md)
 + [Dimensionless Groups Governing the Physics](./doc/model-dimensionless-groups.md)
 + [Convective Transport and Instability Phenomena](./doc/model-instability-phenomena.md)
++ [Oscillatory Transition and Route to Turbulence](./doc/model-oscillatory-transition.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
