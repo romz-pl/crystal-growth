@@ -268,15 +268,15 @@ For your report, I recommend citing papers from the highest-impact journals in f
 
 ### 9.1 Symmetry, Stability, and Bifurcation Theory
 
-1. Taylor (1923), Stability of a Viscous Liquid Contained Between Two Rotating Cylinders. *Philosophical Transactions of the Royal Society A*, **223**, 289–343.
+1. Taylor, G. I. (1923). *Stability of a Viscous Liquid Contained Between Two Rotating Cylinders*. [Philosophical Transactions of the Royal Society A, **223**, 289–343](https://doi.org/10.1098/rsta.1923.0008)
 
-2. Gollub & Swinney (1975), Onset of Turbulence in a Rotating Fluid. *Physical Review Letters*, **35**, 927–930.
+2. Gollub, J. P., & Swinney, H. L. (1975). *Onset of Turbulence in a Rotating Fluid*. [Physical Review Letters, **35**, 927–930](https://doi.org/10.1103/PhysRevLett.35.927)
 
-3. Golubitsky & Stewart (1985), Hopf Bifurcation in the Presence of Symmetry. *Archive for Rational Mechanics and Analysis*, **87**, 107–165.
+3. Golubitsky, M., & Stewart, I. (1985). *Hopf Bifurcation in the Presence of Symmetry*. [Archive for Rational Mechanics and Analysis, **87**, 107–165](https://doi.org/10.1007/BF00280698)
 
-4. Golubitsky & Stewart (1986), Symmetry and Stability in Taylor–Couette Flow. *SIAM Journal on Mathematical Analysis*, **17**, 249–288. ([SIAM][2])
+4. Golubitsky, M., & Stewart, I. (1986). *Symmetry and Stability in Taylor–Couette Flow*. [SIAM Journal on Mathematical Analysis, **17**, 249–288](https://doi.org/10.1137/0517023)
 
-5. Chossat & Iooss (1985), Primary and Secondary Bifurcations in the Couette–Taylor Problem. *Japan Journal of Applied Mathematics*, **2**, 37–68.
+5. Chossat, P., & Iooss, G. (1985). *Primary and Secondary Bifurcations in the Couette–Taylor Problem*. [Japan Journal of Applied Mathematics, **2**, 37–68](https://doi.org/10.1007/BF03167017)
 
 
 ### 9.2 Taylor–Couette Flow and Wavy Vortices
