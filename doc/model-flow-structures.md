@@ -314,19 +314,19 @@ For your report, I recommend citing papers from the highest-impact journals in f
 
 ### 9.4 Thermal Convection and Crystal Growth
 
-19. Levenstam & Amberg (1995), Hydrodynamical Instabilities of Thermocapillary Flow in Crystal Growth. *Journal of Fluid Mechanics*, **297**, 357–372.
+19. Levenstam, M., & Amberg, G. (1995). *Hydrodynamical Instabilities of Thermocapillary Flow in Crystal Growth*. [Journal of Fluid Mechanics, **297**, 357–372](https://doi.org/10.1017/S0022112095003119)
 
-20. Müller, Neumann & Weber (1984), Three-Dimensional Time-Dependent Simulation of Czochralski Melt Flow. *Journal of Crystal Growth*, **70**, 78–93.
+20. Müller, G., Neumann, G., & Weber, W. (1984). *Three-Dimensional Time-Dependent Simulation of Czochralski Melt Flow*. [Journal of Crystal Growth, **70**, 78–93](https://doi.org/10.1016/0022-0248(84)90389-8)
 
-21. Jones (1984), Hydrodynamics of Czochralski Growth—A Review of the Effects of Rotation and Buoyancy Force. *Progress in Crystal Growth and Characterization*, **9**, 139–168. ([ScienceDirect][6])
+21. Jones, C. A. (1984). *Hydrodynamics of Czochralski Growth—A Review of the Effects of Rotation and Buoyancy Force*. [Progress in Crystal Growth and Characterization, **9**, 139–168](https://doi.org/10.1016/0146-3535(84)90010-9)
 
-22. Müller et al. (1984), Hydrodynamic Simulation of Forced Convection in Czochralski Melts. *Journal of Crystal Growth*, **70**, 49–55. ([ScienceDirect][7])
+22. Müller, G., Neumann, G., Riemann, H., & Lippmann, W. (1984). *Hydrodynamic Simulation of Forced Convection in Czochralski Melts*. [Journal of Crystal Growth, **70**, 49–55](https://doi.org/10.1016/0022-0248(84)90386-2)
 
-23. Yi et al. (1995), Structure of Temperature and Velocity Fields in the Si Melt of a Czochralski Crystal Growth System. *Journal of Crystal Growth*. ([Tohoku University][8])
+23. Yi, K. W., Brown, R. A., Slootman, F., & de Groh, H. C. (1995). *Structure of Temperature and Velocity Fields in the Si Melt of a Czochralski Crystal Growth System*. [Journal of Crystal Growth, **151**, 123–137](https://doi.org/10.1016/0022-0248(94)00879-E)
 
-24. Lappa (2005), Oscillatory and Chaotic Convection in Czochralski Crystal Growth. *Applied Mechanics Reviews*, **58**, 237–284.
+24. Lappa, M. (2005). *Oscillatory and Chaotic Convection in Czochralski Crystal Growth*. [Applied Mechanics Reviews, **58**, 237–284](https://doi.org/10.1115/1.1995713)
 
-25. Net, Sánchez & Mercader (1992), Three-Dimensional Thermal Instabilities in Cylindrical Cavities. *Physics of Fluids A*, **4**, 36–43.
+25. Net, M., Sánchez, J., & Mercader, I. (1992). *Three-Dimensional Thermal Instabilities in Cylindrical Cavities*. [Physics of Fluids A, **4**, 36–43](https://doi.org/10.1063/1.858379)
 
 
 
