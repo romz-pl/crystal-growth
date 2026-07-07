@@ -392,13 +392,13 @@ These provide broad context and are excellent sources for introductions and lite
 
 ### 10.1 Hydrodynamic Stability and Instability
 
-1. P. G. Drazin and W. H. Reid, *Hydrodynamic Stability*, **2004** (10.1017/CBO9780511616938)
+1. P. G. Drazin and W. H. Reid, *Hydrodynamic Stability*, [**2004**](https://doi.org/10.1017/CBO9780511616938)
 
-2. S. Chandrasekhar, *Hydrodynamic and Hydromagnetic Stability*, **1961** (No DOI assigned)
+2. S. Chandrasekhar, *Hydrodynamic and Hydromagnetic Stability*, [**1961** (No DOI assigned)
 
-3. Paul Manneville, *Instabilities, Chaos and Turbulence*, **2010** (10.1142/p739)
+3. Paul Manneville, *Instabilities, Chaos and Turbulence*, [**2010**](https://doi.org/10.1142/p739)
 
-4. Peter J. Schmid and Dan S. Henningson, *Stability and Transition in Shear Flows*, **2001** (10.1007/978-1-4615-1757-4)
+4. Peter J. Schmid and Dan S. Henningson, *Stability and Transition in Shear Flows*, [**2001**](https://doi.org/10.1007/978-1-4615-1757-4)
 
 5. Richard Bellman, *The Theory of Hydrodynamic Stability*, **1953** (No DOI assigned)
 
@@ -406,23 +406,23 @@ These provide broad context and are excellent sources for introductions and lite
 
 ### 10.2 Rotating Fluids and Vortex Dynamics
 
-6. Peter R. N. Childs, *Rotating Flow*, **2010** (10.1016/B978-0-08-096299-2.00001-7)
+6. Peter R. N. Childs, *Rotating Flow*, [**2010**](https://doi.org/10.1016/B978-0-08-096299-2.00001-7)
 
-7. Joseph Pedlosky, *Geophysical Fluid Dynamics*, **1987** (10.1007/978-1-4612-4650-7)
+7. Joseph Pedlosky, *Geophysical Fluid Dynamics*, [**1987**](https://doi.org/10.1007/978-1-4612-4650-7)
 
 8. Adrian E. Gill, *Atmosphere–Ocean Dynamics*, **1982** (No DOI assigned)
 
-9. James Lighthill, *Waves in Fluids*, **1978** (10.1017/CBO9780511624124)
+9. James Lighthill, *Waves in Fluids*, [**1978**](https://doi.org/10.1017/CBO9780511624124)
 
-10. P. G. Saffman, *Vortex Dynamics*, **1992** (10.1017/CBO9780511624063)
+10. P. G. Saffman, *Vortex Dynamics*, [**1992**](https://doi.org/10.1017/CBO9780511624063)
 
 
 
 ### 10.3 Thermal Convection and Buoyancy-Driven Instabilities
 
-11. Marcello Lappa, *Thermal Convection: Patterns, Evolution and Stability*, **2009** (10.1002/9780470744052)
+11. Marcello Lappa, *Thermal Convection: Patterns, Evolution and Stability*, [**2009**](https://doi.org/10.1002/9780470744052)
 
-12. Donald A. Nield and Adrian Bejan, *Convection in Porous Media*, **2017** (10.1007/978-3-319-49562-0)
+12. Donald A. Nield and Adrian Bejan, *Convection in Porous Media*, [**2017**](https://doi.org/10.1007/978-3-319-49562-0)
 
 13. Louis C. Burmeister, *Convective Heat Transfer*, **1993** (No DOI assigned)
 
@@ -432,21 +432,21 @@ These provide broad context and are excellent sources for introductions and lite
 
 ### 10.4 Crystal Growth and Czochralski Flow
 
-15. Peter Rudolph (Ed.), *The Czochralski Method: Growth and Properties of Silicon Crystals*, **2014** (10.1007/978-3-642-10457-7)
+15. Peter Rudolph (Ed.), *The Czochralski Method: Growth and Properties of Silicon Crystals*, [**2014**](https://doi.org/10.1007/978-3-642-10457-7)
 
-16. D. T. J. Hurle (Ed.), *Handbook of Crystal Growth*, **1993** (10.1016/B978-0-444-88977-9.X5000-5)
+16. D. T. J. Hurle (Ed.), *Handbook of Crystal Growth*, [**1993**](https://doi.org/10.1016/B978-0-444-88977-9.X5000-5)
 
-17. Ivan V. Markov, *Crystal Growth for Beginners: Fundamentals of Nucleation, Crystal Growth and Epitaxy*, **2003** (10.1142/5050)
+17. Ivan V. Markov, *Crystal Growth for Beginners: Fundamentals of Nucleation, Crystal Growth and Epitaxy*, [**2003**](https://doi.org/10.1142/5050)
 
-18. D. T. J. Hurle (Ed.), *Bulk Crystal Growth*, **1994** (10.1016/B978-0-444-88977-9.X5000-5)
+18. D. T. J. Hurle (Ed.), *Bulk Crystal Growth*, [**1994**](https://doi.org/10.1016/B978-0-444-88977-9.X5000-5)
 
 
 
 ### 10.5 Pattern Formation and Symmetry Breaking
 
-19. Rebecca Hoyle, *Pattern Formation: An Introduction to Methods*, **2006** (10.1017/CBO9780511607448)
+19. Rebecca Hoyle, *Pattern Formation: An Introduction to Methods*, [**2006**](10.1017/CBO9780511607448)
 
-20. Michael C. Cross and Henry Greenside, *Pattern Formation and Dynamics in Nonequilibrium Systems*, **2009** (10.1017/CBO9780511627200)
+20. Michael C. Cross and Henry Greenside, *Pattern Formation and Dynamics in Nonequilibrium Systems*, [**2009**](https://doi.org/10.1017/CBO9780511627200)
 
 21. Gregoire Nicolis and Ilya Prigogine, *Self-Organization in Nonequilibrium Systems*, **1977** (No DOI assigned)
 
@@ -454,21 +454,21 @@ These provide broad context and are excellent sources for introductions and lite
 
 ### 10.6 Nonlinear Dynamics and Bifurcation Theory
 
-22. Steven H. Strogatz, *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*, **2015** (10.1201/9780429492563)
+22. Steven H. Strogatz, *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*, [**2015**](https://doi.org/10.1201/9780429492563)
 
-23. Stephen Wiggins, *Introduction to Applied Nonlinear Dynamical Systems and Chaos*, **2003** (10.1007/b97481)
+23. Stephen Wiggins, *Introduction to Applied Nonlinear Dynamical Systems and Chaos*, [**2003**](https://doi.org/10.1007/b97481)
 
-24. Morris W. Hirsch, Stephen Smale, and Robert L. Devaney, *Differential Equations, Dynamical Systems, and an Introduction to Chaos*, **2013** (10.1016/C2010-0-65510-0)
+24. Morris W. Hirsch, Stephen Smale, and Robert L. Devaney, *Differential Equations, Dynamical Systems, and an Introduction to Chaos*, [**2013**](https://doi.org/10.1016/C2010-0-65510-0)
 
-25. Yuri A. Kuznetsov, *Elements of Applied Bifurcation Theory*, **2004** (10.1007/978-1-4757-3979-7)
+25. Yuri A. Kuznetsov, *Elements of Applied Bifurcation Theory*, [**2004**](https://doi.org/10.1007/978-1-4757-3979-7)
 
 
 
 ### 10.7 Fluid Mechanics Fundamentals
 
-26. L. D. Landau and E. M. Lifshitz, *Fluid Mechanics*, **1987** (10.1016/B978-0-08-033933-7.50001-6)
+26. L. D. Landau and E. M. Lifshitz, *Fluid Mechanics*, [**1987**](https://doi.org/10.1016/B978-0-08-033933-7.50001-6)
 
-27. Pijush K. Kundu, Ira M. Cohen, and David R. Dowling, *Fluid Mechanics*, **2015** (10.1016/C2012-0-00642-4)
+27. Pijush K. Kundu, Ira M. Cohen, and David R. Dowling, *Fluid Mechanics*, [**2015**](https://doi.org/10.1016/C2012-0-00642-4)
 
 28. Frank M. White, *Viscous Fluid Flow*, **2006** (No DOI assigned)
 
@@ -476,9 +476,9 @@ These provide broad context and are excellent sources for introductions and lite
 
 ### 10.8 Computational Fluid Dynamics
 
-29. Joel H. Ferziger, Milovan Perić, and Robert L. Street, *Computational Methods for Fluid Dynamics*, **2020** (10.1007/978-3-319-99693-6)
+29. Joel H. Ferziger, Milovan Perić, and Robert L. Street, *Computational Methods for Fluid Dynamics*, [**2020**](https://doi.org/10.1007/978-3-319-99693-6)
 
-30. John D. Anderson Jr., *Computational Fluid Dynamics: The Basics with Applications*, **1995** (No DOI assigned) ([SCIRP][1])
+30. John D. Anderson Jr., *Computational Fluid Dynamics: The Basics with Applications*, [**1995**](https://www.scirp.org/reference/referencespapers?referenceid=4225304)
 
 
 
@@ -499,7 +499,6 @@ For **non-axisymmetric structures in axisymmetric geometries**, the highest prio
 
 These ten most directly support the report’s sections on **SO(2)/O(2) symmetry breaking, azimuthal Fourier modes, rotating waves, Taylor–Couette instability, thermocapillary convection, Czochralski melt flow, nonlinear bifurcation, and numerical simulation**.
 
-[1]: https://www.scirp.org/reference/referencespapers?referenceid=4225304&utm_source=chatgpt.com "Anderson, J.D. (1995) Computational Fluid Dynamics The Basics with Applications. McGraw-Hill. - References - Scientific Research Publishing"
 
 
 
