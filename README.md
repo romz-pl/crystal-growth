@@ -38,6 +38,7 @@
 + [Forced Convection from Crystal and Crucible Rotation](./doc/model-forced-convection.md)
 + [Radiative Heat Transfer](./doc/model-radiative-heat-transfer.md)
 + [Segregation at the Growth Interface](./doc/model-segregation.md)
++ [Marangoni (thermocapillary) convection](./doc/model-marangoni.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
