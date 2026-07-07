@@ -115,13 +115,13 @@ This is the standard justification for treating the solid concentration field as
 The interface is a discontinuity surface. A local solute flux balance in the frame moving with the interface (normal velocity $V_n$) gives:
 
 $$
-V_n \left( C_l^{*} - C_s^{*} \right) = -D_l \left. \frac{\partial C_l}{\partial n} \right|_{\Gamma^{+}} + D_s \left. \frac{\partial C_s}{\partial n} \right|_{\Gamma^{-}}
+V_n \left( C_l^{*} - C_s^{*} \right) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}} + D_s \frac{\partial C_s}{\partial n} \Big|_{\Gamma^{-}}
 $$
 
 Neglecting solid-state diffusion ($D_s \to 0$):
 
 $$
-V_n \left( C_l^{*} - C_s^{*} \right) = -D_l \left. \frac{\partial C_l}{\partial n} \right|_{\Gamma^{+}}
+V_n \left( C_l^{*} - C_s^{*} \right) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}}
 $$
 
 This equation states that the solute rejected (or absorbed) by the moving interface, $V_n(C_l^{*} - C_s^{*})$, must be carried away (or supplied) by diffusive flux in the liquid immediately adjacent to the interface. This is the fundamental **interfacial boundary condition** applied at every point of $\Gamma$ in the continuum model, coupled to the equilibrium (or kinetic) partition relation $C_s^{*} = k_0 C_l^{*}$.
@@ -131,7 +131,7 @@ This equation states that the solute rejected (or absorbed) by the moving interf
 Substituting the partition law into the flux balance:
 
 $$
-V_n \, C_l^{*} (1 - k_0) = -D_l \left. \frac{\partial C_l}{\partial n} \right|_{\Gamma^{+}}
+V_n \, C_l^{*} (1 - k_0) = -D_l \frac{\partial C_l}{\partial n} \Big|_{\Gamma^{+}}
 $$
 
 This nonlinear Robin-type (mixed) boundary condition couples the local growth rate $V_n$ (itself determined by the thermal field via the Stefan condition, see §7) to the local solute concentration gradient in the melt.
@@ -193,7 +193,7 @@ with cross-diffusion (Soret/Dufour-type) effects generally neglected in standard
 The normal interface velocity $V_n$ is not an independent input in most global models; it emerges from the **thermal Stefan condition**:
 
 $$
-\rho_s L_f \, V_n = k_s \left. \frac{\partial T}{\partial n} \right|_{\Gamma^{-}} - k_l \left. \frac{\partial T}{\partial n} \right|_{\Gamma^{+}}
+\rho_s L_f \, V_n = k_s \frac{\partial T}{\partial n} \Big|_{\Gamma^{-}} - k_l \frac{\partial T}{\partial n} \Big|_{\Gamma^{+}}
 $$
 
 where $\rho_s$ is solid density, $L_f$ is latent heat of fusion, and $k_s, k_l$ are solid/liquid thermal conductivities. Because $V_n$ appears in both the thermal Stefan condition and the solute flux balance (§5.1–5.2), **segregation and interface morphology/growth-rate are two-way coupled**:
@@ -292,9 +292,9 @@ This regime is generally outside standard bulk melt/solution growth conditions (
 | Equilibrium partitioning | $k_0 = C_s^{*}/C_l^{*}$ |
 | Non-equilibrium (BPS) partitioning | $k_{\mathrm{eff}} = k_0 / [k_0 + (1-k_0)e^{-V\delta_c/D_l}]$ |
 | Bulk species transport (melt) | $\partial_t C_l + \mathbf{u}\cdot\nabla C_l = D_l \nabla^2 C_l$ |
-| Interfacial solute flux balance | $V_n(C_l^{*}-C_s^{*}) = -D_l \, \partial C_l/\partial n\vert_\Gamma$ |
+| Interfacial solute flux balance | $V_n(C_l^{*}-C_s^{*}) = -D_l \, \partial C_l/\partial n\Big|_{\Gamma}$ |
 | Liquidus depression | $T_{\mathrm{liq}}^{*} = T_m + m_l C_l^{*}$ |
-| Thermal Stefan condition | $\rho_s L_f V_n = k_s \partial_n T\vert_{\Gamma^-} - k_l \partial_n T\vert_{\Gamma^+}$ |
+| Thermal Stefan condition | $\rho_s L_f V_n = k_s \partial_n T\Big|_{\Gamma^{-}} - k_l \partial_n T\Big|_{\Gamma^{+}}$ |
 | Constitutional supercooling criterion | $G/V < m_l C_{l,\infty}(1-k_0)/(k_0 D_l)$ |
 | Gibbs–Thomson curvature correction | $T^{*} = T_{\mathrm{liq}}(C_l^{*}) - \Gamma_{\mathrm{GT}}\kappa$ |
 | Axial macrosegregation (BPS-modified Scheil) | $C_s^{*}(f_s) = k_{\mathrm{eff}} C_0 (1-f_s)^{k_{\mathrm{eff}}-1}$ |
@@ -303,6 +303,7 @@ This regime is generally outside standard bulk melt/solution growth conditions (
 ---
 
 *Document prepared as a technical reference on continuum-scale segregation modeling in melt/solution crystal growth (Czochralski, Bridgman/VGF, Kyropoulos, LEC, and related methods).*
+
 
 ---
 
