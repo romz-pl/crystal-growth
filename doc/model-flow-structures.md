@@ -50,7 +50,7 @@ The convective operator is $(\mathbf{u}\cdot\nabla) = u_r \partial_r + \frac{u_\
 
 ### 2.3 Azimuthal Fourier Decomposition (Linear Stability)
 
-Linearizing about the axisymmetric base flow $\mathbf{U}_0 = (U_r, U_\theta, U_z)(r,z)$ and $P_0(r,z)$, perturbations are expanded as
+Linearizing about the axisymmetric base flow $\mathbf{U}_ 0 = (U_r, U_\theta, U_z)(r,z)$ and $P_0(r,z)$, perturbations are expanded as
 
 $$
 \begin{pmatrix} u_r' \\ u_\theta' \\ u_z' \\ p' \end{pmatrix}(r,\theta,z,t) = \begin{pmatrix} \hat{u}_r \\ \hat{u}_\theta \\ \hat{u}_z \\ \hat{p} \end{pmatrix}(r,z)\, \exp(i m \theta + \sigma t) + \text{c.c.}
@@ -62,7 +62,7 @@ $$
 \sigma \, \mathbf{B}\, \hat{\mathbf{q}} = \mathbf{L}_m(\mathbf{U}_0)\, \hat{\mathbf{q}}, \qquad \hat{\mathbf{q}} = (\hat{u}_r, \hat{u}_\theta, \hat{u}_z, \hat{p})^T
 $$
 
-where $\mathbf{L}_m$ contains $m$-dependent terms (curvature terms $\propto 1/r^2$, $\propto m/r^2$, and $\propto m^2/r^2$) coupling $\hat{u}_r$ and $\hat{u}_\theta$ through the Coriolis-like terms even when $U_\theta \equiv 0$. The task of stability analysis is to find, for each $m$, the critical parameter (e.g., Reynolds number $Re_c(m)$ or Grashof number $Gr_c(m)$) at which $\sigma_r$ first crosses zero, and the associated critical wavenumber $m_c = \arg\min_m Re_c(m)$.
+where $\mathbf{L}_ m$ contains $m$-dependent terms (curvature terms $\propto 1/r^2$, $\propto m/r^2$, and $\propto m^2/r^2$) coupling $\hat{u}_ r$ and $\hat{u}_ \theta$ through the Coriolis-like terms even when $U_\theta \equiv 0$. The task of stability analysis is to find, for each $m$, the critical parameter (e.g., Reynolds number $Re_c(m)$ or Grashof number $Gr_c(m)$ ) at which $\sigma_r$ first crosses zero, and the associated critical wavenumber $m_c = \arg\min_m Re_c(m)$.
 
 ### 2.4 Symmetry Classification of Bifurcating Solutions
 
