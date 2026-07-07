@@ -378,12 +378,11 @@ If you wish to keep the bibliography concise while covering nearly every aspect 
 
 These provide broad context and are excellent sources for introductions and literature reviews.
 
-1. Grossmann, Lohse & Sun (2016), High Reynolds Number Taylor–Couette Turbulence, *Annual Review of Fluid Mechanics*, **48**, 53–80.
+1. Grossmann, S., Lohse, D., & Sun, C. (2016). *High-Reynolds-Number Taylor–Couette Turbulence*. [Annual Review of Fluid Mechanics, **48**, 53–80](https://doi.org/10.1146/annurev-fluid-122414-034353)
 
-2. Taylor–Couette and Related Flows on the Centennial of Taylor's Seminal Paper (2023), *Philosophical Transactions of the Royal Society A*. This special issue contains multiple state-of-the-art review papers covering stability, bifurcation, turbulence, and nonlinear dynamics. ([PMC][4])
+2. Lueptow, R. M., Hollerbach, R., & Serre, E. (Eds.). (2023). *Taylor–Couette and Related Flows on the Centennial of Taylor's Seminal Paper*. [Philosophical Transactions of the Royal Society A, **381** (Theme Issue)](https://doi.org/10.1098/rsta.2022.0140)
 
-3. Lappa (2009), Thermal Convection: Patterns, Evolution and Stability (although a monograph rather than a journal article, it is one of the most authoritative references on buoyancy-driven symmetry breaking).
-
+3. Lappa, M. (2009). *Thermal Convection: Patterns, Evolution and Stability*. [John Wiley & Sons](https://doi.org/10.1002/9780470747026)
 
 ---
 
