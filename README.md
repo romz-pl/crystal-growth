@@ -40,6 +40,7 @@
 + [Segregation at the Growth Interface](./doc/model-segregation.md)
 + [Marangoni (thermocapillary) convection](./doc/model-marangoni.md)
 + [Dimensionless Groups Governing the Physics](./doc/model-dimensionless-groups.md)
++ [Convective Transport and Instability Phenomena](./doc/model-instability-phenomena.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
