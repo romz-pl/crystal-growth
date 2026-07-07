@@ -299,18 +299,17 @@ For your report, I recommend citing papers from the highest-impact journals in f
 
 ### 9.3 Rotating-Disk and Ekman-Layer Instabilities
 
-13. Lingwood (1995), Absolute Instability of the Boundary Layer on a Rotating Disk. *Journal of Fluid Mechanics*, **299**, 17–33.
+13. Lingwood, R. J. (1995). *Absolute Instability of the Boundary Layer on a Rotating Disk*. [Journal of Fluid Mechanics, **299**, 17–33](https://doi.org/10.1017/S0022112095003405)
 
-14. Cooper & Carpenter (1997), The Stability of the Rotating-Disk Boundary Layer. *Journal of Fluid Mechanics*, **350**, 231–259.
+14. Cooper, A. J., & Carpenter, P. W. (1997). *The Stability of the Rotating-Disk Boundary Layer*. [Journal of Fluid Mechanics, **350**, 231–259](https://doi.org/10.1017/S0022112097006976)
 
-15. Gallaire, Chomaz, Huerre & Redekopp (2006), Spiral Instabilities of Flow over a Rotating Disk. *Journal of Fluid Mechanics*, **549**, 71–80.
+15. Gallaire, F., Chomaz, J.-M., Huerre, P., & Redekopp, L. G. (2006). *Spiral Instabilities of Flow over a Rotating Disk*. [Journal of Fluid Mechanics, **549**, 71–80](https://doi.org/10.1017/S0022112005007834)
 
-16. Appelquist, Schlatter, Alfredsson & Lingwood (2015), Global Linear Instability of the Rotating-Disk Flow. *Journal of Fluid Mechanics*, **765**, 612–631.
+16. Appelquist, E., Schlatter, P., Alfredsson, P. H., & Lingwood, R. J. (2015). *Global Linear Instability of the Rotating-Disk Flow*. [Journal of Fluid Mechanics, **765**, 612–631](https://doi.org/10.1017/jfm.2015.2)
 
-17. Serre (2023), Instabilities and Routes to Turbulence in Rotating Disc Boundary Layers and Cavities. *Philosophical Transactions of the Royal Society A*. ([DOI][4])
+17. Martinand, D., Serre, E., & Viaud, B. (2023). *Instabilities and Routes to Turbulence in Rotating Disc Boundary Layers and Cavities*. [Philosophical Transactions of the Royal Society A, **381**](https://doi.org/10.1098/rsta.2022.0135)
 
-18. Hewitt & Duck (2000), Non-axisymmetric Rotating-Disk Flows: Nonlinear Travelling-Wave States. *Journal of Fluid Mechanics*. ([Research Explorer][5])
-
+18. Hewitt, R. E., & Duck, P. W. (2000). *Non-axisymmetric Rotating-Disk Flows: Nonlinear Travelling-Wave States*. [Journal of Fluid Mechanics, **413**, 287–316](https://doi.org/10.1017/S0022112000008491)
 
 
 ### 9.4 Thermal Convection and Crystal Growth
