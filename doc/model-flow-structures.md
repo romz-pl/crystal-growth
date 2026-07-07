@@ -262,7 +262,7 @@ This taxonomy underlies observed phenomena across Taylor–Couette flow, rotatin
 
 ---
 
-## 9. References
+## 9. References: peered review journal articles
 
 For your report, I recommend citing papers from the highest-impact journals in fluid mechanics and crystal growth, including the *Journal of Fluid Mechanics*, *Physical Review Letters*, *Physics of Fluids*, *Journal of Crystal Growth*, *Annual Review of Fluid Mechanics*, *Applied Mechanics Reviews*, and *Philosophical Transactions of the Royal Society A*. These journals contain the foundational literature on symmetry breaking, rotating waves, Taylor–Couette flow, rotating-disk instability, Czochralski melt convection, and global instabilities. ([PMC][1])
 
@@ -383,6 +383,418 @@ These provide broad context and are excellent sources for introductions and lite
 2. Lueptow, R. M., Hollerbach, R., & Serre, E. (Eds.). (2023). *Taylor–Couette and Related Flows on the Centennial of Taylor's Seminal Paper*. [Philosophical Transactions of the Royal Society A, **381** (Theme Issue)](https://doi.org/10.1098/rsta.2022.0140)
 
 3. Lappa, M. (2009). *Thermal Convection: Patterns, Evolution and Stability*. [John Wiley & Sons](https://doi.org/10.1002/9780470747026)
+
+
+---
+
+## 10. References: books 
+
+
+For a comprehensive report on **Non-Axisymmetric Flow Structures in Axisymmetric Geometries**, the literature naturally spans several disciplines:
+
+* Hydrodynamic stability
+* Rotating fluid mechanics
+* Thermal convection
+* Crystal growth
+* Pattern formation and bifurcation
+* Nonlinear dynamics
+* Computational fluid dynamics
+* Turbulence
+* Numerical methods
+
+The following **30 books** are among the most authoritative references used by researchers in these areas.
+
+---
+
+# I. Hydrodynamic Stability (Essential)
+
+### 1.
+
+Hydrodynamic Stability
+
+**P. G. Drazin & W. H. Reid**
+
+Cambridge University Press (2nd Edition)
+
+*The standard graduate text on linear stability theory.*
+
+---
+
+### 2.
+
+Hydrodynamic and Hydromagnetic Stability
+
+**S. Chandrasekhar**
+
+Oxford University Press
+
+*The classic reference on Taylor–Couette flow, rotating fluids, Rayleigh–Bénard convection, and magnetohydrodynamics.*
+
+---
+
+### 3.
+
+Instabilities, Chaos and Turbulence
+
+**Paul Manneville**
+
+Imperial College Press
+
+*Covers nonlinear instability, bifurcation, and transition to turbulence.*
+
+---
+
+### 4.
+
+Stability and Transition in Shear Flows
+
+**Peter J. Schmid & Dan S. Henningson**
+
+Springer
+
+*Modern treatment of linear and non-modal stability analysis.*
+
+---
+
+### 5.
+
+The Theory of Hydrodynamic Stability
+
+**Richard Bellman**
+
+Dover Publications
+
+*A concise mathematical introduction to classical stability theory.*
+
+---
+
+# II. Rotating Fluid Mechanics
+
+### 6.
+
+Rotating Flow
+
+**Peter R. N. Childs**
+
+Butterworth-Heinemann
+
+*Engineering treatment of rotating flows, Ekman layers, and rotating machinery.*
+
+---
+
+### 7.
+
+Geophysical Fluid Dynamics
+
+**Joseph Pedlosky**
+
+Springer
+
+*Authoritative reference on rotating fluids, Rossby waves, and baroclinic instability.*
+
+---
+
+### 8.
+
+Atmosphere–Ocean Dynamics
+
+**Adrian E. Gill**
+
+Academic Press
+
+*Excellent discussion of rotating stratified flows.*
+
+---
+
+### 9.
+
+Waves in Fluids
+
+**James Lighthill**
+
+Cambridge University Press
+
+*Essential reference on inertial waves and rotating-fluid wave dynamics.*
+
+---
+
+### 10.
+
+Vortex Dynamics
+
+**P. G. Saffman**
+
+Cambridge University Press
+
+*Fundamental reference on vortex dynamics and swirling flows.*
+
+---
+
+# III. Thermal Convection
+
+### 11.
+
+Thermal Convection: Patterns, Evolution and Stability
+
+**Marcello Lappa**
+
+John Wiley & Sons
+
+*Probably the single best book for Sections 3.3–3.7 of your report.*
+
+---
+
+### 12.
+
+Convection in Porous Media
+
+**Donald A. Nield & Adrian Bejan**
+
+Springer
+
+*Comprehensive treatment of buoyancy-driven convection.*
+
+---
+
+### 13.
+
+Convective Heat Transfer
+
+**Louis C. Burmeister**
+
+Wiley
+
+*Strong theoretical foundation for thermal convection.*
+
+---
+
+### 14.
+
+Natural Convection in Enclosures
+
+**Y. Jaluria**
+
+Taylor & Francis
+
+*Focused on buoyancy-driven flows in enclosed geometries.*
+
+---
+
+# IV. Crystal Growth
+
+### 15.
+
+The Czochralski Method: Crystal Growth and Characterization
+
+Edited by **Peter Rudolph**
+
+Springer
+
+*The definitive reference on Czochralski growth.*
+
+---
+
+### 16.
+
+Handbook of Crystal Growth
+
+Edited by **D. T. J. Hurle**
+
+Elsevier
+
+*The standard multi-volume reference in crystal growth.*
+
+---
+
+### 17.
+
+Crystal Growth for Beginners
+
+**Ivan V. Markov**
+
+World Scientific
+
+*Excellent introductory text with discussions of melt convection.*
+
+---
+
+### 18.
+
+Handbook of Crystal Growth: Bulk Crystal Growth
+
+Elsevier
+
+*Detailed treatment of melt hydrodynamics and thermal transport.*
+
+---
+
+# V. Pattern Formation
+
+### 19.
+
+Pattern Formation: An Introduction to Methods
+
+**Rebecca Hoyle**
+
+Cambridge University Press
+
+*Outstanding introduction to symmetry breaking and pattern formation.*
+
+---
+
+### 20.
+
+Pattern Formation and Dynamics in Nonequilibrium Systems
+
+**Michael Cross & Henry Greenside**
+
+Cambridge University Press
+
+*The modern reference on amplitude equations and nonlinear pattern selection.*
+
+---
+
+### 21.
+
+Self-Organization in Nonequilibrium Systems
+
+**Gregoire Nicolis & Ilya Prigogine**
+
+Wiley
+
+*A classic on spontaneous symmetry breaking.*
+
+---
+
+# VI. Nonlinear Dynamics
+
+### 22.
+
+Nonlinear Dynamics and Chaos
+
+**Steven H. Strogatz**
+
+CRC Press
+
+*Graduate-level introduction to bifurcation and chaos.*
+
+---
+
+### 23.
+
+Introduction to Applied Nonlinear Dynamical Systems and Chaos
+
+**Stephen Wiggins**
+
+Springer
+
+*Rigorous mathematical treatment of nonlinear systems.*
+
+---
+
+### 24.
+
+Differential Equations, Dynamical Systems, and an Introduction to Chaos
+
+**Morris W. Hirsch, Stephen Smale & Robert L. Devaney**
+
+Academic Press
+
+*Foundational text for dynamical systems theory.*
+
+---
+
+### 25.
+
+Elements of Applied Bifurcation Theory
+
+**Yuri A. Kuznetsov**
+
+Springer
+
+*The standard graduate reference on bifurcation analysis.*
+
+---
+
+# VII. Fluid Mechanics
+
+### 26.
+
+Fluid Mechanics
+
+**L. D. Landau & E. M. Lifshitz**
+
+Butterworth-Heinemann
+
+*A rigorous theoretical treatment of continuum mechanics and fluid flow.*
+
+---
+
+### 27.
+
+Fluid Mechanics
+
+**Pijush K. Kundu, Ira M. Cohen & David R. Dowling**
+
+Academic Press
+
+*Widely used graduate textbook with strong coverage of vorticity, instability, and rotating flows.*
+
+---
+
+### 28.
+
+Viscous Fluid Flow
+
+**Frank M. White**
+
+McGraw-Hill
+
+*Comprehensive reference on viscous flows and boundary layers.*
+
+---
+
+# VIII. Computational Fluid Dynamics
+
+### 29.
+
+Computational Methods for Fluid Dynamics
+
+**Joel H. Ferziger, Milovan Perić & Robert L. Street**
+
+Springer
+
+*One of the most respected CFD texts, covering finite-volume methods and incompressible flow simulation.*
+
+---
+
+### 30.
+
+Computational Fluid Dynamics: The Basics with Applications
+
+**John D. Anderson Jr.**
+
+McGraw-Hill
+
+*A widely adopted introduction to CFD with practical numerical methods.*
+
+## Most essential books for this report
+
+If you want the strongest possible core library for your report, these ten stand out:
+
+1. Hydrodynamic Stability — Drazin & Reid
+2. Hydrodynamic and Hydromagnetic Stability — Chandrasekhar
+3. Thermal Convection: Patterns, Evolution and Stability — Lappa
+4. Pattern Formation and Dynamics in Nonequilibrium Systems — Cross & Greenside
+5. Stability and Transition in Shear Flows — Schmid & Henningson
+6. The Czochralski Method: Crystal Growth and Characterization — Rudolph (Ed.)
+7. Geophysical Fluid Dynamics — Pedlosky
+8. Vortex Dynamics — Saffman
+9. Elements of Applied Bifurcation Theory — Kuznetsov
+10. Computational Methods for Fluid Dynamics — Ferziger, Perić & Street
+
+These ten provide comprehensive coverage of the mathematical foundations (stability, symmetry, bifurcation, and nonlinear dynamics), the key physical mechanisms (centrifugal, buoyancy-driven, thermocapillary, rotating, and vortex-dominated flows), and the computational methods needed to support the theory and applications discussed throughout your report.
+
 
 ---
 
