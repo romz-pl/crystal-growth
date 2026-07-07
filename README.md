@@ -43,6 +43,7 @@
 + [Convective Transport and Instability Phenomena](./doc/model-instability-phenomena.md)
 + [Oscillatory Transition and Route to Turbulence](./doc/model-oscillatory-transition.md)
 + [Shear (Kelvin–Helmholtz-type) Instability](./doc/model-shear-instability.md)
++ [Non-Axisymmetric Flow Structures  in Axisymmetric Geometries](./doc/model-flow-structures.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
