@@ -332,19 +332,21 @@ For your report, I recommend citing papers from the highest-impact journals in f
 
 ### 9.5 Swirling Flows, Global Instability, and Precessing Vortex Core
 
-26. Oberleithner et al. (2011), Three-Dimensional Coherent Structures in a Swirl Combustor as Identified by Dynamic Mode Decomposition. *Journal of Fluid Mechanics*, **679**, 383–414.
+26. Oberleithner, K., Sieber, M., Nayeri, C. N., Paschereit, C. O., Petz, C., Hege, H.-C., Noack, B. R., & Wygnanski, I. (2011). *Three-Dimensional Coherent Structures in a Swirl Combustor as Identified by Dynamic Mode Decomposition*. [Journal of Fluid Mechanics, **679**, 383–414](https://doi.org/10.1017/jfm.2011.103)
 
-27. Gallaire & Chomaz (2003), Global Stability Analysis of Swirling Flows. *Journal of Fluid Mechanics*.
+27. Gallaire, F., & Chomaz, J.-M. (2003). *Global Stability Analysis of Swirling Flows*. [Journal of Fluid Mechanics, **494**, 223–253](https://doi.org/10.1017/S0022112003006174)
 
-28. Loiseleux, Chomaz & Huerre (2000), The Effect of Swirl on Jet Instability. *Physics of Fluids*.
+28. Loiseleux, T., Chomaz, J.-M., & Huerre, P. (2000). *The Effect of Swirl on Jet Instability*. [Physics of Fluids, **12**, 1967–1979](https://doi.org/10.1063/1.870436)
+
 
 
 
 ### 9.6 Non-Axisymmetric Rotating Flows and Polygonal Modes
 
-29. Vo, Montabone, Read & Sheard (2015), Non-axisymmetric Flows in a Differential-Disk Rotating System. *Journal of Fluid Mechanics*. ([Monash University][9])
+29. Vo, T., Montabone, L., Read, P. L., & Sheard, G. J. (2015). *Non-axisymmetric Flows in a Differential-Disk Rotating System*. [Journal of Fluid Mechanics, **775**, 349–386](https://doi.org/10.1017/jfm.2015.270)
 
-30. Gauthier, Gondret, Moisy & Rabaud (2002), Instabilities in the Flow Between Co- and Counter-Rotating Disks. *Journal of Fluid Mechanics*, **473**, 1–21.
+30. Gauthier, G., Gondret, P., Moisy, F., & Rabaud, M. (2002). *Instabilities in the Flow Between Co- and Counter-Rotating Disks*. [Journal of Fluid Mechanics, **473**, 1–21](https://doi.org/10.1017/S0022112002002525)
+
 
 ### 9.7 Recommended core references
 
