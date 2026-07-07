@@ -350,30 +350,28 @@ For your report, I recommend citing papers from the highest-impact journals in f
 
 ### 9.7 Recommended core references
 
-If you wish to keep the bibliography concise while covering nearly every aspect of your report, these ten are the strongest choices:
+If you wish to keep the bibliography concise while covering nearly every aspect of your report, these ten are the strongest choices. These papers collectively provide authoritative support for the mathematical framework (symmetry, Fourier modes, bifurcation theory), physical instability mechanisms (Taylor–Couette, rotating-disk, buoyancy-driven, thermocapillary, and swirling flows), nonlinear dynamics, and experimental observations presented throughout your report.
 
-* Taylor (1923)
-* Gollub & Swinney (1975)
-* Golubitsky & Stewart (1985)
-* Andereck, Liu & Swinney (1986)
-* Marcus (1984)
-* Lingwood (1995)
-* Levenstam & Amberg (1995)
-* Müller, Neumann & Weber (1984)
-* Lappa (2005)
-* Oberleithner et al. (2011)
+- Taylor, G. I. (1923). *Stability of a Viscous Liquid Contained Between Two Rotating Cylinders*. [Philosophical Transactions of the Royal Society A, **223**, 289–343](https://doi.org/10.1098/rsta.1923.0008)
 
-These papers collectively provide authoritative support for the mathematical framework (symmetry, Fourier modes, bifurcation theory), physical instability mechanisms (Taylor–Couette, rotating-disk, buoyancy-driven, thermocapillary, and swirling flows), nonlinear dynamics, and experimental observations presented throughout your report.
+- Gollub, J. P., & Swinney, H. L. (1975). *Onset of Turbulence in a Rotating Fluid*. [Physical Review Letters, **35**, 927–930](https://doi.org/10.1103/PhysRevLett.35.927)
 
-[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10008247/?utm_source=chatgpt.com "Taylor–Couette and related flows on the centennial of Taylor’s seminal Philosophical Transactions paper: part 2 - PMC"
-[2]: https://epubs.siam.org/doi/10.1137/0517023?utm_source=chatgpt.com "Symmetry and Stability in Taylor-Couette Flow | SIAM Journal on Mathematical Analysis"
-[3]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/corotating-taylorcouette-flow-enclosed-by-stationary-disks/ABEB3871DB37102DD5179B1D809814AC?utm_source=chatgpt.com "Co-rotating Taylor–Couette flow enclosed by stationary disks | Journal of Fluid Mechanics | Cambridge Core"
-[4]: https://doi.org/10.1098/rsta.2022.0135?utm_source=chatgpt.com "Instabilities and routes to turbulence in rotating disc boundary layers and cavities | Philosophical Transactions of the Royal Society A | The Royal Society"
-[5]: https://research.manchester.ac.uk/en/publications/non-axisymmetric-rotating-disk-flows-nonlinear-travelling-wave-st/?utm_source=chatgpt.com "Non-axisymmetric rotating-disk flows: Nonlinear travelling-wave states - Research Explorer The University of Manchester"
-[6]: https://www.sciencedirect.com/science/article/abs/pii/0146353584900996?utm_source=chatgpt.com "Hydrodynamics of Czochralski growth—A review of the effects of rotation and buoyancy force - ScienceDirect"
-[7]: https://www.sciencedirect.com/science/article/abs/pii/002202488490246X?utm_source=chatgpt.com "Hydrodynamic simulation of forced convection in Czochralski melts - ScienceDirect"
-[8]: https://tohoku.elsevierpure.com/en/publications/structure-of-temperature-and-velocity-fields-in-the-si-melt-of-a-?utm_source=chatgpt.com "Structure of temperature and velocity fields in the Si melt of a Czochralksi crystal growth system - Tohoku University"
-[9]: https://research.monash.edu/en/publications/non-axisymmetric-flows-in-a-differential-disk-rotating-system/?utm_source=chatgpt.com "Non-axisymmetric flows in a differential-disk rotating system - Monash University"
+- Golubitsky, M., & Stewart, I. (1985). *Hopf Bifurcation in the Presence of Symmetry*. [Archive for Rational Mechanics and Analysis, **87**, 107–165](https://doi.org/10.1007/BF00280698)
+
+- Andereck, C. D., Liu, S. S., & Swinney, H. L. (1986). *Flow Regimes in a Circular Couette System with Independently Rotating Cylinders*. [Journal of Fluid Mechanics, **164**, 155–183](https://doi.org/10.1017/S0022112086002513)
+
+- Marcus, P. S. (1984). *Simulation of Taylor–Couette Flow. Part 2. Numerical Results for Wavy-Vortex Flow with One Travelling Wave*. [Journal of Fluid Mechanics, **146**, 65–113](https://doi.org/10.1017/S0022112084001774)
+
+- Lingwood, R. J. (1995). *Absolute Instability of the Boundary Layer on a Rotating Disk*. [Journal of Fluid Mechanics, **299**, 17–33](https://doi.org/10.1017/S0022112095003405)
+
+- Levenstam, M., & Amberg, G. (1995). *Hydrodynamical Instabilities of Thermocapillary Flow in Crystal Growth*. [Journal of Fluid Mechanics, **297**, 357–372](https://doi.org/10.1017/S0022112095003119)
+
+- Müller, G., Neumann, G., & Weber, W. (1984). *Three-Dimensional Time-Dependent Simulation of Czochralski Melt Flow*. [Journal of Crystal Growth, **70**, 78–93](https://doi.org/10.1016/0022-0248(84)90389-8)
+
+- Lappa, M. (2005). *Oscillatory and Chaotic Convection in Czochralski Crystal Growth*. [Applied Mechanics Reviews, **58**, 237–284](https://doi.org/10.1115/1.1995713)
+
+- Oberleithner, K., Sieber, M., Nayeri, C. N., Paschereit, C. O., Petz, C., Hege, H.-C., Noack, B. R., & Wygnanski, I. (2011). *Three-Dimensional Coherent Structures in a Swirl Combustor as Identified by Dynamic Mode Decomposition*. [Journal of Fluid Mechanics, **679**, 383–414](https://doi.org/10.1017/jfm.2011.103)
+
 
 
 ### 9.8 Strongly recommended review articles
