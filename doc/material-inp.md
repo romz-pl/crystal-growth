@@ -19,9 +19,10 @@ Because InP dissociates well below its melting point and phosphorus has very hig
 | Thermal conductivity (solid, near $T_m$) | Low, $\sim 0.68\ \text{W/(cm K)}$ at 300 K, decreasing with T | Limits achievable axial temperature gradients without excessive thermal stress |
 | Critical resolved shear stress | Lower than GaAs/Si | High dislocation density (EPD) if thermal stress too high |
 | Density (solid) | $4.81\ \text{g/cm}^3$ | Buoyancy-driven convection in melt |
-| Density (liquid) | $\sim 5.6$–$5.7\ \text{g/cm}^3$ | Melt convection strength |
+| Density (liquid) | $\sim 5.6 - 5.7\ \text{g/cm}^3$ | Melt convection strength |
 
 The dominant growth challenge is **phosphorus loss by dissociative sublimation**:
+
 $$
 \text{InP(s or l)} \longrightarrow \text{In(l)} + \tfrac{1}{4}\text{P}_4(\text{g}) \quad \text{or} \quad \text{In(l)} + \tfrac{1}{2}\text{P}_2(\text{g})
 $$
@@ -47,7 +48,7 @@ The dominant historical method for InP boule production, directly adapted from G
 6. Diameter is controlled by adjusting heater power in response to meniscus geometry (optically monitored through the transparent encapsulant) or by weighing.
 
 **Key difficulties specific to InP-LEC**:
-- **Very high dislocation density** (typical EPD $10^4$–$10^5\ \text{cm}^{-2}$) because of the large radial and axial thermal gradients needed for a stable growth interface combined with InP's low critical resolved shear stress and low thermal conductivity — thermal stresses exceed the yield stress readily.
+- **Very high dislocation density** (typical EPD $10^4 - 10^5\ \text{cm}^{-2}$) because of the large radial and axial thermal gradients needed for a stable growth interface combined with InP's low critical resolved shear stress and low thermal conductivity — thermal stresses exceed the yield stress readily.
 - **Twinning**, especially at large diameters (>2 inch), due to constitutional supercooling and interface breakdown at high growth rates or poor stoichiometry control.
 - To reduce dislocations, InP-LEC often uses annealing after growth, or dopant hardening — see §5.
 
@@ -90,9 +91,11 @@ Because elemental In and P cannot simply be melted together safely (uncontrolled
 ### 4.1 Segregation and dopant distribution
 
 Dopant (S, Sn, Zn, Fe for semi-insulating, etc.) incorporation is governed by the effective segregation coefficient $k_{\text{eff}}$, related to the equilibrium coefficient $k_0$ via the Burton–Prim–Slichter relation:
+
 $$
 k_{\text{eff}} = \frac{k_0}{k_0 + (1-k_0)\exp\!\left(-\dfrac{v\delta}{D}\right)}
 $$
+
 where $v$ is the growth rate, $\delta$ the diffusion boundary layer thickness (set by melt convection strength), and $D$ the dopant diffusivity in the melt. Axial dopant (and hence resistivity/carrier concentration) uniformity is a first-order figure of merit for InP substrates used in epitaxial device layers.
 
 ### 4.2 Melt convection
@@ -100,7 +103,7 @@ where $v$ is the growth rate, $\delta$ the diffusion boundary layer thickness (s
 Both LEC and VGF/VB melts experience:
 - **Buoyancy-driven (natural) convection**, scaling with the thermal Grashof number $Gr = g\beta\Delta T L^3/\nu^2$
 - **Forced convection** from crystal/crucible rotation in LEC (Reynolds/Ekman number regimes)
-- **Marangoni (thermocapillary) convection** at the free InP/$\text{B}_2\text{O}_3$ or $\text{B}_2\text{O}_3$/gas interfaces in LEC, generally of secondary importance compared to GaAs LEC because the encapsulant damps surface-tension-driven flow at the melt surface itself
+- **Marangoni (thermocapillary) convection** at the free $\text{InP}/\text{B}_2\text{O}_3$ or $\text{B}_2\text{O}_3$/gas interfaces in LEC, generally of secondary importance compared to GaAs LEC because the encapsulant damps surface-tension-driven flow at the melt surface itself
 
 VGF/VB, lacking a free surface and rotation, generally operates at lower effective Grashof/Reynolds numbers, yielding more diffusive (less oscillatory) transport — one more reason for its superior compositional/thermal uniformity relative to LEC.
 
@@ -128,7 +131,7 @@ Thermoelastic stress in the growing crystal is estimated from the radial/axial t
 |---|---|---|
 | Melt confinement | Free surface, $\text{B}_2\text{O}_3$ encapsulated | Fully enclosed in shaped crucible |
 | P-loss suppression | Encapsulant + high inert gas overpressure | Encapsulant and/or controlled P vapor overpressure |
-| Typical EPD | $10^4$–$10^5\ \text{cm}^{-2}$ | $10^2$–$10^4\ \text{cm}^{-2}$ (dopant-hardened) |
+| Typical EPD | $10^4 - 10^5\ \text{cm}^{-2}$ | $10^2 - 10^4\ \text{cm}^{-2}$ (dopant-hardened) |
 | Growth rate | Moderate (pulling-rate limited, ~5–15 mm/h) | Slow (<5 mm/h) |
 | Diameter/shape control | Dynamic (meniscus/weight feedback) | Fixed by crucible geometry |
 | In-situ monitoring | Optical (through encapsulant) | None (thermal/model-based only) |
