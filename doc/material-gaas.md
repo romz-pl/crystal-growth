@@ -90,14 +90,14 @@ $$
 
 where $k$ is thermal conductivity, $\nabla T$ the temperature gradient at the interface, $\rho$ the density, and $\Delta H_f$ the latent heat of fusion — i.e., interface advance is fundamentally a Stefan (moving-boundary) heat-conduction problem, modulated in Cz/LEC by convective heat transport from rotation and buoyancy.
 
-- **Segregation at the interface** follows (in the diffusion-limited/boundary-layer picture) the Burton–Prim–Slichter relation
-- 
+- **Segregation at the interface** follows (in the diffusion-limited/boundary-layer picture) the Burton–Prim–Slichter relation, where $k_0$ is the equilibrium segregation coefficient, $v$ the growth velocity, $\delta$ the diffusion boundary layer thickness (set by convection strength), and $D$ the solute diffusivity in the melt:
+  
 $$
 k_{\text{eff}} = \frac{k_0}{k_0 + (1-k_0)\exp(-v\,\delta/D)}
-
 $$
-where $k_0$ is the equilibrium segregation coefficient, $v$ the growth velocity, $\delta$ the diffusion boundary layer thickness (set by convection strength), and $D$ the solute diffusivity in the melt.
+
 - **Convective regime** (buoyancy vs. rotation vs. Marangoni, where applicable) sets $\delta$ and hence dopant/stoichiometry uniformity; this is the direct link to the fluid-dynamics/instability literature (Kelvin–Helmholtz transitions, oscillatory convection routes to turbulence) relevant to melt growth generally.
+
 - **Dislocation generation** is predominantly thermal-stress-driven, following resolved shear stress on the relevant slip systems (for zincblende, primarily $\{111\}\langle 110\rangle$) exceeding the critical resolved shear stress at growth temperature — this is why gradient minimization (VGF/VB) outperforms LEC on dislocation density despite LEC's advantage in producible boule diameter and historical maturity.
 
 ---
@@ -110,6 +110,6 @@ where $k_0$ is the equilibrium segregation coefficient, $v$ the growth velocity,
 | Melt surface | Free (encapsulated) | None (fully sealed) |
 | Diameter control | Weight-sensing servo, pull/rotation rate | Fixed by crucible geometry |
 | Typical thermal gradients | High | Low |
-| Dislocation density | $10^4$–$10^5\,\mathrm{cm^{-2}}$ | $<10^3\,\mathrm{cm^{-2}}$, near-zero achievable |
+| Dislocation density | $10^4 - 10^5\,\mathrm{cm^{-2}}$ | $<10^3\,\mathrm{cm^{-2}}$, near-zero achievable |
 | Boule cross-section | Round, large diameter achievable | Round (VGF/VB) constrained by crucible |
 | Maturity / historical role | Original industrial workhorse | Current dominant method for substrate-grade GaAs |
