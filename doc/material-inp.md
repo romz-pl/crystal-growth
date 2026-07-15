@@ -71,7 +71,7 @@ Now the industrially preferred method for high-quality, low-dislocation-density 
 4. Growth rates are slow, typically < 5 mm/h, to maintain a stable, nearly planar solid–liquid interface and minimize constitutional supercooling.
 
 **Advantages over LEC**:
-- Dramatically lower dislocation densities (EPD can be reduced by 1–2 orders of magnitude, approaching $10^2$–$10^4\ \text{cm}^{-2}$ or lower with dopant hardening) because axial/radial gradients are much smaller and more axially symmetric, and there is no pulling-induced or free-surface thermal perturbation.
+- Dramatically lower dislocation densities (EPD can be reduced by 1–2 orders of magnitude, approaching $10^2 - 10^4\ \text{cm}^{-2}$ or lower with dopant hardening) because axial/radial gradients are much smaller and more axially symmetric, and there is no pulling-induced or free-surface thermal perturbation.
 - Better diameter uniformity and less thermal shock, since the crystal shape is defined by the crucible rather than a dynamically controlled meniscus.
 - Reduced twinning tendency.
 
