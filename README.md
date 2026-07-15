@@ -68,8 +68,8 @@
 + [**Aleks G. Ostrogorsky**, Mechanical & Aerospace Engineering Department, Illinois Institute of Technology](./doc/bibliography-aostrogorsky.md)
 
 ## Matrials grown from melt
-+ [III–V Compound Semiconductors Grown from the Melt](./doc/material-III-V.md)
-+ [II–VI Compound Semiconductors Grown from the Melt](./doc/material-II-VI.md)
++ [**III–V** Compound Semiconductors Grown from the Melt](./doc/material-III-V.md)
++ [**II–VI** Compound Semiconductors Grown from the Melt](./doc/material-II-VI.md)
 
 
 ## References
