@@ -25,10 +25,10 @@ Below is the exhaustive list of III–V binaries industrially or experimentally 
 
 | Material | Growth Methods Used | Notes |
 |---|---|---|
-| **In$_x$Ga$_{1-x}$As** | **Vertical Gradient Freeze / Bridgman (with melt replenishment or supply)**, Traveling Heat Solvent | Compositional segregation is the central challenge; solute-feeding/melt-replenishment techniques developed to maintain uniform $x$ |
-| **In$_x$Ga$_{1-x}$Sb** | **Double-Crucible Czochralski**, Solute-Feeding Czochralski, Bridgman/Gradient Freeze | Double-crucible and solute-feeding CZ variants specifically developed to control alloy homogeneity along growth axis |
-| **InAs$_x$P$_{1-x}$** | Bridgman, Gradient Freeze | Less mature than GaInSb/GaInAs; segregation control remains difficult |
-| **Al$_x$Ga$_{1-x}$Sb** | Bridgman, Gradient Freeze | Grown mainly for IR optoelectronic substrate applications |
+| **InAsₓP₁₋ₓ** | **Vertical Gradient Freeze / Bridgman (with melt replenishment or supply)**, Traveling Heat Solvent | Compositional segregation is the central challenge; solute-feeding/melt-replenishment techniques developed to maintain uniform $x$ |
+| **InₓGa₁₋ₓSb** | **Double-Crucible Czochralski**, Solute-Feeding Czochralski, Bridgman/Gradient Freeze | Double-crucible and solute-feeding CZ variants specifically developed to control alloy homogeneity along growth axis |
+| **InAsₓP₁₋ₓ** | Bridgman, Gradient Freeze | Less mature than GaInSb/GaInAs; segregation control remains difficult |
+| **AlₓGa₁₋ₓSb** | Bridgman, Gradient Freeze | Grown mainly for IR optoelectronic substrate applications |
 
 ## Summary of Favorite (Most Widely Used/Preferred) Methods
 
@@ -39,7 +39,7 @@ Below is the exhaustive list of III–V binaries industrially or experimentally 
 - **InAs** → **LEC**
 - **InSb** → **CZ** (conventional, non-encapsulated)
 - **AlSb** → Bridgman (no single dominant industrial favorite; niche material)
-- **In$_x$Ga$_{1-x}$As** → Bridgman/VGF with melt replenishment
-- **In$_x$Ga$_{1-x}$Sb** → Double-crucible CZ / solute-feeding CZ
+- **InₓGa₁₋ₓAs** → Bridgman/VGF with melt replenishment
+- **InₓGa₁₋ₓSb** → Double-crucible CZ / solute-feeding CZ
 
 **Excluded from melt growth entirely:** BN, AlN, GaN, InN (wurtzite nitrides — no congruent melt at practical pressures; grown by vapor-phase, ammonothermal, or HPHT solution methods), and AlP, BP, BAs, BSb (decompose at or before their melting points under normal conditions).
