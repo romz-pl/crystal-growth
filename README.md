@@ -71,6 +71,7 @@
 + [**III–V** Compound Semiconductors Grown from the Melt](./doc/material-III-V.md)
 + [**II–VI** Compound Semiconductors Grown from the Melt](./doc/material-II-VI.md)
 + [**InP** Growth Process](./doc/material-inp.md)
++ [**GaAs** Growth Process](./doc/material-gaas.md)
 
 
 ## References
