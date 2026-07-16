@@ -14,6 +14,7 @@
 + [Melt Congruency](./doc/phenomena-melt-congruency.md)
 + [Thermal Conductivity](./doc/phenomena-thermal-conductivity.md)
 + [Thermal Expansion](./doc/phenomena-thermal-expansion.md)
++ [Seeding Process](./doc/phenomena-seeding-process.md)
 
 
 
