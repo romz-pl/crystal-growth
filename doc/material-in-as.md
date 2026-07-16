@@ -12,7 +12,7 @@ Indium arsenide (InAs) is a III–V narrow-gap semiconductor, crystallizing in t
 | Bandgap | $E_g \approx 0.354\ \text{eV}$ (300 K, direct) |
 | Density (solid) | $\rho_s \approx 5.67\ \text{g/cm}^3$ |
 | Density (melt) | $\rho_l \approx 5.55\ \text{g/cm}^3$ |
-| As dissociation pressure at $T_m$ | High — several atm of $\text{As}_4$/$\text{As}_2$ vapor |
+| As dissociation pressure at $T_m$ | High — several atm of $\text{As}_4$ / $\text{As}_2$ vapor |
 | Congruent melting | Yes, at As-rich composition close to stoichiometry |
 
 The dominant growth challenge is the **high equilibrium vapor pressure of arsenic** over the melt near the melting point (similar in character to GaAs and InP, though InAs is somewhat less extreme than GaAs). This drives the need for either a sealed ampoule, an encapsulant, or an overpressure-controlled system.
