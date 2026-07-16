@@ -80,6 +80,7 @@
 + [**AlP** Growth Process](./doc/material-al-p.md)
 + [**AlSb** Growth Process](./doc/material-al-sb.md)
 + [**ZnS** Growth Process](./doc/material-zn-s.md)
++ [**ZnSe** Growth Process](./doc/material-zn-se.md)
 
 
 ## References
