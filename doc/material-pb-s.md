@@ -7,7 +7,7 @@ Lead sulfide (PbS, galena) is the archetypal member of the lead-chalcogenide (IV
 Growth of PbS is dominated by two coupled difficulties that distinguish it from more "conventional" III-V or II-VI melt growth:
 
 1. **Extreme sensitivity of electrical properties to stoichiometry.** PbS is a nonstoichiometric compound with a very narrow homogeneity range around the 1:1 composition. Native point defects — Pb vacancies/interstitials and S vacancies/interstitials — act as shallow acceptors or donors, so carrier type and concentration are set almost entirely by the Pb/S ratio in the growth environment rather than by extrinsic dopants alone.
-2. **High sulfur vapor pressure over the melt.** Because S (and S$_2$/S$_x$ vapor species) are volatile relative to the PbS compound, melt growth in an open or poorly sealed system loses sulfur preferentially, driving the crystal toward the Pb-rich side of the phase field and altering carrier concentration along the growth axis.
+2. **High sulfur vapor pressure over the melt.** Because S (and $\text{S}_2$ / $\text{S}_x$ vapor species) are volatile relative to the PbS compound, melt growth in an open or poorly sealed system loses sulfur preferentially, driving the crystal toward the Pb-rich side of the phase field and altering carrier concentration along the growth axis.
 
 These two facts govern essentially every design decision described below.
 
