@@ -116,7 +116,7 @@ for Si ($\sigma \approx 0.72\ \text{N/m}$, $\rho \approx 2530\ \text{kg/m}^3$ li
 
 ### 4.2 Governing Physics
 
-- **No crucible contact** removes the oxygen source present in CZ; FZ Si typically has oxygen concentrations orders of magnitude below CZ Si (down to background/detection limits vs. $10^{17}$–$10^{18}\ \text{cm}^{-3}$ in CZ).
+- **No crucible contact** removes the oxygen source present in CZ; FZ Si typically has oxygen concentrations orders of magnitude below CZ Si (down to background/detection limits vs. $10^{17} - 10^{18}\ \text{cm}^{-3}$ in CZ).
 - **Needle-eye / RF coil design** concentrates induction heating in a thin band, maintaining a narrow, well-defined molten zone.
 - **Melt-zone shape and stability** depend on the balance of surface tension, gravity, and electromagnetic (Lorentz) pressure from the RF coil, which can be used deliberately to help support larger zones.
 - **Thermal gradients** at both interfaces (lower solidifying, upper melting) are steeper than in CZ, permitting different microdefect and dislocation dynamics; dislocation-free growth again relies on a thin-neck technique analogous to CZ.
