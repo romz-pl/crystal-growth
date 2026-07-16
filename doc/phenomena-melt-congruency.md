@@ -14,7 +14,7 @@ This distinction is not a minor phase-diagram curiosity — it is one of the pri
 
 ### 2.1 Congruent Melting Compositions
 
-In a binary (or pseudo-binary) system $A$–$B$ forming a compound $AB$, congruent melting at $AB$ manifests as:
+In a binary (or pseudo-binary) system $A - B$ forming a compound $AB$, congruent melting at $AB$ manifests as:
 
 - A liquidus maximum (in most practical cases) exactly at the stoichiometric composition
 - Solidus and liquidus curves meeting at a single point with zero slope discontinuity in the ideal case
