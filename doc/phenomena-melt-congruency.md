@@ -26,7 +26,7 @@ For a peritectic compound, the reaction on heating is:
 
 $$\text{Solid}_{AB} \rightarrow \text{Liquid}_{L} + \text{Solid}_{A_x B_y}$$
 
-with $L \neq AB$ in composition. Growing $AB$ from a melt of its own stoichiometry is then thermodynamically impossible in a simple sense — the melt splits into a different-composition liquid and a competing solid phase. This is the root cause of parasitic phase formation, constitutional supercooling, and morphological instability in many technologically important materials (e.g., many high-$T_c$ superconductors, several intermetallics, and some oxide compounds such as certain garnets and perovskites).
+with $L \neq AB$ in composition. Growing $AB$ from a melt of its own stoichiometry is then thermodynamically impossible in a simple sense — the melt splits into a different-composition liquid and a competing solid phase. This is the root cause of parasitic phase formation, constitutional supercooling, and morphological instability in many technologically important materials (e.g., many $\text{high} - T_c$ superconductors, several intermetallics, and some oxide compounds such as certain garnets and perovskites).
 
 ### 2.3 Congruently Melting Compositions Off Stoichiometry
 
