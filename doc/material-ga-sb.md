@@ -46,8 +46,8 @@ The remainder of this document details the **Vertical Bridgman / Vertical Gradie
 The VB/VGF method relies on translating a temperature gradient (fixed multi-zone furnace, VGF) or the ampoule itself (VB) so that the solid–liquid interface advances progressively from the seed through the melt.
 
 - **Gradient freeze principle**: A furnace with independently controlled hot and cold zones is used; the temperature profile is shifted axially (electronically, without mechanical translation, in VGF) or the ampoule is lowered (in VB) through a fixed axial gradient.
-- **Axial thermal gradient**: Typically kept low, on the order of $2$–$10\ \text{K/cm}$ near the interface, to minimize thermal stress and dislocation generation, given GaSb's low critical resolved shear stress.
-- **Growth rate**: Typically $1$–$10\ \text{mm/h}$, chosen slow enough to maintain a stable, nearly planar solid–liquid interface and avoid constitutional supercooling, particularly important because of the significant segregation of common dopants in GaSb.
+- **Axial thermal gradient**: Typically kept low, on the order of $2 - 10\ \text{K/cm}$ near the interface, to minimize thermal stress and dislocation generation, given GaSb's low critical resolved shear stress.
+- **Growth rate**: Typically $1 - 10\ \text{mm/h}$, chosen slow enough to maintain a stable, nearly planar solid–liquid interface and avoid constitutional supercooling, particularly important because of the significant segregation of common dopants in GaSb.
 - **Interface shape control**: A slightly convex (into the melt) interface is generally preferred to sweep dislocations toward the crystal periphery, but excessive convexity increases radial thermal stress. This is a central trade-off addressed by numerical modelling of the furnace's heat transfer (radiative and conductive) and, where convection is present, coupled melt flow.
 
 Governing heat-transport balance at the moving interface (Stefan condition):
