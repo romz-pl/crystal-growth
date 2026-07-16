@@ -109,3 +109,4 @@
 + [PhD Theses on Crystal Growth Modeling and Simulation](./doc/refs-phd-theses.md)
 + [Journals for Publishing Crystal Growth Research](./doc/journals.md)
 + [International Conferences for Crystal Growth Research](./doc/conferences.md)
++ [Patents](./doc/patents.md)
