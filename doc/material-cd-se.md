@@ -1,4 +1,4 @@
-# Growth of CdSe Single Crystals (II–VI Semiconductor)
+# Growth of CdSe Single Crystals
 
 ## 1. Material Background
 
@@ -13,7 +13,7 @@ CdSe melts congruently at approximately $1350\ \text{K}$ ($\sim 1077\ ^\circ\tex
 
 Three material properties dominate process selection:
 
-1. **High dissociation vapor pressure.** Near the melting point, CdSe partially dissociates into Cd and Se$_2$ vapor, with total pressures reaching several atmospheres. An open-crucible pull (as in conventional Czochralski) would lose stoichiometry through evaporation.
+1. **High dissociation vapor pressure.** Near the melting point, CdSe partially dissociates into Cd and $\text{Se}_2$ vapor, with total pressures reaching several atmospheres. An open-crucible pull (as in conventional Czochralski) would lose stoichiometry through evaporation.
 2. **Narrow region of existence.** The homogeneity range around the stoichiometric composition is narrow; small deviations in the Cd:Se ratio strongly affect native point-defect concentration (Cd or Se vacancies/interstitials), and hence electrical and optical properties.
 3. **Low thermal conductivity and high thermal expansion anisotropy** (hexagonal structure) — this makes the crystal prone to thermal stress, twinning, and stacking faults if axial and radial gradients are not carefully controlled.
 
@@ -30,7 +30,7 @@ This is the dominant technique for producing bulk CdSe boules, following the sam
 1. **Charge synthesis.** Stoichiometric (or slightly Cd-rich) elemental Cd and Se are loaded into a fused-silica (quartz) ampoule, which is evacuated and sealed to prevent oxidation and to contain vapor pressure.
 2. **Compound synthesis (reaction stage).** The sealed ampoule is heated slowly through the Cd–Se reaction exotherm (well below the melting point first, to avoid a runaway pressure spike from the highly exothermic Cd + Se reaction) and then raised above the CdSe melting point to homogenise the melt.
 3. **Directional solidification.** The ampoule (or the furnace, in modern multi-zone systems) is translated through a temperature gradient that straddles the melting point, so the solid–liquid interface sweeps from one end of the ampoule to the other at a controlled rate (typically on the order of a few mm/hour to a few mm/day, depending on diameter and desired defect density).
-4. **Overpressure control.** A separate, cooler zone of the ampoule may be held at a controlled temperature to fix the Cd (or Se$_2$) vapor pressure over the melt — directly analogous to the "cadmium overpressure" method used for CdTe — which stabilizes the melt stoichiometry and suppresses the formation of the second, excess-element phase upon cooling.
+4. **Overpressure control.** A separate, cooler zone of the ampoule may be held at a controlled temperature to fix the Cd (or $\text{Se}_2$) vapor pressure over the melt — directly analogous to the "cadmium overpressure" method used for CdTe — which stabilizes the melt stoichiometry and suppresses the formation of the second, excess-element phase upon cooling.
 5. **Seeding (optional).** A single-crystal seed of known orientation may be placed at the cold end to promote single-grain growth and control crystallographic orientation of the boule.
 6. **Post-growth anneal.** The grown boule is annealed under a controlled Cd or Se vapor pressure to homogenise native point defects and reduce precipitate formation.
 
