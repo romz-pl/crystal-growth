@@ -70,10 +70,11 @@
 ## Matrials grown from melt
 + [**III–V** Compound Semiconductors Grown from the Melt](./doc/material-III-V.md)
 + [**II–VI** Compound Semiconductors Grown from the Melt](./doc/material-II-VI.md)
-+ [**InP** Growth Process](./doc/material-inp.md)
 + [**GaAs** Growth Process](./doc/material-gaas.md)
 + [**GaP** Growth Process](./doc/material-ga-p.md)
 + [**GaSb** Growth Process](./doc/material-ga-sb.md)
++ [**InAs** Growth Process](./doc/material-in-as.md)
++ [**InP** Growth Process](./doc/material-inp.md)
 
 
 ## References
