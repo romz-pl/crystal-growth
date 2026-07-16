@@ -54,13 +54,17 @@ $$
 
 **Melt convection.** The CZ melt pool is driven by:
 - **Buoyancy (natural) convection**, characterized by the thermal Rayleigh number
+
 $$
 Ra = \frac{g\,\beta\,\Delta T\,R^3}{\nu\,\alpha}
 $$
+
 - **Marangoni (thermocapillary) convection** at the free melt surface, characterized by
+
 $$
 Ma = \frac{\left|\dfrac{\partial \sigma}{\partial T}\right|\Delta T\, R}{\mu\,\alpha}
 $$
+
 - **Forced convection** from crystal and crucible rotation (often counter-rotated), characterized by rotational Reynolds numbers $Re_{cr} = \Omega_{cr} R_{cr}^2/\nu$ and $Re_{xtl} = \Omega_{xtl} R_{xtl}^2/\nu$.
 
 For large-diameter modern CZ pullers (200–450 mm crystals), $Ra$ is very high ($10^7$–$10^9$), placing the melt flow in an oscillatory or turbulent regime, which is the principal source of microscopic growth-rate fluctuations and striations.
@@ -101,9 +105,11 @@ FZ growth is **crucible-free**, eliminating the dominant oxygen/carbon contamina
 1. A vertical polycrystalline Si rod (from the Siemens process) is mounted with a seed crystal at the bottom.
 2. An RF induction coil creates a narrow **molten zone** that is passed along the rod.
 3. Surface tension alone supports the melt against gravity across the (small) unsupported zone — the **Pfann/Heffner floating-zone stability limit** restricts the maximum stable molten-zone diameter, given approximately by
+
 $$
 d_{\max} \approx 2\left(\frac{2\sigma}{\rho\, g}\right)^{1/2}
 $$
+
 for Si ($\sigma \approx 0.72\ \text{N/m}$, $\rho \approx 2530\ \text{kg/m}^3$ liquid), limiting practical FZ ingot diameters to roughly 100–150 mm without additional support fields, versus 450 mm achievable in CZ.
 4. Multiple zone passes can be used for **zone refining**, exploiting $k_0 \neq 1$ to sweep impurities to one end.
 5. Dopants may be introduced by **gas-phase (PF₅/B₂H₆) doping** during zone passage, or by neutron transmutation doping (NTD) of high-purity FZ rods post-growth (used for high-voltage power devices).
