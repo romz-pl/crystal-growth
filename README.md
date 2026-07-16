@@ -11,6 +11,7 @@
 ## Chemical and Physical Phenomena
 + [List of Chemical and Physical Phenomena](./doc/phenomena.md)
 + [Dissociation Vapor Pressure](./doc/phenomena-dissociation-vapor-pressure.md)
++ [Melt Congruency](./doc/phenomena-melt-congruency.md)
 
 
 
