@@ -66,7 +66,7 @@ $$
 C_s(f_s) = k_0\, C_0\, (1-f_s)^{k_0 - 1}
 $$
 
-where $C_0$ is the initial melt dopant concentration, $f_s$ is the fraction solidified, and $k_0$ is the equilibrium segregation coefficient. For GaSb, reported effective segregation coefficients include $k_0(\text{Te}) \approx 0.3 - 0.5$ and $k_0(\text{Zn}) \approx 0.02$–$0.1$, both substantially less than unity, producing pronounced axial resistivity gradients along the boule that must be characterized and sometimes compensated by melt replenishment or controlled convective mixing.
+where $C_0$ is the initial melt dopant concentration, $f_s$ is the fraction solidified, and $k_0$ is the equilibrium segregation coefficient. For GaSb, reported effective segregation coefficients include $k_0(\text{Te}) \approx 0.3 - 0.5$ and $k_0(\text{Zn}) \approx 0.02 - 0.1$, both substantially less than unity, producing pronounced axial resistivity gradients along the boule that must be characterized and sometimes compensated by melt replenishment or controlled convective mixing.
 
 ### 3.5 Post-Growth Cooling
 
@@ -76,7 +76,7 @@ After complete solidification, the boule is cooled slowly through the range near
 
 1. Polycrystalline GaSb charge is melted in a crucible (often pBN or graphite-lined) under inert atmosphere; a thin $B_2O_3$ encapsulant layer may be used to suppress Sb evaporation and reduce radial temperature asymmetry, although it is less critical than in GaAs LEC due to GaSb's lower Sb equilibrium vapor pressure at $T_m$.
 2. A seed crystal is dipped into the melt surface, necked down to a small diameter to eliminate grown-in dislocations from the seed (Dash-necking technique), then shouldered out to full diameter.
-3. The crystal is pulled upward at rates of order $1$–$3\ \text{mm/min}$ while both crystal and crucible are counter-rotated to average out azimuthal thermal asymmetries and control the melt convection pattern.
+3. The crystal is pulled upward at rates of order $1 - 3\ \text{mm/min}$ while both crystal and crucible are counter-rotated to average out azimuthal thermal asymmetries and control the melt convection pattern.
 4. Because GaSb has a low critical resolved shear stress, dislocation densities in CZ/LEC GaSb tend to be higher than in Bridgman/VGF material unless very carefully optimized low-gradient "fully encapsulated" LEC conditions are used.
 5. Diameter control is achieved by adjusting pull rate and heater power in response to real-time meniscus/weight-sensing feedback, following the standard Czochralski diameter-control control-loop approach used across melt-grown semiconductors.
 
