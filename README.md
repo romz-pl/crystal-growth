@@ -71,6 +71,7 @@
 + [**Elemental** semiconductors](./doc/material-elemental.md)
 + [**III–V** Compound Semiconductors](./doc/material-III-V.md)
 + [**II–VI** Compound Semiconductors](./doc/material-II-VI.md)
++ [**Si** Growth Process](./doc/material-si.md)
 + [**GaAs** Growth Process](./doc/material-gaas.md)
 + [**GaP** Growth Process](./doc/material-ga-p.md)
 + [**GaSb** Growth Process](./doc/material-ga-sb.md)
