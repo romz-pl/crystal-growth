@@ -90,6 +90,7 @@
 + [**CdTe** Growth Process](./doc/material-cd-te.md)
 + [**PbS** Growth Process](./doc/material-pb-s.md)
 + [**PbSe** Growth Process](./doc/material-pb-se.md)
++ [**PbTe** Growth Process](./doc/material-pb-te.md)
 
 
 ## References
