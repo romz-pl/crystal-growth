@@ -1,12 +1,15 @@
 # Crystal Growth Modeling and Simulation
 
 
-## Physics of the Growth Process
+## Crystal Growth Overview
 + [What is crystal growth?](./doc/crystal-growth.md)
 + [List of crystal growth methods from **melt**](./doc/crystal-growth-from-melt.md)
 + [List of crystal growth methods from **solution**](./doc/crystal-growth-from-solution.md)
 + [List of crystal growth methods from **vapor**](./doc/crystal-growth-from-vapor.md)
-+ [Chemical and Physical Phenomena](./doc/phenomena.md)
+
+
+## Chemical and Physical Phenomena
++ [List of Chemical and Physical Phenomena](./doc/phenomena.md)
 
 
 
