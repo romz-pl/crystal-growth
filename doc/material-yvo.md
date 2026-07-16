@@ -124,7 +124,7 @@ Developed specifically to bypass the oxygen-deficiency problem inherent to melt 
 ## References
 
 
-1. Zhang, H., Fang, H.-S., et al., **Nd:YVO₄ crystal growth by Czochralski technique with a submerged plate**, [Journal of Crystal Growth 311 (2009), 4652–4659](https://doi.org/10.1016/j.jcrysgro.2009.09.002)
+1. Fang, H.-S., Derby, J. J., et al., **Reducing Melt Inclusion by Submerged Heater or Baffle for Optical Crystal Growth**, [Crystal Growth & Design 8 (2008), 221–229](https://doi.org/10.1021/cg700815d)
 2. Zhang, H., Fang, H., et al., **Nd:YVO₄ crystal growth by Czochralski technique with a submerged plate**, [Journal of Crystal Growth 311 (2009) 4652–4659](https://doi.org/10.1016/j.jcrysgro.2009.09.002)
 3. Forbes, A. R., McMillen, C. D., Giesber, H. G., Kolis, J. W., **The hydrothermal synthesis, solubility and crystal growth of YVO₄ and Nd:YVO₄**, [Journal of Crystal Growth 310 (2008) 4472–4476](https://doi.org/10.1016/j.jcrysgro.2008.06.067)
 4. Higuchi, M., et al., **Growth of high quality and large-sized Nd:YVO₄ single crystal**, [Journal of Crystal Growth 266 (2004) 496–499](https://doi.org/10.1016/j.jcrysgro.2004.03.007)
