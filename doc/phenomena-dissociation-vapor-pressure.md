@@ -102,7 +102,7 @@ Because the vapor pressure boundary condition depends on local free-surface temp
 | InP | $\mathrm{P}_2$, $\mathrm{P}_4$ | Several atm at $1062\,^\circ\mathrm{C}$ | LEC, VGF |
 | CdTe / CdZnTe | Cd, $\mathrm{Te}_2$ | Several atm at $1092\,^\circ\mathrm{C}$ | Bridgman, THM |
 | GaP | $\mathrm{P}_2$, $\mathrm{P}_4$ | High (tens of atm regime) | LEC (high-pressure), VGF |
-| ZnSe / ZnS | Zn, $\mathrm{Se}_2$/$\mathrm{S}_2$ | Very high | Seeded PVT preferred over melt growth |
+| ZnSe / ZnS | Zn, $\mathrm{Se}_2$ / $\mathrm{S}_2$ | Very high | Seeded PVT preferred over melt growth |
 
 The last row illustrates a key practical consequence: when dissociation vapor pressure becomes too large for any melt-containment strategy to manage economically, growers abandon melt growth altogether in favor of vapor-phase methods (PVT, sublimation-recondensation), which sidestep the containment problem by working with the vapor phase directly rather than suppressing it.
 
