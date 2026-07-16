@@ -68,7 +68,6 @@
 + [**Aleks G. Ostrogorsky**, Mechanical & Aerospace Engineering Department, Illinois Institute of Technology](./doc/bibliography-aostrogorsky.md)
 
 ## Selected Materials and its Methods of Growth
-+ [**Elemental** semiconductors](./doc/material-elemental.md)
 + [**III–V** Compound Semiconductors](./doc/material-III-V.md)
 + [**II–VI** Compound Semiconductors](./doc/material-II-VI.md)
 + [**Si**](./doc/material-si.md)
