@@ -76,6 +76,7 @@
 + [**InAs** Growth Process](./doc/material-in-as.md)
 + [**InP** Growth Process](./doc/material-inp.md)
 + [**InSb** Growth Process](./doc/material-in-sb.md)
++ [**AlAs** Growth Process](./doc/material-al-as.md)
 
 
 ## References
