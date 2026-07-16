@@ -121,4 +121,7 @@ Developed specifically to bypass the oxygen-deficiency problem inherent to melt 
 
 ---
 
-*Compiled from published crystal-growth literature on YVO₄ and Nd:YVO₄ (Czochralski, TSSG, LHPG, EFG, and hydrothermal growth studies).*
+## References
+
+
+1. Erdei, S., et al., **Growth of oxygen deficiency-free YVO₄ single crystal by top-seeded solution growth technique**, [Journal of Crystal Growth 134 (1993) 1–13](https://doi.org/10.1016/0022-0248(93)90002-E)
