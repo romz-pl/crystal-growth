@@ -2,11 +2,11 @@
 
 ## 1. Material Background
 
-PbSe crystallizes in the rock-salt (NaCl, $Fm\bar{3}m$) structure, with a lattice parameter of approximately $a \approx 6.117\ \text{Å}$ at room temperature. It is a narrow-gap IV–VI semiconductor (bulk indirect/direct-at-L-point gap $E_g \approx 0.28\ \text{eV}$ at 300 K, decreasing toward $\sim 0.15$–$0.17\ \text{eV}$ at low temperature due to the anomalous *positive* temperature coefficient of the gap characteristic of the lead chalcogenides). Its congruent melting point is $T_m \approx 1078\ ^\circ\text{C}$ ($1351\ \text{K}$).
+PbSe crystallizes in the rock-salt (NaCl, $Fm\bar{3}m$) structure, with a lattice parameter of approximately $a \approx 6.117\ \text{Å}$ at room temperature. It is a narrow-gap IV–VI semiconductor (bulk indirect/direct-at-L-point gap $E_g \approx 0.28\ \text{eV}$ at 300 K, decreasing toward $\sim 0.15 - 0.17\ \text{eV}$ at low temperature due to the anomalous *positive* temperature coefficient of the gap characteristic of the lead chalcogenides). Its congruent melting point is $T_m \approx 1078\ ^\circ\text{C}$ ($1351\ \text{K}$).
 
 Key growth-relevant properties:
 
-- **Homogeneity range**: PbSe, like PbTe and PbS, exhibits a narrow but technologically critical deviation from exact 1:1 stoichiometry. The single-phase field is skewed, and small deviations toward Pb-excess or Se-excess produce native point defects (Pb or Se vacancies/interstitials) that dominate carrier type and concentration ($10^{17}$–$10^{19}\ \text{cm}^{-3}$ range achievable from native defects alone).
+- **Homogeneity range**: PbSe, like PbTe and PbS, exhibits a narrow but technologically critical deviation from exact 1:1 stoichiometry. The single-phase field is skewed, and small deviations toward Pb-excess or Se-excess produce native point defects (Pb or Se vacancies/interstitials) that dominate carrier type and concentration ($10^{17} - 10^{19}\ \text{cm}^{-3}$ range achievable from native defects alone).
 - **High vapor pressure of Se** at growth temperatures, requiring sealed ampoule growth or overpressure control.
 - **Congruent vs. incongruent behavior**: the maximum melting point on the Pb–Se phase diagram is very close to but not exactly at the 1:1 composition, so charge stoichiometry must be tuned slightly off 50:50 to grow congruently and avoid a shifting liquidus during solidification.
 - **Low mechanical hardness and cleavage** along {100} planes (rock-salt cleavage), making the crystals mechanically soft and prone to slip and low-angle grain boundary formation under thermal stress.
