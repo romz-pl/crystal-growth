@@ -91,6 +91,7 @@
 + [**PbS** Growth Process](./doc/material-pb-s.md)
 + [**PbSe** Growth Process](./doc/material-pb-se.md)
 + [**PbTe** Growth Process](./doc/material-pb-te.md)
++ [**YVO₄** and **YVO** Growth Process](./doc/material-yvo.md)
 
 
 ## References
