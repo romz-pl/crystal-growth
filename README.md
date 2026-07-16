@@ -83,6 +83,7 @@
 + [**ZnSe** Growth Process](./doc/material-zn-se.md)
 + [**ZnTe** Growth Process](./doc/material-zn-te.md)
 + [**CdS** Growth Process](./doc/material-cd-s.md)
++ [**CdSe** Growth Process](./doc/material-cd-se.md)
 
 
 ## References
