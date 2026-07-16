@@ -124,9 +124,10 @@ Developed specifically to bypass the oxygen-deficiency problem inherent to melt 
 ## References
 
 
-1. Forbes, A. R., McMillen, C. D., Giesber, H. G., Kolis, J. W., **The hydrothermal synthesis, solubility and crystal growth of YVO₄ and Nd:YVO₄**, [Journal of Crystal Growth 310 (2008) 4472–4476](https://doi.org/10.1016/j.jcrysgro.2008.06.067)
-2. Higuchi, M., et al., **Growth of high quality and large-sized Nd:YVO₄ single crystal**, [Journal of Crystal Growth 266 (2004) 496–499](https://doi.org/10.1016/j.jcrysgro.2004.03.007)
-3. Huang, C.-H., Chen, J.-C., **Nd:YVO₄ single crystal fiber growth by the LHPG method**, [Journal of Crystal Growth 229 (2001) 184–187](https://doi.org/10.1016/S0022-0248(01)01117-4)
-4. Huang, C.-H., Chen, J.-C., Hu, C., **YVO₄ single-crystal fiber growth by the LHPG method**, [Journal of Crystal Growth 211 (2000) 237–241](https://doi.org/10.1016/S0022-0248(99)00827-1)
-5. Erdei, S., et al., **Growth of oxygen deficiency-free YVO₄ single crystal by top-seeded solution growth technique**, [Journal of Crystal Growth 134 (1993) 1–13](https://doi.org/10.1016/0022-0248(93)90002-E)
+1. Zhang, H., Fang, H., et al., **Nd:YVO₄ crystal growth by Czochralski technique with a submerged plate**, [Journal of Crystal Growth 311 (2009) 4652–4659](https://doi.org/10.1016/j.jcrysgro.2009.09.002)
+2. Forbes, A. R., McMillen, C. D., Giesber, H. G., Kolis, J. W., **The hydrothermal synthesis, solubility and crystal growth of YVO₄ and Nd:YVO₄**, [Journal of Crystal Growth 310 (2008) 4472–4476](https://doi.org/10.1016/j.jcrysgro.2008.06.067)
+3. Higuchi, M., et al., **Growth of high quality and large-sized Nd:YVO₄ single crystal**, [Journal of Crystal Growth 266 (2004) 496–499](https://doi.org/10.1016/j.jcrysgro.2004.03.007)
+4. Huang, C.-H., Chen, J.-C., **Nd:YVO₄ single crystal fiber growth by the LHPG method**, [Journal of Crystal Growth 229 (2001) 184–187](https://doi.org/10.1016/S0022-0248(01)01117-4)
+5. Huang, C.-H., Chen, J.-C., Hu, C., **YVO₄ single-crystal fiber growth by the LHPG method**, [Journal of Crystal Growth 211 (2000) 237–241](https://doi.org/10.1016/S0022-0248(99)00827-1)
+6. Erdei, S., et al., **Growth of oxygen deficiency-free YVO₄ single crystal by top-seeded solution growth technique**, [Journal of Crystal Growth 134 (1993) 1–13](https://doi.org/10.1016/0022-0248(93)90002-E)
 
