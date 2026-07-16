@@ -2,7 +2,7 @@
 
 ## 1. Material Background
 
-Zinc telluride (ZnTe) is a wide-bandgap II–VI compound semiconductor with the zinc-blende crystal structure (space group $F\bar{4}3m$), lattice constant $a \approx 6.104\ \text{Å}$, and a direct optical bandgap of approximately $2.26$–$2.39\ \text{eV}$ at room temperature. It is one of the few II–VI compounds that is naturally p-type (owing to native Zn vacancies acting as shallow acceptors), which makes it important as:
+Zinc telluride (ZnTe) is a wide-bandgap II–VI compound semiconductor with the zinc-blende crystal structure (space group $F\bar{4}3m$), lattice constant $a \approx 6.104\ \text{Å}$, and a direct optical bandgap of approximately $2.26 - 2.39\ \text{eV}$ at room temperature. It is one of the few II–VI compounds that is naturally p-type (owing to native Zn vacancies acting as shallow acceptors), which makes it important as:
 
 - A substrate for lattice-matched epitaxy of narrower-gap materials such as InAs ($a = 6.058\ \text{Å}$) and GaSb ($a = 6.096\ \text{Å}$).
 - An active layer for green light-emitting diodes and laser diodes.
