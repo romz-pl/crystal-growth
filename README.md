@@ -16,7 +16,7 @@
 + [Thermal Expansion](./doc/phenomena-thermal-expansion.md)
 + [Seeding Process](./doc/phenomena-seeding-process.md)
 + [Constitutional Supercooling](./doc/phenomena-constitutional-supercooling.md)
-+ [solidus and liquidus](./doc/phenomena-solidus-liquidus.md)
++ [Solidus and Liquidus](./doc/phenomena-solidus-liquidus.md)
 
 
 
