@@ -10,7 +10,7 @@ Key physical properties relevant to growth:
 - Density (solid): $\rho_s \approx 5.61\ \text{g/cm}^3$; density (liquid) is higher, so GaSb — like Ge and InSb — **contracts** upon melting rather than expanding (density inversion behavior partially resembles Ga-rich systems)
 - Congruent (non-dissociative) melting, unlike GaAs or GaP, which simplifies stoichiometry control since no separate group-V overpressure is strictly required
 - Very low critical resolved shear stress and low mechanical hardness compared to GaAs, making GaSb boules prone to dislocation generation and slip under thermal stress
-- High native point-defect concentration: undoped GaSb is invariably **p-type** due to a high concentration of Ga-antisite-related acceptor complexes ($V_{Ga}$–$Ga_{Sb}$), typically $p \sim 10^{17}\ \text{cm}^{-3}$ even in "undoped" material
+- High native point-defect concentration: undoped GaSb is invariably **p-type** due to a high concentration of Ga-antisite-related acceptor complexes ($V_{Ga} - Ga_{Sb}$), typically $p \sim 10^{17}\ \text{cm}^{-3}$ even in "undoped" material
 
 ## 2. Overview of Growth Methods
 
@@ -18,9 +18,9 @@ GaSb is grown almost exclusively from the melt, since (unlike GaAs) it melts con
 
 | Method | Typical Use Case | Dislocation Density | Diameter Achievable |
 |---|---|---|---|
-| Vertical Gradient Freeze (VGF) / Vertical Bridgman (VB) | Commercial substrate production | $10^2$–$10^4\ \text{cm}^{-2}$ | up to 4–6 inch |
-| Horizontal Bridgman (HB) | Research, smaller boules | $10^2$–$10^3\ \text{cm}^{-2}$ | 2–3 inch (D-shaped) |
-| Czochralski (CZ) / Liquid-Encapsulated Czochralski (LEC) | Round boules, higher throughput | $10^3$–$10^5\ \text{cm}^{-2}$ | up to 4 inch |
+| Vertical Gradient Freeze (VGF) / Vertical Bridgman (VB) | Commercial substrate production | $10^2 - 10^4\ \text{cm}^{-2}$ | up to 4–6 inch |
+| Horizontal Bridgman (HB) | Research, smaller boules | $10^2 - 10^3\ \text{cm}^{-2}$ | 2–3 inch (D-shaped) |
+| Czochralski (CZ) / Liquid-Encapsulated Czochralski (LEC) | Round boules, higher throughput | $10^3 - 10^5\ \text{cm}^{-2}$ | up to 4 inch |
 | Zone melting / Traveling Heater Method (THM) | Purification, low-defect research crystals | can be very low | small diameter |
 
 Because GaSb melts congruently and has a low vapor pressure of Sb at the melting point, **no encapsulant boric oxide layer is strictly needed** the way it is for GaAs LEC growth, although some LEC variants still use $B_2O_3$ for thermal symmetry and to suppress Sb evaporation losses over long runs.
@@ -66,7 +66,7 @@ $$
 C_s(f_s) = k_0\, C_0\, (1-f_s)^{k_0 - 1}
 $$
 
-where $C_0$ is the initial melt dopant concentration, $f_s$ is the fraction solidified, and $k_0$ is the equilibrium segregation coefficient. For GaSb, reported effective segregation coefficients include $k_0(\text{Te}) \approx 0.3$–$0.5$ and $k_0(\text{Zn}) \approx 0.02$–$0.1$, both substantially less than unity, producing pronounced axial resistivity gradients along the boule that must be characterized and sometimes compensated by melt replenishment or controlled convective mixing.
+where $C_0$ is the initial melt dopant concentration, $f_s$ is the fraction solidified, and $k_0$ is the equilibrium segregation coefficient. For GaSb, reported effective segregation coefficients include $k_0(\text{Te}) \approx 0.3 - 0.5$ and $k_0(\text{Zn}) \approx 0.02$–$0.1$, both substantially less than unity, producing pronounced axial resistivity gradients along the boule that must be characterized and sometimes compensated by melt replenishment or controlled convective mixing.
 
 ### 3.5 Post-Growth Cooling
 
