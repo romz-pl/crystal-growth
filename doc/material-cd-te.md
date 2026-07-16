@@ -4,7 +4,7 @@
 
 Cadmium telluride (CdTe) is a direct-bandgap II–VI compound semiconductor ($E_g \approx 1.5\ \text{eV}$ at room temperature) used as a substrate for HgCdTe (MCT) infrared detector epitaxy, as an absorber material in thin-film photovoltaics, and as the base material for room-temperature nuclear radiation detectors (CdTe and CdZnTe, CZT). Bulk single-crystal growth of CdTe is notoriously difficult compared with elemental or III-V semiconductors because of:
 
-- A high equilibrium vapor pressure of Cd and Te$_2$ over the melt, requiring sealed/pressurized ampoules.
+- A high equilibrium vapor pressure of Cd and $\text{Te}_2$ over the melt, requiring sealed/pressurized ampoules.
 - A narrow homogeneity range and strong deviation from stoichiometry, producing native point defects (Cd vacancies, Te antisites, interstitials) that act as electrically active centers.
 - Low critical resolved shear stress and low thermal conductivity, making the crystal prone to plastic deformation and dislocation generation under the thermal stresses inherent to melt growth.
 - A tendency to twin on {111} planes during solidification.
