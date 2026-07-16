@@ -124,4 +124,6 @@ Developed specifically to bypass the oxygen-deficiency problem inherent to melt 
 ## References
 
 
-1. Erdei, S., et al., **Growth of oxygen deficiency-free YVO₄ single crystal by top-seeded solution growth technique**, [Journal of Crystal Growth 134 (1993) 1–13](https://doi.org/10.1016/0022-0248(93)90002-E)
+1. Huang, C.-H., Chen, J.-C., Hu, C., **YVO₄ single-crystal fiber growth by the LHPG method**, [Journal of Crystal Growth 211 (2000) 237–241](https://doi.org/10.1016/S0022-0248(99)00827-1)
+2. Erdei, S., et al., **Growth of oxygen deficiency-free YVO₄ single crystal by top-seeded solution growth technique**, [Journal of Crystal Growth 134 (1993) 1–13](https://doi.org/10.1016/0022-0248(93)90002-E)
+
