@@ -88,6 +88,7 @@
 + [**CdS** Growth Process](./doc/material-cd-s.md)
 + [**CdSe** Growth Process](./doc/material-cd-se.md)
 + [**CdTe** Growth Process](./doc/material-cd-te.md)
++ [**PbS** Growth Process](./doc/material-pb-s.md)
 
 
 ## References
