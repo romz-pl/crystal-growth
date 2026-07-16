@@ -13,6 +13,7 @@
 + [Dissociation Vapor Pressure](./doc/phenomena-dissociation-vapor-pressure.md)
 + [Melt Congruency](./doc/phenomena-melt-congruency.md)
 + [Thermal Conductivity](./doc/phenomena-thermal-conductivity.md)
++ [Thermal Expansion](./doc/phenomena-thermal-expansion.md)
 
 
 
