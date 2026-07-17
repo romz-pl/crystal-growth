@@ -19,6 +19,7 @@
 + [Solidus and Liquidus](./doc/phenomena-solidus-liquidus.md)
 + [Why does the solidus/liquidus exist?](./doc/phenomena-why-solidus-liquidus-exist.md)
 + [Post-Growth Annealing](./doc/phenomena-post-growth-annealing.md)
++ [Latent heat of fusion](./doc/phenomena-latent-heat-fusion.md)
 
 
 
