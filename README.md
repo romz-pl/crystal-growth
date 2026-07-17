@@ -17,6 +17,7 @@
 + [Seeding Process](./doc/phenomena-seeding-process.md)
 + [Constitutional Supercooling](./doc/phenomena-constitutional-supercooling.md)
 + [Solidus and Liquidus](./doc/phenomena-solidus-liquidus.md)
++ [Why does the solidus/liquidus exist?](./doc/phenomena-why-solidus-liquidus-exist.md)
 + [Post-Growth Annealing](./doc/phenomena-post-growth-annealing.md)
 
 
