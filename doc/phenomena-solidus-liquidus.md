@@ -115,10 +115,10 @@ This describes the progressive axial (or "normal") macrosegregation observed alo
 
 ### 4.4 Coupling to full continuum models
 
-In finite-element/finite-volume global growth simulators (CGSim, CrysMAS, FEMAG-CZ, CrysVUn — see this library's software-tools section), the solidus/liquidus/$k_0$ data are typically supplied as:
+In finite-element/finite-volume global growth simulators (CGSim, CrysMAS, FEMAG-CZ, CrysVUn — see this library's software-tools section), the solidus/liquidus/ $k_0$ data are typically supplied as:
 
 1. A **linearized phase diagram** ($T_m$, $m_L$, $k_0$) for dilute-limit problems (most common for doped Si, GaAs, oxide crystals with ppm–percent-level dopants).
-2. A **full nonlinear phase-diagram table** ($T_L(C)$, $T_S(C)$) for concentrated alloy systems (e.g., SiGe, CdZnTe, GaInSb, and other pseudo-binary or ternary systems) where linearization fails over the relevant composition range.
+2. A **full nonlinear phase-diagram table** ( $T_L(C)$, $T_S(C)$ ) for concentrated alloy systems (e.g., SiGe, CdZnTe, GaInSb, and other pseudo-binary or ternary systems) where linearization fails over the relevant composition range.
 
 The species transport equation solved in the melt,
 
@@ -126,7 +126,7 @@ $$
 \frac{\partial C}{\partial t} + \mathbf{u}\cdot\nabla C = \nabla\cdot(D_L \nabla C)
 $$
 
-is coupled to the moving solid–liquid interface via a Stefan-type boundary condition that uses $k_0$ (or the full $C_S$–$C_L$ tie-line) to set the flux of rejected solute:
+is coupled to the moving solid–liquid interface via a Stefan-type boundary condition that uses $k_0$ (or the full $C_S - C_L$ tie-line) to set the flux of rejected solute:
 
 $$
 D_L \left.\frac{\partial C}{\partial n}\right|_{\text{interface}} = V_n\, C_L^\ast (1-k_0)
