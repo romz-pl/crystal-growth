@@ -79,7 +79,7 @@
 + [**Andrew Yeckel** author of Cats2D](./doc/bibliography-ayeckel.md)
 + [**Koichi Kakimoto**, Tohoku University, Sendai, Japan](./doc/bibliography-kkakimoto.md)
 + [**Aleks G. Ostrogorsky**, Mechanical & Aerospace Engineering Department, Illinois Institute of Technology](./doc/bibliography-aostrogorsky.md)
-+ [**Michael S. Engelman**, co-founded of Fluid Dynamics International (FDI), and developer of FIDAP](./doc/bibliography-mengelman.md)
++ [**Michael S. Engelman**, co-founder of Fluid Dynamics International (FDI), and developer of FIDAP](./doc/bibliography-mengelman.md)
 
 ## Selected Materials and its Methods of Growth
 + [**III–V** Compound Semiconductors](./doc/material-III-V.md)
