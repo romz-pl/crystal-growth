@@ -13,7 +13,7 @@ Fluid Dynamics International (FDI) was co-founded by Michael Engelman (a faculty
 6. Engelman, M.S. (1982), "FIDAP (A Fluid Dynamics Analysis Program)," *Advances in Engineering Software*, 4, pp. 163–175 (also 163–166 in some citations).
 7. Engelman, M.S., Sani, R.L., Gresho, P.M. and Bercovier, M. (1982), "Consistent vs. reduced integration penalty methods for incompressible media using several old and new elements," [*International Journal for Numerical Methods in Fluids*, 2(1), pp. 25–42](https://doi.org/10.1002/fld.1650020103).
 
-### Manuals / technical reports (as author):**
+### Manuals / technical reports (as author):
 7. Engelman, M.S. (1980), *FIDAP Theoretical and Users Manuals*, CIRES, University of Colorado, Boulder.
 8. Engelman, M.S. (1987), *FIDAP Theoretical Manual, Version 4.0*, Fluid Dynamics International, Evanston, IL.
 9. Engelman, M.S. (1991), *FIDAP Theoretical Manual, Revision 6.02*, Fluid Dynamics International, Evanston, IL.
@@ -24,3 +24,8 @@ Fluid Dynamics International (FDI) was co-founded by Michael Engelman (a faculty
 A few caveats worth flagging:
 - Citation styles vary across sources (e.g., "Engleman" vs. "Engelman," differing page ranges for the 1982 *Advances in Engineering Software* paper), so I've kept the variants as found rather than guessing which is correct.
 - This list is built entirely from reference lists in *other* papers citing Engelman — I did not find a single authoritative CV or bibliography page for him, so it's very likely incomplete, especially for later FIDAP manual editions (5.x, 8.x) and any papers from after the mid-1990s.
+
+
+## FIDAP references:
+
+1. Sohn J. L. (1988), "Evaluation of FIDAP on some classical laminar and turbulent benchmarks", [*International Journal for Numerical Methods in Fluids*, 8, p. 1469-1490](https://doi.org/10.1002/fld.1650081202 ).
