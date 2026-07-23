@@ -110,6 +110,7 @@
 
 ## Crystal Pullers for Commercial Use
 + [**Si**](./doc/pullers-si.md)
++ [**Ge**](./doc/pullers-ge.md)
 + [**InP**](./doc/pullers-inp.md)
 + [**GaP**](./doc/pullers-gap.md)
 + [**GaSb**](./doc/pullers-gasb.md)
