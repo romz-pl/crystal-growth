@@ -121,6 +121,7 @@
 + [**Si**](./doc/market-si.md)
 + [**Ge**](./doc/market-ge.md)
 + [**InP**](./doc/market-inp.md)
++ [**GaP**](./doc/market-gap.md)
 
 
 ## References
