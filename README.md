@@ -124,6 +124,7 @@
 + [**GaP**](./doc/market-gap.md)
 + [**GaSb**](./doc/market-gasb.md)
 + [**YVO₄**](./doc/market-yv0.md)
++ [China's export controls on critical raw materials](./doc/market-china-export-controls.md)
 
 
 ## References
