@@ -129,6 +129,7 @@
 
 ## Refining and Separation for Crystal Growth
 + [**Ga**](./doc/refining-ga.md)
++ [**Ge**](./doc/refining-ge.md)
 
 
 
