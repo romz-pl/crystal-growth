@@ -123,6 +123,7 @@
 + [**InP**](./doc/market-inp.md)
 + [**GaP**](./doc/market-gap.md)
 + [**GaSb**](./doc/market-gasb.md)
++ [**YVO₄**](./doc/market-yv0.md)
 
 
 ## References
