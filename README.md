@@ -127,6 +127,11 @@
 + [China's export controls on critical raw materials](./doc/market-china-export-controls.md)
 
 
+## Refining and Separation for Crystal Growth
++ [**Ga**](./doc/refining-ga.md)
+
+
+
 ## References
 + [Books and Handbooks](./doc/refs-books.md)
 + [PhD Theses on Crystal Growth Modeling and Simulation](./doc/refs-phd-theses.md)
