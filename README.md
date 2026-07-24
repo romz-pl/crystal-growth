@@ -120,6 +120,7 @@
 ## Global Commercial Single-Crystal Market
 + [**Si**](./doc/market-si.md)
 + [**Ge**](./doc/market-ge.md)
++ [**InP**](./doc/market-inp.md)
 
 
 ## References
