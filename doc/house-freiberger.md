@@ -326,14 +326,16 @@ Drawing the threads together, FCM's business can be characterized precisely as f
 
 ## 12. Key References
 
-**Primary (FCM corporate/technical sources):**
+### Primary (FCM corporate/technical sources):
+
 1. Freiberger Compound Materials GmbH — "Technology: GaAs / InP Wafer Manufacturing" (Synthesis, Crystal Growth, Mechanical Wafering, Polishing and Cleaning), freiberger.com/en/technology/.
 2. Freiberger Compound Materials GmbH — "Company History," freiberger.com/en/company/company-history/.
 3. Freiberger Compound Materials GmbH — "Applications" (Wireless Communication; Optoelectronics), freiberger.com/en/applications/.
 4. Freiberger Compound Materials GmbH — "Products / Wafers," freiberger.com/en/products/.
 5. Freiberger Compound Materials GmbH — PowerBase EU Project partner profile, powerbase-project.eu/freiberger-compound-materials-gmbh.html.
 
-**Crystal-growth technical/scientific literature (FCM-associated or directly relevant):**
+### Crystal-growth technical/scientific literature (FCM-associated or directly relevant):
+
 6. Jurisch, M., et al. — work on VGF crystal-growth process modeling referenced in control-theory literature (Jurisch et al., 2005), as cited in: "Control of the Vertical Gradient Freeze crystal growth process via backstepping," arXiv:2002.11447.
 7. "Recent Progress in GaAs Growth Technologies at FREIBERGER," ResearchGate publication 229869348 — VGF process development for GaAs, GaP, InP; thermodynamic (Gibbs energy minimization) analysis of Ga–As–C–B–N–Si–O system; C/B/Si/O behavior in melt and encapsulant.
 8. "Growth of 2″ InP and GaAs crystals by the vertical gradient freeze (VGF) technique and characterization" — dopant homogeneity, EPD comparison to LEC, FIDAP-based numerical modeling of VGF thermal/interface behavior.
@@ -341,13 +343,15 @@ Drawing the threads together, FCM's business can be characterized precisely as f
 10. PVA TePla AG — "Freiberger installs VGF for InP" (Kronos VGF system), siliconsemiconductor.net.
 11. compoundsemiconductor.net — "Freiberger produces first 200 mm semi-insulating GaAs wafers using VGF technology."
 
-**Patent literature (illustrative of generic VGF/LEC and epitaxial process technology; not FCM-specific unless noted):**
+### Patent literature (illustrative of generic VGF/LEC and epitaxial process technology; not FCM-specific unless noted):
+
 12. US Patent 5,135,726 — "Vertical gradient freezing apparatus for compound semiconductor single crystal growth."
 13. US Patent 5,769,944 — "Vertical gradient freeze and vertical Bridgman compound semiconductor crystal growth apparatus capable of applying axial magnetic field."
 14. US Patent 7,566,641 — "Low etch pit density (EPD) semi-insulating GaAs wafers" (VGF process parameter ranges: temperature gradient 0.1–2 °C, growth rate 2–16 mm/h, annealing schedules).
 15. US Patent 6,455,877 — "III-N compound semiconductor device" (MOCVD precursor chemistry for GaN-based devices).
 
-**Market/industry analysis (third-party, for market-share and competitive-landscape context):**
+### Market/industry analysis (third-party, for market-share and competitive-landscape context):
+
 16. Yole Group / Yole Intelligence — "Compound semiconductor substrate market set to double: how are companies competing in this space?" and related coverage (compoundsemiconductor.net, "$2.4B CS substrate market by 2027").
 17. Mordor Intelligence — "Gallium Arsenide (GaAs) Wafer Market" and "Indium Phosphide (InP) Wafer Market" reports.
 18. Business Research Insights — "Gallium Arsenide (GaAs) Wafer Market Growth, Size" report.
