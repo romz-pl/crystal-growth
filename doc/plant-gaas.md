@@ -222,6 +222,40 @@ Planning midpoint: **~$45M–$55M/yr** at full ramp for a ~30,000 kg/yr boule fa
 - No revenue/pricing model, IRR, or payback analysis is included here — this is a cost-side estimate only, as scoped.
 - Feedstock strategy (in-house poly-GaAs synthesis vs. merchant purchase) is a major structural decision not fully resolved above; the CAPEX/OPEX shown assumes a hybrid (partial in-house synthesis capability) — a pure-merchant-feedstock strategy would remove the synthesis reactor capex line (~$1.5–5M) but raise materials OPEX further.
 
+
+
+
+## 6. Key References — GaAs CZ Facility CAPEX/OPEX Analysis
+
+### Equipment & Vendor Pricing (CAPEX basis)
+1. Taoxia Intelligent Equipment — *How Much Is the Crystal Growing Furnace Price in 2025? Cost Guide*. https://www.taoxiaintelli.com/crystal-growing-furnace-price/
+2. MetaLaser — *Czochralski Furnace Manufacturers and Suppliers – Wholesale Price*. https://www.meta-laser.com/crystal-furnace/czochralski-furnace.html
+3. ECM Lab Solutions — *Czochralski Furnace (CZ) Puller*. https://ecmlabsolutions.com/products/czochralski-crystal-growth/
+4. Photonics.com / ECM USA Inc. — *Czochralski Crystal Growth Furnace (Cyberstar)*. https://www.photonics.com/Products/Czochralski-Crystal-Growth-Furnace/pr66988
+5. PVA TePla — *Czochralski Crystal Systems*. https://www.pvatepla-cgs.com/en/machines/crystal-systems-czochralski/
+6. Linton Crystal Technologies — *CZ Growing Equipment*. https://www.lintoncrystal.com/products/cz-growing-equipment
+7. Abachy — *Crystal Growing Equipment (Si/GaAs/InSb CZ furnaces)*. https://abachy.com/catalog/semiconductor-equipment/wafer-manufacturing-equipment/crystal-growing-equipment
+8. CB Insights — *Crystal Growth and Energy (688478.SH) company profile*. https://www.cbinsights.com/company/crystal-growth-and-energy
+
+### Process Technology — LEC/VCZ Method & Crucible Materials (Process basis)
+9. ScienceDirect — *Influence of pyrolytic boron nitride crucibles on GaAs crystal growth process and crystal properties*. https://www.sciencedirect.com/science/article/abs/pii/002202489500209X
+10. US Patent 5,131,975 — *Controlled growth of semiconductor crystals* (LEC/HB/VGF history and background). https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/5131975
+11. US Patent 5,762,865 — *Pyrolytic boron nitride crucible* (LEC apparatus and crucible design). https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/5762865
+12. US Patent 6,670,025 — *Pyrolytic boron nitride crucible and method* (crucible fracture/stress mechanisms). https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6670025
+13. ScienceDirect — *Chapter 3: LEC GaAs for Integrated Circuit Applications*. https://sciencedirect.com/science/article/abs/pii/S0080878408627751
+14. ScienceDirect — *Chapter 1: High-Purity LEC Growth and Direct Implantation of GaAs for Monolithic Microwave Circuits*. https://www.sciencedirect.com/science/article/abs/pii/S0080878408627738
+
+### Crucible Suppliers (Consumables Cost Basis)
+15. Stanford Advanced Materials — *Pyrolytic Boron Nitride Crucible (LEC Type) for Sale*. https://www.samaterials.com/pyrolytic-boron-nitride-crucible-lec-type.html
+16. Precise Ceramic (Advanced Ceramic Materials) — *LEC Type Pyrolytic Boron Nitride Crucible for Sale*. https://www.preciseceramic.com/pyrolytic-boron-nitride-crucible-lec-type.html
+17. Telite Ceramic — *LEC Crucible: GaAs & InP Crystal Growth*. https://teliteceramic.com/en/product/pbn-lec-crucible-for-crystal-growth/
+
+### Notes on Sourcing
+- References 1–8 informed the puller/furnace CAPEX ranges (Section 2.2) and general facility-scale cost benchmarking.
+- References 9–14 informed the process description (Section 1) and the rationale for pBN crucible and B₂O₃ encapsulant cost treatment (Sections 2.2, 3.1).
+- References 15–17 informed the pBN crucible consumable cost line (Section 3.1) and the "key cost driver" note on crucible supply-chain risk (Section 4).
+- Labor, utilities, EH&S, land/building, and Ga/As commodity pricing figures were derived from general industry cost-structure knowledge and standard techno-economic scaling heuristics rather than a single citable source; these lines should be treated as engineering-judgment estimates requiring independent verification (e.g., current LME/Ga spot pricing, regional labor surveys, EPCM quotes) before use in an investment-grade model.
+
 ---
 
 > [!NOTE]
