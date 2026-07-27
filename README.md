@@ -132,20 +132,6 @@
 + [**Ge**](./doc/refining-ge.md)
 
 
-## Market of Bulk Crystal Growth from the Melt
-
-+ Sumitomo Electric Industries
-+ Freiberger Compound Materials
-+ AXT, Inc.
-+ Tongmei Xtal Technology
-+ Vital Materials
-+ Coherent Corp.
-+ PAM-XIAMEN
-+ Yunnan Germanium
-+ Umicore (Ge)
-+ Grinm Semiconductor Materials
-
-
 ## Integrated Compound Semiconductor Houses
 
 ### The Market's leaders
