@@ -56,7 +56,17 @@ AXT's central strategic differentiator, repeated consistently across two decades
 - Quartz (fused silica) ampoule/tubing components
 - Scrap-material recycling services
 
-Named joint-venture/subsidiary entities documented in AXT SEC filings include Beijing BoYu Semiconductor Vessel Craftwork Technology Co. (pBN crucibles and pBN-based OLED-related tooling), Nanjing JinMei Gallium Co., ChaoYang JinMei Gallium Co., ChaoYang KaiMei, Beijing Ji-Ya Semiconductor Material Co. ("JiYa"), Xiaoyi XingAn Gallium Co., ChaoYang ShuoMei High Purity Semiconductor Materials Co., and ChaoYang XinMei High Purity Semiconductor Materials Co. This is a genuinely unusual degree of upstream integration relative to peer substrate suppliers (e.g., Freiberger Compound Materials, Sumitomo Electric, Vital Materials), most of whom purchase refined gallium/arsenic/indium on the open market rather than co-owning refiners.
+Named joint-venture/subsidiary entities documented in AXT SEC filings include:
+
+- Beijing BoYu Semiconductor Vessel Craftwork Technology Co. (pBN crucibles and pBN-based OLED-related tooling);
+- Nanjing JinMei Gallium Co.;
+- ChaoYang JinMei Gallium Co.;
+- ChaoYang KaiMei, Beijing Ji-Ya Semiconductor Material Co. ("JiYa");
+- Xiaoyi XingAn Gallium Co.;
+- ChaoYang ShuoMei High Purity Semiconductor Materials Co.;
+- ChaoYang XinMei High Purity Semiconductor Materials Co.
+
+This is a genuinely unusual degree of upstream integration relative to peer substrate suppliers (e.g., Freiberger Compound Materials, Sumitomo Electric, Vital Materials), most of whom purchase refined gallium/arsenic/indium on the open market rather than co-owning refiners.
 
 **[INFERENCE]** This structure functions economically as a captive-supplier network: AXT both consumes the joint ventures' output internally and sells surplus production to third parties, giving AXT visibility into upstream pricing and availability — materially significant given that gallium and germanium are both List-designated "critical minerals" subject to Chinese export licensing since 2023, and China dominates global refined gallium and germanium supply.
 
