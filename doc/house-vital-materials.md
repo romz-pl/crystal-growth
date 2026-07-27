@@ -355,14 +355,16 @@ Any narrative filling these gaps found elsewhere (including in less rigorous sec
 
 ## 14. Key References
 
-**Company primary sources [VM-DOC]:**
+### Company primary sources [VM-DOC]:
+
 1. Vital Materials, "Semiconductor" solutions page — https://en.vitalchem.com/solutions/semiconductor/
 2. Vital Materials, "Wafer Substrates" — https://en.vitalchem.com/industries/compound-semiconductor/wafer-substrates/
 3. Vital Materials, "Pyrolytic Boron Nitride (PBN)" datasheet — https://en.vitalchem.com/wp-content/uploads/2025/11/Pyrolytic-Boron-Nitride-PBN-EN.pdf
 4. Vital Materials, "About Vital" — https://en.vitalchem.com/about/
 5. Vital Materials corporate LinkedIn profile — https://www.linkedin.com/company/vital-materials-co-limited
 
-**Industry/technical literature [IND]:**
+### Industry/technical literature [IND]:
+
 6. Rudolph, P. & Jurisch, M., "Bulk growth of GaAs — An overview," *Journal of Crystal Growth*, 198/199 (1999), 325–335.
 7. Rudolph, P., "Non-stoichiometry related defects at the melt growth of semiconductor compound crystals — a review," *Crystal Research and Technology*, 38 (2003), 542–554.
 8. Freiberger Compound Materials, "GaAs and InP Wafer Technology" — https://freiberger.com/en/technology/ (industry-standard description of VGF/LEC practice, presented as a comparative reference, not a Vital Materials source).
@@ -374,7 +376,7 @@ Any narrative filling these gaps found elsewhere (including in less rigorous sec
 14. U.S. Patent 7,566,641, "Low etch pit density (EPD) semi-insulating GaAs wafers" — general VGF process/EPD disclosure (not Vital-specific).
 15. USGS Mineral Commodity Summaries (Gallium, Germanium, Indium) — background on global upstream metal supply and China's production share.
 
-**Secondary/market-analysis sources (treated with appropriate caution, used only for scale/positioning context) [IND]:**
+### Secondary/market-analysis sources (treated with appropriate caution, used only for scale/positioning context) [IND]:
 16. Rare-earth-mining.com, "Vital Materials: Ge, Ga & In Producer Profile."
 17. Critical-minerals-news.com, "Vital Materials: World Minor Metals Producer Profile."
 18. PitchBook company profile, Vital Materials.
