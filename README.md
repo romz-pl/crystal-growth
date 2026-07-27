@@ -137,7 +137,7 @@
 + [Freiberger Compound Materials (Germany)](./doc/house-freiberger.md)
 + [AXT, Inc. (USA)](./doc/house-axt.md)
 + [Vital Materials](./doc/house-vital-materials.md)
-+ [Tongmei Xtal Technology (Cina)](./doc/house-tongmei.md)
++ [Tongmei Xtal Technology (China)](./doc/house-tongmei.md)
 
 
 
