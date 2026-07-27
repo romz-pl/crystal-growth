@@ -146,12 +146,15 @@ SEI states LPE "had been applied to GaAs epitaxial wafers for infra-red LED sinc
 Documented in detail in SEI's own technical review (Motoki, *SEI Technical Review* No. 70, 2010) **[DOC]**:
 
 - **Reactor:** a quartz-tube hot-wall reactor with independently controlled zones; metallic Ga reacts with HCl gas at ~850 °C to form GaCl in an upstream zone; GaCl is transported downstream and reacts with NH₃ to deposit GaN:
+
 $$
 \text{Ga} + \text{HCl} \rightarrow \text{GaCl} + \tfrac{1}{2}\text{H}_2
 $$
+
 $$
 \text{GaCl} + \text{NH}_3 \rightarrow \text{GaN} + \text{HCl} + \text{H}_2
 $$
+
 **[DOC — reproduced from SEI's published reaction scheme]**
 - **Substrate strategy:** because GaN cannot practically be melt-grown (requiring tens of thousands of atmospheres near ~2000 °C to prevent decomposition — **[DOC]**), SEI grows a thick (>500 µm) GaN layer heteroepitaxially on a foreign template — specifically a GaAs (111) substrate patterned with a thin SiO₂ mask (2 µm openings) — then mechanically removes the GaAs template (chosen over sapphire specifically because GaAs is mechanically softer/easier to remove and has a much closer thermal-expansion match to GaN: ~0.5×10⁻⁶ /°C difference vs. sapphire's much larger mismatch, reducing wafer bow/cracking despite GaN/GaAs having a large ~20% lattice mismatch that generates a high initial dislocation density, ~10⁹ cm⁻², at the interface). **[DOC]**
 - **Dislocation reduction — DEEP and A-DEEP:** SEI developed and patented/published a defect-engineering method, **DEEP** (Dislocation Elimination by the Epitaxial-growth with inverse-Pyramidal pits), in which controlled growth conditions produce large (~80–160 µm) hexagonal or dodecagonal inverse-pyramidal growth pits on the GaN surface; dislocations glide laterally toward the pit centers as growth proceeds, leaving the surrounding pit walls nearly dislocation-free (down to ~2×10⁵ cm⁻² locally, vs. ~10⁹ cm⁻² at the heterointerface) — a roughly four-orders-of-magnitude reduction. **[DOC]** SEI then advanced this to **A-DEEP** (advanced-DEEP), in which a patterned inverted-polarity "core" region is lithographically defined on the foreign substrate to pin the pit locations deterministically (rather than relying on natural, randomly positioned pit nucleation), using either dot-type or stripe-type core patterns; stripe-type A-DEEP achieved dislocation densities as low as ~10³ cm⁻² in a 50 µm × 360 µm region between cores. **[DOC]** SEI states this became the enabling substrate technology for commercially viable violet (405 nm) InGaN laser diodes (used in high-density optical disc recording), correlating directly with published third-party laser-lifetime-vs.-dislocation-density data (Nagahama et al., Matsumoto et al.) showing lifetimes improving from the low thousands of hours on sapphire-based heteroepitaxy to over 100,000 hours on SEI's low-dislocation-density GaN substrates. **[DOC]** SEI states GaN-substrate commercial mass production began in 2003. **[DOC]**
