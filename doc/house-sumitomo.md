@@ -229,7 +229,8 @@ The strategic logic SEI itself articulates — most explicitly in its GaN case s
 
 ## Key References
 
-**Primary SEI sources (documented):**
+### Primary SEI sources (documented):
+
 1. Sumitomo Electric Industries, Ltd., "Compound Semiconductor — About Us / History," global-sei.com/sc/history_e/ — statement of >30 years' leadership in GaAs/InP manufacture.
 2. Sumitomo Electric Industries, Ltd., "GaAs Growth Method" (Technologies), global-sei.com/sc/technical_e/gaas.html — comparative table of 3T-HB, VB, and LEC methods (wafer size, EPD, residual strain, carbon control, crystal disappearance).
 3. Sumitomo Electric Industries, Ltd., "InP Growth Method" (Technologies), global-sei.com/sc/technical_e/inp.html — comparative table of LEC, VCZ, and VB methods (defect density, residual strain, material loss).
@@ -249,7 +250,8 @@ The strategic logic SEI itself articulates — most explicitly in its GaN case s
 10. Sumitomo Electric USA regional site, sumitomoelectric.com/usa — organizational listing of SESMI and Sumitomo Electric Device Innovations U.S.A. business units.
 11. Sumitomo Electric Device Innovations (SEDI) company profile (D&B) and Component Distributors Inc. (CDI) product pages — GaN HEMT, MMIC, and IMFET product descriptions; Fujitsu/Eudyna joint-venture history (2004) and full SEI ownership from 2009.
 
-**General III–V materials science (independent secondary literature, cited for standard process physics referenced as [INF] above; not SEI-specific):**
+### General III–V materials science (independent secondary literature, cited for standard process physics referenced as [INF] above; not SEI-specific):
+
 12. J. B. Mullin, "Bulk Crystal Growth of Electronic, Optical and Optoelectronic Materials," in *Bulk Crystal Growth of Electronic, Optical, and Optoelectronic Materials*, ed. P. Capper, Wiley, 2005 — general reference on LEC and related bulk III–V growth methods.
 13. G. Müller, J. Friedrich, "Crystal Growth, Bulk: Bulk Growth of III-V Compounds," in *Encyclopedia of Materials: Science and Technology*, Elsevier — general reference on VB/VGF and LEC comparative process physics.
 14. S. K. Ghandhi, *VLSI Fabrication Principles: Silicon and Gallium Arsenide*, Wiley, 2nd ed., 1994 — general reference for GaAs device fabrication process steps.
