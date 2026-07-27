@@ -328,11 +328,11 @@ Drawing the threads together, FCM's business can be characterized precisely as f
 
 ### Primary (FCM corporate/technical sources):
 
-1. Freiberger Compound Materials GmbH — "Technology: GaAs / InP Wafer Manufacturing" (Synthesis, Crystal Growth, Mechanical Wafering, Polishing and Cleaning), freiberger.com/en/technology/.
-2. Freiberger Compound Materials GmbH — "Company History," freiberger.com/en/company/company-history/.
-3. Freiberger Compound Materials GmbH — "Applications" (Wireless Communication; Optoelectronics), freiberger.com/en/applications/.
-4. Freiberger Compound Materials GmbH — "Products / Wafers," freiberger.com/en/products/.
-5. Freiberger Compound Materials GmbH — PowerBase EU Project partner profile, powerbase-project.eu/freiberger-compound-materials-gmbh.html.
+1. Freiberger Compound Materials GmbH — [Technology: GaAs / InP Wafer Manufacturing (Synthesis, Crystal Growth, Mechanical Wafering, Polishing and Cleaning)](https://freiberger.com/en/technology/).
+2. Freiberger Compound Materials GmbH — [Company History](https://freiberger.com/en/company/company-history/).
+3. Freiberger Compound Materials GmbH — [Applications (Wireless Communication; Optoelectronics)](https://freiberger.com/en/applications/).
+4. Freiberger Compound Materials GmbH — [Products / Wafers](https://freiberger.com/en/products/).
+5. Freiberger Compound Materials GmbH — [PowerBase EU Project partner profile](https://powerbase-project.eu/freiberger-compound-materials-gmbh.html).
 
 ### Crystal-growth technical/scientific literature (FCM-associated or directly relevant):
 
