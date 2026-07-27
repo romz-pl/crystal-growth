@@ -136,6 +136,7 @@
 + [Sumitomo Electric Industries (Japan)](./doc/house-sumitomo.md)
 + [Freiberger Compound Materials (Germany)](./doc/house-freiberger.md)
 + [AXT, Inc. (USA)](./doc/house-axt.md)
++ [Vital Materials](./doc/house-vital-materials.md)
 + [Tongmei Xtal Technology (Cina)](./doc/house-tongmei.md)
 
 
