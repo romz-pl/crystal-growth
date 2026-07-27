@@ -139,8 +139,9 @@
 + [Vital Materials](./doc/house-vital-materials.md)
 + [Other major integrated substrate manufacturers](./doc/house-other.md)
 
-## Production Plant
-+ [Production Plant to grow GaAs Semiconductors](./doc/plant-gaas.md)
+## Production Plant to Grow Semiconductors
++ [GaAs](./doc/plant-gaas.md)
++ [GaP](./doc/plant-gap.md)
 
 
 ## References
