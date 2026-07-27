@@ -142,6 +142,7 @@
 ## Production Plant to Grow Semiconductors
 + [GaAs](./doc/plant-gaas.md)
 + [GaP](./doc/plant-gap.md)
++ [InP](./doc/plant-inp.md)
 
 
 ## References
