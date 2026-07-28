@@ -30,11 +30,13 @@ Guiding principles:
 The InP melt is modeled as an incompressible (Boussinesq or low-Mach) Newtonian fluid in a rotating, deforming domain. The core governing system:
 
 **Continuity:**
+
 $$
 \nabla \cdot \mathbf{u} = 0
 $$
 
 **Momentum (rotating frame, Boussinesq buoyancy):**
+
 $$
 \rho_0 \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u}\cdot\nabla)\mathbf{u} + 2\boldsymbol{\Omega}\times\mathbf{u} + \boldsymbol{\Omega}\times(\boldsymbol{\Omega}\times\mathbf{r}) \right) = -\nabla p + \mu \nabla^2 \mathbf{u} + \rho_0 \mathbf{g}\,\beta_T (T - T_0) + \mathbf{F}_{\ast}
 $$
@@ -42,11 +44,13 @@ $$
 where $\mathbf{F}_{\ast}$ is a placeholder for additional body forces (Lorentz force for MCZ, solutal buoyancy term $\beta_C(C-C_0)$ for dopant-driven convection).
 
 **Energy (melt):**
+
 $$
 \rho_0 c_p \left( \frac{\partial T}{\partial t} + \mathbf{u}\cdot\nabla T \right) = \nabla\cdot(k_\ell \nabla T) - \nabla\cdot \mathbf{q}_{rad}
 $$
 
 **Energy (crystal, static frame or crystal-fixed rotating frame, with pulling):**
+
 $$
 \rho_s c_{p,s} \left( \frac{\partial T}{\partial t} + V_{pull}\frac{\partial T}{\partial z} \right) = \nabla\cdot(k_s(T) \nabla T) - \nabla\cdot \mathbf{q}_{rad}
 $$
@@ -66,19 +70,22 @@ Key references:
 Four coupled free boundaries define the CZ/LEC domain:
 
 1. **Melt–crystal interface** $\Gamma_{sl}(t)$ — determined by the Stefan condition:
+2. 
 $$
 k_s \nabla T_s \cdot \mathbf{n} - k_\ell \nabla T_\ell \cdot \mathbf{n} = \rho_s L \, (V_{int}\cdot\mathbf{n})
+
 $$
 with $T = T_m$ (or a curvature/kinetics-corrected melting point, see WP1.3) on $\Gamma_{sl}$.
 
-2. **Melt–ambient (or melt–encapsulant, in LEC) free surface** $\Gamma_{lv}$ — governed by the Young–Laplace normal-stress balance with Marangoni (thermocapillary) tangential stress:
+3. **Melt–ambient (or melt–encapsulant, in LEC) free surface** $\Gamma_{lv}$ — governed by the Young–Laplace normal-stress balance with Marangoni (thermocapillary) tangential stress:
+
 $$
 p_\ell - p_{amb} = \sigma\,\kappa, \qquad \mu \frac{\partial u_t}{\partial n}\Big|_{\Gamma_{lv}} = \frac{d\sigma}{dT}\nabla_t T
 $$
 
-3. **Crystal side surface** (with radiative and possibly convective boundary condition) and its coupling to the meniscus at the triple line.
+4. **Crystal side surface** (with radiative and possibly convective boundary condition) and its coupling to the meniscus at the triple line.
 
-4. **Encapsulant–gas interface and encapsulant–crystal interface** (LEC only), each with its own surface tension and triple-line physics, and the B$_2$O$_3$ layer's own internal convection (WP7).
+5. **Encapsulant–gas interface and encapsulant–crystal interface** (LEC only), each with its own surface tension and triple-line physics, and the B$_2$O$_3$ layer's own internal convection (WP7).
 
 Deliverables:
 - Formal treatment of the triple-phase line (crystal–melt–encapsulant/ambient) including growth-angle boundary condition (fixed growth angle for InP, ~11–14° depending on facet/crystallographic orientation) as the physical closure for diameter control, per Bardsley/Boucher meniscus theory.
@@ -147,10 +154,13 @@ Key references:
 ### WP2.1 — Macroscopic Dopant Segregation
 
 Convection-diffusion transport of each dopant species $C_i$ in the melt:
+
 $$
 \frac{\partial C_i}{\partial t} + \mathbf{u}\cdot\nabla C_i = D_i \nabla^2 C_i
 $$
+
 with the interfacial segregation boundary condition (effective segregation coefficient $k_{eff}$ from Burton–Prim–Slichter theory, itself a function of local growth rate and boundary-layer thickness, both outputs of the resolved melt flow):
+
 $$
 k_{eff} = \frac{k_0}{k_0 + (1-k_0)\exp(-V_{int}\delta/D_i)}
 $$
@@ -182,17 +192,21 @@ Dislocation density is frequently the single most important industrial output of
 ### WP3.1 — Thermoelastic Stress Field
 
 Quasi-static thermoelasticity solved on the (evolving) crystal domain using the temperature field from WP1:
+
 $$
 \nabla \cdot \boldsymbol{\sigma} = 0, \qquad \boldsymbol{\sigma} = \mathbb{C}(T):(\boldsymbol{\varepsilon} - \boldsymbol{\varepsilon}_{th}), \qquad \boldsymbol{\varepsilon}_{th} = \alpha(T)(T - T_{ref})\mathbf{I}
 $$
+
 with anisotropic elastic tensor $\mathbb{C}$ (zinc-blende cubic symmetry — 3 independent constants $C_{11}, C_{12}, C_{44}$), evaluated on the actual crystallographic orientation of the seed/pulled crystal (typically ⟨100⟩ or ⟨111⟩ for InP).
 
 ### WP3.2 — Dislocation Generation and Multiplication
 
 Von Mises or resolved-shear-stress criterion against $T$-dependent CRSS, coupled to Alexander–Haasen-type dislocation dynamics for multiplication:
+
 $$
 \frac{dN}{dt} = K N \left(\frac{\tau_{eff}}{\tau_0}\right)^m \exp\left(-\frac{Q}{k_B T}\right), \qquad \tau_{eff} = \tau_{RSS} - \tau_{back}(N)
 $$
+
 where $N$ is mobile dislocation density and $\tau_{back}$ is the hardening back-stress from existing dislocations — this is the standard Alexander–Haasen–Sumino (AHS) framework, well established for Si/GaAs, requiring InP-specific calibration of $K$, $m$, $Q$.
 
 Deliverables:
@@ -230,9 +244,11 @@ Key references:
 ## 5. Magnetohydrodynamics (MCZ Variant)
 
 For magnetically damped CZ (MCZ) or InP variants using axial/transverse/cusp magnetic fields to suppress buoyant/thermocapillary turbulence in the melt, the Lorentz force term must be added to WP1's momentum equation:
+
 $$
 \mathbf{F}_{Lorentz} = \mathbf{J}\times\mathbf{B}, \qquad \mathbf{J} = \sigma_{el}(-\nabla\phi + \mathbf{u}\times\mathbf{B})
 $$
+
 requiring an additional electric potential Poisson equation and, for low magnetic Reynolds number (valid for InP melt conductivities and typical lab/industrial field strengths — to be verified quantitatively, not assumed), a quasi-static (inductionless) MHD approximation.
 
 Deliverables:
