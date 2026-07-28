@@ -162,3 +162,4 @@
 
 ## Economic and Business Analysis
 + [Market overview](./doc/economy-overview.md)
++ [European Union Chips Act 2.0 and Critical Raw Materials Act (CRMA)](./doc/economy-chips-act.md)
