@@ -70,22 +70,22 @@ Key references:
 Four coupled free boundaries define the CZ/LEC domain:
 
 1. **Melt–crystal interface** $\Gamma_{sl}(t)$ — determined by the Stefan condition:
-2. 
+
 $$
 k_s \nabla T_s \cdot \mathbf{n} - k_\ell \nabla T_\ell \cdot \mathbf{n} = \rho_s L \, (V_{int}\cdot\mathbf{n})
-
 $$
+
 with $T = T_m$ (or a curvature/kinetics-corrected melting point, see WP1.3) on $\Gamma_{sl}$.
 
-3. **Melt–ambient (or melt–encapsulant, in LEC) free surface** $\Gamma_{lv}$ — governed by the Young–Laplace normal-stress balance with Marangoni (thermocapillary) tangential stress:
+2. **Melt–ambient (or melt–encapsulant, in LEC) free surface** $\Gamma_{lv}$ — governed by the Young–Laplace normal-stress balance with Marangoni (thermocapillary) tangential stress:
 
 $$
 p_\ell - p_{amb} = \sigma\,\kappa, \qquad \mu \frac{\partial u_t}{\partial n}\Big|_{\Gamma_{lv}} = \frac{d\sigma}{dT}\nabla_t T
 $$
 
-4. **Crystal side surface** (with radiative and possibly convective boundary condition) and its coupling to the meniscus at the triple line.
+3. **Crystal side surface** (with radiative and possibly convective boundary condition) and its coupling to the meniscus at the triple line.
 
-5. **Encapsulant–gas interface and encapsulant–crystal interface** (LEC only), each with its own surface tension and triple-line physics, and the B$_2$O$_3$ layer's own internal convection (WP7).
+4. **Encapsulant–gas interface and encapsulant–crystal interface** (LEC only), each with its own surface tension and triple-line physics, and the B$_2$O$_3$ layer's own internal convection (WP7).
 
 Deliverables:
 - Formal treatment of the triple-phase line (crystal–melt–encapsulant/ambient) including growth-angle boundary condition (fixed growth angle for InP, ~11–14° depending on facet/crystallographic orientation) as the physical closure for diameter control, per Bardsley/Boucher meniscus theory.
