@@ -159,3 +159,6 @@
 + [Journals for Publishing Crystal Growth Research](./doc/journals.md)
 + [International Conferences for Crystal Growth Research](./doc/conferences.md)
 + [Patents](./doc/patents.md)
+
+## Economic and Business Analysis
++ [Market overview](./doc/economy-overview.md)
