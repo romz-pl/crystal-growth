@@ -140,6 +140,7 @@
 + [Other major integrated substrate manufacturers](./doc/house-other.md)
 
 ## Production Plant to Grow Semiconductors
++ [Ge](./doc/plant-ge.md)
 + [GaAs](./doc/plant-gaas.md)
 + [GaP](./doc/plant-gap.md)
 + [InP](./doc/plant-inp.md)
