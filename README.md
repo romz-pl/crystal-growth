@@ -164,3 +164,4 @@
 + [Feasibility Study and Business Report](./doc/economy-overview.md)
 + [European Union Chips Act 2.0 and Critical Raw Materials Act (CRMA)](./doc/economy-chips-act.md)
 + [Important Projects of Common European Interest (IPCEIs)](./doc/economy-ipcei.md)
++ [Poland's National Framework for Supporting Strategic Semiconductor Investments](./doc/economy-national.md)
