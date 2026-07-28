@@ -70,6 +70,7 @@ k_{eff} = \frac{k_0}{k_0 + (1-k_0)\exp(-v_g \delta / D)}
 $$
 
 **Stefan interface condition at the solid–liquid front (position $\mathbf{x}_i(t)$, normal velocity $v_n$):**
+
 $$
 \rho L\, v_n = \Big( k_s \nabla T_s - k_l \nabla T_l \Big)\Big|_{\text{interface}}\cdot \mathbf{n}
 $$
