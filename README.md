@@ -60,6 +60,7 @@
 + [Shear (Kelvin–Helmholtz-type) Instability](./doc/model-shear-instability.md)
 + [Non-Axisymmetric Flow Structures  in Axisymmetric Geometries](./doc/model-flow-structures.md)
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
++ [Arbitrary Lagrangian–Eulerian (ALE) method](./doc/model-ale.md)
 
 
 ## Physics-based Numerical Model
