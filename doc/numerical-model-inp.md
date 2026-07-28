@@ -6,7 +6,7 @@ This roadmap defines the technical program required to build an industrial-grade
 
 InP is chosen as the target material because it combines several features that make it one of the hardest CZ/LEC systems to model correctly:
 
-- High equilibrium dissociation pressure of phosphorus at the melting point (~1062°C), requiring either high inert overpressure or a B$_2$O$_3$ encapsulant layer (LEC), which introduces a third phase and a complex triple-phase-line physics problem.
+- High equilibrium dissociation pressure of phosphorus at the melting point (~1062°C), requiring either high inert overpressure or a $\text{B}_2\text{O}_3$ encapsulant layer (LEC), which introduces a third phase and a complex triple-phase-line physics problem.
 - Low critical resolved shear stress and low thermal conductivity relative to Si and GaAs, making InP extremely susceptible to thermally-induced dislocation generation — dislocation density is often the primary industrial figure of merit, not just macroscopic shape or diameter control.
 - Strong dependence of electrical and optical properties on point-defect and dopant distribution, requiring accurate segregation and constitutional supercooling modelling for semi-insulating (Fe-doped) and conducting (S, Sn, Zn-doped) InP.
 - Semi-transparency of the melt and crystal to thermal radiation at growth temperatures, requiring radiative transfer treatment beyond simple surface-to-surface view-factor models in some regimes.
@@ -85,7 +85,7 @@ $$
 
 3. **Crystal side surface** (with radiative and possibly convective boundary condition) and its coupling to the meniscus at the triple line.
 
-4. **Encapsulant–gas interface and encapsulant–crystal interface** (LEC only), each with its own surface tension and triple-line physics, and the B$_2$O$_3$ layer's own internal convection (WP7).
+4. **Encapsulant–gas interface and encapsulant–crystal interface** (LEC only), each with its own surface tension and triple-line physics, and the $\text{B}_2\text{O}_3$ layer's own internal convection (WP7).
 
 Deliverables:
 - Formal treatment of the triple-phase line (crystal–melt–encapsulant/ambient) including growth-angle boundary condition (fixed growth angle for InP, ~11–14° depending on facet/crystallographic orientation) as the physical closure for diameter control, per Bardsley/Boucher meniscus theory.
@@ -117,7 +117,7 @@ Key references:
 
 InP melt and crystal are semi-transparent in parts of the relevant spectral range at growth temperature, unlike opaque-solid assumptions valid for many metals. Two-tier radiation strategy:
 
-- **Tier 1 (furnace/global scale)**: surface-to-surface radiative exchange with view factors between crucible, heater, insulation, encapsulant surface, crystal surface, and chamber walls, including specular/diffuse reflectivity of graphite/quartz components and (for LEC) the B$_2$O$_3$ encapsulant's own radiative properties.
+- **Tier 1 (furnace/global scale)**: surface-to-surface radiative exchange with view factors between crucible, heater, insulation, encapsulant surface, crystal surface, and chamber walls, including specular/diffuse reflectivity of graphite/quartz components and (for LEC) the $\text{B}_2\text{O}_3$ encapsulant's own radiative properties.
 - **Tier 2 (crystal-scale semi-transparency)**: participating-medium radiative transfer within the crystal, coupled to the energy equation via a radiative divergence term. Options ranked by cost/accuracy: Rosseland diffusion approximation (cheap, valid only optically thick), $P_1$/spherical-harmonics approximation, discrete-ordinates method (DOM), or full Monte Carlo ray tracing for verification benchmarks.
 
 Deliverables:
@@ -137,7 +137,7 @@ Required properties (all as functions of $T$, and where relevant, dopant concent
 - Melt: density $\rho_\ell(T)$, dynamic viscosity $\mu(T)$, thermal conductivity $k_\ell(T)$, specific heat $c_{p,\ell}(T)$, thermal expansion $\beta_T$, solutal expansion $\beta_C$ (per dopant species), surface tension $\sigma(T)$ and $d\sigma/dT$, electrical conductivity (for MCZ Lorentz-force modelling).
 - Solid: $k_s(T)$ down to room temperature (needed for post-growth cooldown/stress modelling), $c_{p,s}(T)$, $\rho_s(T)$, elastic constants $C_{ij}(T)$, thermal expansion coefficient $\alpha(T)$, critical resolved shear stress (CRSS) $\tau_c(T)$ and its strain-rate dependence.
 - Interface: latent heat of fusion $L$, equilibrium segregation coefficients $k_0$ for each relevant dopant (S, Sn, Zn, Fe, Te) and for the native point defects (In/P vacancies, antisites), liquidus/solidus data near the In-rich and P-rich sides (In–P binary phase diagram) to capture congruent-melting-point sensitivity.
-- Encapsulant (B$_2$O$_3$): viscosity (strongly $T$-dependent, several orders of magnitude over the relevant range), density, thermal conductivity, surface/interfacial tensions with InP melt and with the ambient gas, water-content dependence (industrially significant and often under-documented).
+- Encapsulant ($\text{B}_2\text{O}_3$): viscosity (strongly $T$-dependent, several orders of magnitude over the relevant range), density, thermal conductivity, surface/interfacial tensions with InP melt and with the ambient gas, water-content dependence (industrially significant and often under-documented).
 - P equilibrium vapor pressure over InP melt as a function of $T$ and melt stoichiometry — essential for LEC overpressure design and for any model of dissociation/mass-loss at exposed melt surfaces.
 
 Deliverables:
@@ -220,20 +220,20 @@ Key references:
 - Kurz, W., Fisher, D.J., *Fundamentals of Solidification*, Trans Tech Publications — general framework.
 - Chung, H.J. et al., "Thermal stress and dislocation density in LEC InP growth," specific InP-CRSS-calibration literature (search current *J. Cryst. Growth* / *J. Electron. Mater.* for latest calibration values, as figures vary across sources — treat as a literature-review deliverable in WP3, not a fixed citation).
 
-## 4. Liquid Encapsulant (B$_2$O$_3$) Physics — LEC-Specific
+## 4. Liquid Encapsulant ($\text{B}_2\text{O}_3$) Physics — LEC-Specific
 
-The B$_2$O$_3$ encapsulant layer is not a passive boundary condition; it is an actively convecting, radiatively participating third fluid phase with its own free surfaces, and its thickness, viscosity profile, and coverage directly control axial gradients at the growth interface (the entire physical rationale for LEC over unencapsulated high-pressure CZ).
+The $\text{B}_2\text{O}_3$ encapsulant layer is not a passive boundary condition; it is an actively convecting, radiatively participating third fluid phase with its own free surfaces, and its thickness, viscosity profile, and coverage directly control axial gradients at the growth interface (the entire physical rationale for LEC over unencapsulated high-pressure CZ).
 
 ### WP4.1 — Encapsulant Flow and Heat Transfer
 
-Full or lubrication-approximation Navier–Stokes/energy solve in the encapsulant annulus, coupled at both the InP-melt/B$_2$O$_3$ interface and the B$_2$O$_3$/ambient-gas interface, each with its own Marangoni and normal-stress balance.
+Full or lubrication-approximation Navier–Stokes/energy solve in the encapsulant annulus, coupled at both the InP-melt/$\text{B}_2\text{O}_3$ interface and the $\text{B}_2\text{O}_3$/ambient-gas interface, each with its own Marangoni and normal-stress balance.
 
 ### WP4.2 — Encapsulant Layer Thickness and Coverage Dynamics
 
 Time-evolving encapsulant thickness as crystal diameter and melt level change through the run; risk of encapsulant breakthrough (loss of P confinement) at the triple line as a hard process-safety and yield constraint to be flagged by the model, not just simulated silently.
 
 Deliverables:
-- Coupled 3-phase (InP melt / B$_2$O$_3$ / ambient gas) free-boundary solver, initially 2D-axisymmetric, extended to 3D for ACRT/asymmetric cases (WP6).
+- Coupled 3-phase (InP melt / $\text{B}_2\text{O}_3$ / ambient gas) free-boundary solver, initially 2D-axisymmetric, extended to 3D for ACRT/asymmetric cases (WP6).
 - Sensitivity study of axial temperature gradient at the growth interface as a function of encapsulant thickness and viscosity (i.e., water content), connecting directly back to WP3 dislocation predictions — this is the key causal chain (encapsulant → gradient → stress → dislocations) that gives the LEC-specific model its industrial value over a generic CZ code.
 
 Key references:
@@ -432,7 +432,7 @@ Note on sequencing risk: WP2.2 (stoichiometry/point-defect coupling) and Tier B/
 
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
-| Property database gaps (esp. high-$T$ melt $k_\ell$, B$_2$O$_3$ viscosity-water relation) block quantitative accuracy | High | High | Early dedicated measurement/DFT campaign (WP1.5); sensitivity analysis to bound impact of uncertain properties before full investment |
+| Property database gaps (esp. high-$T$ melt $k_\ell$, $\text{B}_2\text{O}_3$ viscosity-water relation) block quantitative accuracy | High | High | Early dedicated measurement/DFT campaign (WP1.5); sensitivity analysis to bound impact of uncertain properties before full investment |
 | Free-boundary solver non-convergence at industrial parameter ranges | Medium-High | High | WP8.3 continuation/globalization strategy budgeted from Phase 1, not retrofitted |
 | Neck/tail topology transitions break ALE mesh | Medium | Medium-High | Level-set/phase-field contingency prototype (WP6.2) developed in parallel, not sequentially after ALE failure is discovered |
 | Experimental validation access (Tier B/C) delayed | Medium-High | High (blocks industrial-grade claim) | Secure academic/industrial growth partner in Phase 0, run in parallel with Phase 1–2 development |
