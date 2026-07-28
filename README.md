@@ -143,6 +143,7 @@
 + [GaAs](./doc/plant-gaas.md)
 + [GaP](./doc/plant-gap.md)
 + [InP](./doc/plant-inp.md)
++ [GaSb](./doc/plant-gasb.md)
 
 
 ## References
