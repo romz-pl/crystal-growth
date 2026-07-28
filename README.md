@@ -144,6 +144,7 @@
 + [GaP](./doc/plant-gap.md)
 + [InP](./doc/plant-inp.md)
 + [GaSb](./doc/plant-gasb.md)
++ [YVO₄](./doc/plant-yv0.md)
 
 
 ## References
