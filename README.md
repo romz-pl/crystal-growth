@@ -62,6 +62,9 @@
 + [History of Numerical Continuum (Macroscopic) Models of Melt/Solution Growth](./doc/model-continuum.md)
 
 
+## Physics-based Numerical Model
++ [**InP**](./doc/numerical-model-inp.md)
+
 
 ## Software for Modeling the Crystal Growth Process
 + [Overview of Software for Modeling](./doc/software-overview.md)
