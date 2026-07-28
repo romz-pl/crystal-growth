@@ -63,7 +63,8 @@
 
 
 ## Physics-based Numerical Model
-+ [**InP**](./doc/numerical-model-inp.md)
++ [**InP**, Czochralski (CZ) and Liquid Encapsulated Czochralski (LEC) process](./doc/numerical-model-inp.md)
++ [**InP**, Vertical Gradient Freeze (VGF) and Vertical Bridgman (VB) process](./doc/numerical-model-vgf-inp.md)
 
 
 ## Software for Modeling the Crystal Growth Process
