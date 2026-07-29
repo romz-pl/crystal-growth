@@ -169,5 +169,6 @@
 ## Crystal Growth in Poland
 + [Institute of Microelectronics and Photonics (IMiF)](./doc/poland-imif.md)
 + [Institute of High Pressure Physics, PAS (UNIPRESS)](./doc/poland-unipress.md)
-+ [Ensemble3 International Research Agenda / Centre of Excellence](./doc/poland-ensemble3.md)
 + [VIGO Photonics](./doc/poland-vigo.md)
++ [Ensemble3 International Research Agenda / Centre of Excellence](./doc/poland-ensemble3.md)
+  + [Karlsruhe Institute of Technology, KIT (Germany)](./doc/poland-ensemble3-kit.md)
