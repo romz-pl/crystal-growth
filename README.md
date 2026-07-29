@@ -167,4 +167,4 @@
 + [Poland's National Framework for Supporting Strategic Semiconductor Investments](./doc/economy-national.md)
 
 ## Crystal Growth in Poland
-+ [Institute of Microelectronics and Photonics (IMiF)]./doc/poland-imif.md)
++ [Institute of Microelectronics and Photonics (IMiF)](./doc/poland-imif.md)
