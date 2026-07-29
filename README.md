@@ -168,3 +168,4 @@
 
 ## Crystal Growth in Poland
 + [Institute of Microelectronics and Photonics (IMiF)](./doc/poland-imif.md)
++ [Institute of High Pressure Physics, PAS (UNIPRESS)](./doc/poland-unipress.md)
