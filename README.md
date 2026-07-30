@@ -68,6 +68,7 @@
 + [**InP**, Czochralski (CZ) and Liquid Encapsulated Czochralski (LEC) process](./doc/numerical-model-inp.md)
 + [**InP**, Vertical Gradient Freeze (VGF) and Vertical Bridgman (VB) process](./doc/numerical-model-vgf-inp.md)
 
+---
 
 ## Software for Modeling the Crystal Growth Process
 + [Overview of Software for Modeling](./doc/software-overview.md)
@@ -81,6 +82,7 @@
 ### Open source libraries
 + [OpenFOAM](./doc/software-openfoam.md)
 
+---
 
 ## Leaders and Champions in Numerical Modeling
 + [**Georg Müller**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-gmuller.md)
