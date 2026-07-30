@@ -125,17 +125,21 @@ This is solved as a **quasi-steady-state (QSS)** free-boundary problem in a fram
 Key governing relations in such models include:
 
 **Young–Laplace equation for the meniscus** (axisymmetric free surface, radius $r$, height $z$, arclength $s$, local surface slope angle $\phi$):
+
 $$
 \gamma\left(\frac{1}{R_1} + \frac{1}{R_2}\right) = \Delta P(z)
 $$
+
 where $R_1, R_2$ are the principal radii of curvature of the meniscus surface, $\gamma$ is the (temperature-dependent) surface tension, and $\Delta P(z)$ is the local pressure difference across the interface (hydrostatic plus any imposed gas overpressure).
 
 **Energy balance (Stefan condition) at the solidification front**, with unit normal $\mathbf n$, solid and liquid thermal conductivities $k_s, k_l$, latent heat of fusion $L$, density $\rho$, and interface velocity $V_n$:
+
 $$
 k_s \, \nabla T_s \cdot \mathbf n \;-\; k_l \, \nabla T_l \cdot \mathbf n \;=\; \rho\, L \, V_n
 $$
 
 **Marangoni boundary condition on the free surface** (tangential stress balance), with tangential unit vector $\mathbf t$ and surface temperature gradient $\nabla_s T$:
+
 $$
 \mu \frac{\partial u_t}{\partial n} = \frac{d\gamma}{dT}\,\big(\nabla_s T \cdot \mathbf t\big)
 $$
