@@ -172,13 +172,7 @@
 + [VIGO Photonics](./doc/poland-vigo.md)
 + [Ensemble3 International Research Agenda / Centre of Excellence](./doc/poland-ensemble3.md)
   + [Professor Dorota Pawlak](./doc/poland-ensemble3-dorota-pawlak.md)
-  + ENSEMBLE3's Scientific Advisory Board:
-    + [Sir John Pendry](./doc/ensemble3-john-pendry.md)
-    + Javier García de Abajo
-    + Paul Braun
-    + Robert Cava
-    + Rainer Hillenbrand
-    + Uli Lemmer
+  + [ENSEMBLE3's Scientific Advisory Board](./doc/ensemble3-scientific-advisory-board.md)
   + [Karlsruhe Institute of Technology, KIT (Germany)](./doc/poland-ensemble3-kit.md)
   + [Sapienza University of Rome (Italy)](./doc/poland-ensemble3-sapienza.md)
   + [CIC nanoGUNE (Spain)](./doc/poland-ensemble3-cic.md)
