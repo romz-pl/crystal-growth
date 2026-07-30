@@ -70,10 +70,15 @@
 
 ## Software for Modeling the Crystal Growth Process
 + [Overview of Software for Modeling](./doc/software-overview.md)
+  
+### Dedicated software
 + [**CGSim** from the STR Group](./doc/cgsim-str.md)
 + [**CrysMAS** from Fraunhofer IISB (Germany)](./doc/crysmas-fraunhofer.md)
 + [**FEMAG / FEMAG-CZ** software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
 + [**Cats2D** by Andrew Yeckel](./doc/cats2d.md)
+
+### Open source libraries
++ [OpenFOAM](./doc/software-openfoam.md)
 
 
 ## Leaders and Champions in Numerical Modeling
