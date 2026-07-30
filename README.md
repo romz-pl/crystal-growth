@@ -173,3 +173,4 @@
 + [Ensemble3 International Research Agenda / Centre of Excellence](./doc/poland-ensemble3.md)
   + [Karlsruhe Institute of Technology, KIT (Germany)](./doc/poland-ensemble3-kit.md)
   + [Sapienza University of Rome (Italy)](./doc/poland-ensemble3-sapienza.md)
+  + [CIC nanoGUNE (Spain)](./doc/poland-ensemble3-cic.md)
