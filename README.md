@@ -173,7 +173,7 @@
 + [Ensemble3 International Research Agenda / Centre of Excellence](./doc/poland-ensemble3.md)
   + [Professor Dorota Pawlak](./doc/poland-ensemble3-dorota-pawlak.md)
   + ENSEMBLE3's Scientific Advisory Board:
-    + Sir John Pendry
+    + [Sir John Pendry](./doc/ensemble3-john-pendry.md)
     + Javier García de Abajo
     + Paul Braun
     + Robert Cava
