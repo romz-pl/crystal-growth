@@ -81,6 +81,7 @@
 
 ### Open source libraries
 + [OpenFOAM](./doc/software-openfoam.md)
++ [Elmer](./doc/software-elmer.md)
 
 ---
 
