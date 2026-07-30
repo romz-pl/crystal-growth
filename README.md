@@ -174,3 +174,4 @@
   + [Karlsruhe Institute of Technology, KIT (Germany)](./doc/poland-ensemble3-kit.md)
   + [Sapienza University of Rome (Italy)](./doc/poland-ensemble3-sapienza.md)
   + [CIC nanoGUNE (Spain)](./doc/poland-ensemble3-cic.md)
++ [CEZAMAT (Warsaw University of Technology)](./doc/poland-cezamat.md)
