@@ -173,6 +173,7 @@
 + [Ensemble3 International Research Agenda / Centre of Excellence](./doc/poland-ensemble3.md)
   + [Professor Dorota Pawlak](./doc/poland-ensemble3-dorota-pawlak.md)
   + [ENSEMBLE3's Scientific Advisory Board](./doc/ensemble3-scientific-advisory-board.md)
+  + [ENSEMBLE3's Scientific Staff](./doc/ensemble3-scientific-staff.md)
   + [Karlsruhe Institute of Technology, KIT (Germany)](./doc/poland-ensemble3-kit.md)
   + [Sapienza University of Rome (Italy)](./doc/poland-ensemble3-sapienza.md)
   + [CIC nanoGUNE (Spain)](./doc/poland-ensemble3-cic.md)
