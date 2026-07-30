@@ -84,9 +84,9 @@ Code_saturne's ALE module is a **mesh-motion mechanism**: given a user-specified
 
 - **Solving the Stefan condition** at a solid–liquid interface, i.e., determining the interface velocity from the discontinuity in normal heat flux,
 
-  $$
-  \rho_s L\, v_n = k_s \left.\frac{\partial T}{\partial n}\right|_{s} - k_l \left.\frivial T}{\partial n}\right|_{l}
-  $$
+$$
+\rho_s L\, v_n = k_s \left.\frac{\partial T}{\partial n} \right| _ {s} - k_l \left.\frac{\partial T}{\partial n}\right|_{l}
+$$
 
   (interface latent-heat balance) — this must be implemented entirely as user-coded boundary logic, iterating interface position against the two-sided heat flux.
 - **Free-surface shape determination from capillarity and pressure balance** (the meniscus profile that sets crystal diameter and links to diameter-control logic) — again, ALE only moves whatever surface the user tells it to move; the user must supply the young–Laplace/meniscus equation solution externally, or an approximate empirical diameter-control law, and translate it into mesh-boundary velocities at each iteration.
