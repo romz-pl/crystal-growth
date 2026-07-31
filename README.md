@@ -79,7 +79,7 @@
 + [**FEMAG / FEMAG-CZ** software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
 + [**Cats2D** by Andrew Yeckel](./doc/cats2d.md)
 
-### Open source libraries
+### Open source software
 + [NEMOCRYS/opencgs](./doc/software-opencgs.md)
 + [OpenFOAM](./doc/software-openfoam.md)
 + [Elmer](./doc/software-elmer.md)
