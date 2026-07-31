@@ -88,6 +88,7 @@
 + [Basilisk Flow Solver](./doc/software-basilisk.md)
 + [Goma Finite Element Program](./doc/software-goma.md)
 + [MOOSE Multiphysics Object-Oriented Simulation Environment](./doc/software-moose.md)
++ [NEK fast high-order scalable CFD](./doc/software-nek.md)
 
 ### Commercial software
 + [ANSYS/Fluent](./doc/software-fluent.md)
