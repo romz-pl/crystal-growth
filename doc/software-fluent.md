@@ -81,9 +81,11 @@ A realistic development roadmap to bring Fluent to CrysMAS-comparable CZ capabil
 
 ### 3.2 Interface tracking (the central challenge)
 - Implement the melt/crystal interface as a **moving wall boundary** whose position is updated at each (pseudo-)time step by solving the Stefan condition:
+
 $$
 \rho_s L \, v_{int} = k_s \left.\frac{\partial T}{\partial n}\right|_{s} - k_l \left.\frac{\partial T}{\partial n}\right|_{l}
 $$
+
 via UDF access to `DEFINE_GRID_MOTION` or `DEFINE_CG_MOTION`, computing normal temperature gradients from Fluent's solution fields on both sides of the interface, and applying a smoothing/relaxation scheme to avoid mesh-motion instability (a known difficulty — face-normal-gradient-driven mesh motion is numerically stiff and prone to oscillation without careful under-relaxation, filtering, or a coupled Newton iteration across mesh and flow, none of which is provided by Fluent's dynamic-mesh framework by default).
 - Enforce the melting-point isotherm constraint ($T_{interface} = T_m$, possibly with curvature-dependent Gibbs–Thomson correction for small-radius features) as a boundary condition, again via UDF.
 - Validate against the analytically tractable limits (1D Stefan problem, planar interface) before attempting full 2D/3D CZ geometry — this validation step is essential and is exactly the kind of code-verification work that CrysMAS's development team has already done and published.
