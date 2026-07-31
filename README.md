@@ -88,6 +88,7 @@
 + [Basilisk Flow Solver](./doc/software-basilisk.md)
 + [Goma Finite Element Program](./doc/software-goma.md)
 + [MOOSE Multiphysics Object-Oriented Simulation Environment](./doc/software-moose.md)
++ [Griffin (MOOSE-based Reactor Physics Analysis Tool for Advanced Nuclear Reactors)](./doc/software-griffin.md)
 + [NEK fast high-order scalable CFD](./doc/software-nek.md)
 + [COOLFluiD (Computational Object-Oriented Libraries for Fluid Dynamics)](./doc/software-coolfluid.md)
 
