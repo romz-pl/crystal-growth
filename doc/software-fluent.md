@@ -221,16 +221,19 @@ Use CrysMAS (or CGSim) as the **global furnace and interface-tracking backbone**
 ## Appendix A: Governing Equations Referenced
 
 **Stefan condition at the melt/crystal interface** (normal-velocity form):
+
 $$
 \rho_s L \, v_{int} = k_s \left.\frac{\partial T}{\partial n}\right|_{s} - k_l \left.\frac{\partial T}{\partial n}\right|_{l}
 $$
 
 **Young–Laplace equation for the meniscus profile** $z(r)$:
+
 $$
 \gamma \left( \frac{1}{R_1} + \frac{1}{R_2} \right) = \rho_l g z + \Delta p_0
 $$
 
 **Segregation at the interface** (effective segregation coefficient, Burton–Prim–Slichter form):
+
 $$
 k_{eff} = \frac{k_0}{k_0 + (1-k_0)\exp\!\left(-\dfrac{v_{int}\,\delta}{D_l}\right)}
 $$
@@ -238,11 +241,13 @@ $$
 where $k_0$ is the equilibrium segregation coefficient, $\delta$ the boundary-layer thickness, and $D_l$ the solute diffusivity in the melt.
 
 **Boussinesq buoyancy source term** in the melt momentum equation:
+
 $$
 \mathbf{f}_b = \rho_0 \, g \, \beta \, (T - T_0)\, \hat{\mathbf{z}}
 $$
 
 **Lorentz force term** for magnetically damped/driven melt flow:
+
 $$
 \mathbf{f}_L = \mathbf{J} \ast \mathbf{B}
 $$
