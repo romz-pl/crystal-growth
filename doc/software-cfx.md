@@ -49,7 +49,7 @@ Where relevant, this report distinguishes CFX from **ANSYS Fluent**, since a mea
 
 ### 2.1 Fluid flow and turbulence
 
-CFX's core strength — a robust, well-validated, coupled pressure-velocity solver with a broad turbulence-model library (RANS: $k$–$\varepsilon$, $k$–$\omega$, SST, RSM; scale-resolving: SAS-SST, DES, LES) — is directly applicable to CZ melt convection, which is known experimentally and numerically to transition from steady laminar to oscillatory, and eventually to weakly turbulent regimes as the melt Grashof/Marangoni numbers increase with crucible size. The relevant dimensionless groups are:
+CFX's core strength — a robust, well-validated, coupled pressure-velocity solver with a broad turbulence-model library (RANS: $k - \varepsilon$, $k - \omega$, SST, RSM; scale-resolving: SAS-SST, DES, LES) — is directly applicable to CZ melt convection, which is known experimentally and numerically to transition from steady laminar to oscillatory, and eventually to weakly turbulent regimes as the melt Grashof/Marangoni numbers increase with crucible size. The relevant dimensionless groups are:
 
 $$
 Gr = \frac{g\beta\Delta T L^3}{\nu^2}, \qquad
