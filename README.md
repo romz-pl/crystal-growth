@@ -73,7 +73,7 @@
 ## Software for Modeling the Crystal Growth Process
 + [Overview of Software for Modeling](./doc/software-overview.md)
   
-### Dedicated software
+### Dedicated commercial software
 + [**CGSim** from the STR Group](./doc/cgsim-str.md)
 + [**CrysMAS** from Fraunhofer IISB (Germany)](./doc/crysmas-fraunhofer.md)
 + [**FEMAG / FEMAG-CZ** software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
@@ -85,6 +85,9 @@
 + [Elmer](./doc/software-elmer.md)
 + [Code_saturne](./doc/software-code_saturne.md)
 + [FEniCS/DOLFINx](./doc/software-dolfinx.md)
+
+### Commercial software
++ [ANSYS/Fluent](./doc/software-fluent.md)
 
 ---
 
