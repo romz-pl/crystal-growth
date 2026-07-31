@@ -86,6 +86,7 @@
 + [Code_saturne](./doc/software-code_saturne.md)
 + [FEniCS/DOLFINx](./doc/software-dolfinx.md)
 + [Basilisk Flow Solver](./doc/software-basilisk.md)
++ [Goma Finite Element Program](./doc/software-goma.md)
 
 ### Commercial software
 + [ANSYS/Fluent](./doc/software-fluent.md)
