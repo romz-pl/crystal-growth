@@ -85,6 +85,7 @@
 + [Elmer](./doc/software-elmer.md)
 + [Code_saturne](./doc/software-code_saturne.md)
 + [FEniCS/DOLFINx](./doc/software-dolfinx.md)
++ [Basilisk Flow Solver](./doc/software-basilisk.md)
 
 ### Commercial software
 + [ANSYS/Fluent](./doc/software-fluent.md)
