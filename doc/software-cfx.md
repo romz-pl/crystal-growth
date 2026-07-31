@@ -132,9 +132,11 @@ CFX has no dedicated solidification module analogous to Fluent's built-in "Solid
 ### 3.1 The interface-tracking problem in detail
 
 This deserves elaboration because it is the single largest practical obstacle to "industrial-grade" CZ simulation in CFX. A dedicated code solves the moving-boundary problem as an integral part of its algorithm: the melt/crystal interface position is an unknown solved simultaneously (or in a tightly coupled outer iteration) with the temperature field, subject to
+
 $$
 k_s \left.\frac{\partial T_s}{\partial n}\right|_{\Gamma} - k_l \left.\frac{\partial T_l}{\partial n}\right|_{\Gamma} = \rho_s\, L_f\, v_n
 $$
+
 where $\Gamma$ is the interface, $v_n$ its normal velocity (linked to the pulling rate in quasi-steady growth), $L_f$ the latent heat of fusion, and $k_s,k_l$ the solid/liquid thermal conductivities. CrysMAS implements this as a built-in deforming-grid or interface-tracking algorithm with a quasi-Newton solution strategy specifically tuned for this class of problem.
 
 In CFX, achieving the same result requires building an **external control loop** around the solver: (1) guess an interface shape and generate/deform a boundary-fitted mesh to it; (2) solve the coupled thermal/flow field; (3) evaluate the Stefan-condition residual along the interface; (4) update the interface shape (e.g., via a Newton or relaxation scheme implemented in a scripting layer — Python/Perl driving CFX in batch mode — or via CFX's own mesh-motion/User Fortran hooks); (5) re-mesh or deform and repeat to convergence. This is a legitimate and published approach, but it is bespoke software engineering layered on top of CFX, not a feature CFX provides.
