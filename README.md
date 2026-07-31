@@ -80,6 +80,7 @@
 + [**Cats2D** by Andrew Yeckel](./doc/cats2d.md)
 
 ### Open source libraries
++ [NEMOCRYS/opencgs](./doc/software-opencgs.md)
 + [OpenFOAM](./doc/software-openfoam.md)
 + [Elmer](./doc/software-elmer.md)
 + [Code_saturne](./doc/software-code_saturne.md)
