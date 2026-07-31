@@ -84,6 +84,7 @@
 + [OpenFOAM](./doc/software-openfoam.md)
 + [Elmer](./doc/software-elmer.md)
 + [Code_saturne](./doc/software-code_saturne.md)
++ [FEniCS/DOLFINx](./doc/software-dolfinx.md)
 
 ---
 
