@@ -88,9 +88,11 @@ CFX has no native electromagnetic (induction heating, Lorentz-force) solver. Mag
 CFX's scalar transport equations can represent dopant/oxygen concentration fields with prescribed diffusivities, and boundary conditions can approximate a segregation coefficient at the growth interface. However:
 
 - The moving-interface segregation condition — flux balance at a boundary advancing at the pull rate, with an effective segregation coefficient $k_{eff}$ that itself depends on the interfacial melt flow via the Burton–Prim–Slichter relation
+
 $$
 k_{eff} = \frac{k_0}{k_0 + (1-k_0)\exp(-v\,\delta/D)}
 $$
+
 (where $v$ is the interface velocity, $\delta$ the diffusion boundary-layer thickness, and $D$ the solute diffusivity) — is not a native CFX feature and must be implemented via custom boundary profiles coupled to the (also custom) interface-tracking logic.
 - Free-surface evaporation of oxygen/dopant species (relevant to CZ silicon oxygen control) requires a custom flux boundary condition, as demonstrated in the Fluent-based literature using specialized evaporation-flux formulations.
 
