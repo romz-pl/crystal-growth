@@ -88,6 +88,7 @@
 
 ### Commercial software
 + [ANSYS/Fluent](./doc/software-fluent.md)
++ [ANSYS/CFX](./doc/software-cfx.md)
 
 ---
 
