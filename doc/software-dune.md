@@ -23,11 +23,13 @@ The CZ process pulls a rotating single crystal from a rotating crucible of melt,
 - **Global (furnace-scale) heat transfer**: conduction in solids (crucible, susceptor, insulation, heaters, crystal), convection in gas and melt, and **diffuse-grey surface-to-surface radiative exchange** between hundreds of cavity surfaces, several of which are not geometrically visible to each other without shadowing calculations.
 - **Melt convection**: buoyancy-driven (Grashof/Rayleigh), forced (crucible and crystal rotation, Reynolds/Ekman/Taylor numbers), and thermocapillary (Marangoni) flow, typically turbulent or transitional at industrial melt volumes (Grashof numbers $10^{9}$–$10^{12}$).
 - **Free and moving boundaries**: the melt free surface (meniscus), the crystal side surface (diameter control), and — most critically — the **melt–crystal interface**, a Stefan-type moving boundary governed by
+
 $$
 \rho_s L_f \, v_n = \big(\mathbf{q}_s - \mathbf{q}_l\big)\cdot \mathbf{n}, \qquad T\big|_{\Gamma} = T_m
 $$
   where $v_n$ is the interface normal velocity, $L_f$ the latent heat of fusion, and $\mathbf{q}_s, \mathbf{q}_l$ the conductive (and, on the melt side, convective) heat fluxes on either side of the interface $\Gamma$.
 - **Electromagnetics**: for RF/induction-heated or magnetic-CZ (MCZ) systems, the induction eddy-current problem and/or the magnetohydrodynamic Lorentz-force coupling
+
 $$
 \mathbf{J} \times \mathbf{B} = \sigma\big(\mathbf{E} + \mathbf{u}\times\mathbf{B}\big)\times \mathbf{B}
 $$
@@ -116,14 +118,16 @@ The furnace stack (crucible, susceptor, afterheater, insulation, heaters, ampoul
 ### 4.3 ALE Free-Boundary and Stefan-Interface Solver
 
 The melt free surface and the melt–crystal interface both require an Arbitrary Lagrangian–Eulerian or equivalent moving-mesh treatment:
+
 $$
 \left.\frac{\partial \mathbf{x}}{\partial t}\right|_{\text{mesh}} = \mathbf{w}, \qquad \mathbf{w}\cdot\mathbf{n}\big|_{\Gamma} = v_n
 $$
+
 with the interior mesh velocity $\mathbf{w}$ typically obtained from a pseudo-elastic or Laplace-smoothing auxiliary problem to preserve mesh quality as the crystal grows and the melt level drops. The Stefan condition couples this geometric evolution to the two-sided heat-flux jump given in Section 1.1. This is the single largest and most numerically delicate development item: instabilities in interface tracking are a well-documented failure mode in bespoke CZ codes, and CrysMAS's interface-tracking algorithm reflects two decades of refinement against experimental benchmarks (see Section 8, Enger/Basu-era validation papers).
 
 ### 4.4 Turbulence Closure for Melt Convection
 
-Industrial CZ melts (silicon, especially) operate at Grashof numbers where the flow is turbulent or exhibits complex transitional/oscillatory behavior. CrysMAS and its peers offer RANS closures (e.g., low-Reynolds $k$–$\varepsilon$) tuned for buoyancy–rotation-dominated enclosed flows. DUNE offers no turbulence models; a $k$–$\varepsilon$/$k$–$\omega$ or (given DUNE's HPC pedigree) a resolved LES approach would need to be implemented and validated against the CZ melt-flow literature (Krauze et al., Kakimoto-group DNS/LES studies) — itself a multi-year research undertaking if done rigorously.
+Industrial CZ melts (silicon, especially) operate at Grashof numbers where the flow is turbulent or exhibits complex transitional/oscillatory behavior. CrysMAS and its peers offer RANS closures (e.g., low-Reynolds $k$–$\varepsilon$) tuned for buoyancy–rotation-dominated enclosed flows. DUNE offers no turbulence models; a $k - \varepsilon$ / $k - \omega$ or (given DUNE's HPC pedigree) a resolved LES approach would need to be implemented and validated against the CZ melt-flow literature (Krauze et al., Kakimoto-group DNS/LES studies) — itself a multi-year research undertaking if done rigorously.
 
 ### 4.5 Electromagnetics (Induction Heating / MHD)
 
@@ -132,9 +136,11 @@ For RF-heated and magnetic-CZ configurations, an eddy-current ($\mathbf{A}$–$\
 ### 4.6 Dopant Segregation
 
 Convection–diffusion transport of dopant species with a segregation boundary condition
+
 $$
 c_s = k_{\mathrm{eff}}\, c_l \big|_{\Gamma}
 $$
+
 at the moving interface is comparatively low effort once the ALE interface infrastructure (4.3) exists, since the underlying scalar transport equation is a direct PDELab application.
 
 ### 4.7 Process-Level Control and Workflow Tooling
