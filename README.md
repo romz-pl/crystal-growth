@@ -90,6 +90,7 @@
 + [DUNE (Distributed and Unified Numerics Environment)](./doc/software-dune.md)
 + [Elmer](./doc/software-elmer.md)
 + [FEniCS/DOLFINx](./doc/software-dolfinx.md)
++ [Firedrake Project](./doc/software-firedrake.md)
 + [Goma Finite Element Program](./doc/software-goma.md)
 + [Griffin (MOOSE-based Reactor Physics Analysis Tool for Advanced Nuclear Reactors)](./doc/software-griffin.md)
 + [Kratos Multiphysics](./doc/software-kratos.md)
