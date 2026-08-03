@@ -94,6 +94,7 @@
 + [NEK fast high-order scalable CFD](./doc/software-nek.md)
 + [NEMOCRYS/opencgs](./doc/software-opencgs.md)
 + [OpenFOAM](./doc/software-openfoam.md)
++ [Proteus Multiphase Transport Framework](./doc/software-proteus.md)
   
 
 ### Commercial software
