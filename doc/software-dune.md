@@ -27,13 +27,15 @@ The CZ process pulls a rotating single crystal from a rotating crucible of melt,
 $$
 \rho_s L_f \, v_n = \big(\mathbf{q}_s - \mathbf{q}_l\big)\cdot \mathbf{n}, \qquad T\big|_{\Gamma} = T_m
 $$
-  where $v_n$ is the interface normal velocity, $L_f$ the latent heat of fusion, and $\mathbf{q}_s, \mathbf{q}_l$ the conductive (and, on the melt side, convective) heat fluxes on either side of the interface $\Gamma$.
+
+where $v_n$ is the interface normal velocity, $L_f$ the latent heat of fusion, and $\mathbf{q}_s, \mathbf{q}_l$ the conductive (and, on the melt side, convective) heat fluxes on either side of the interface $\Gamma$.
 - **Electromagnetics**: for RF/induction-heated or magnetic-CZ (MCZ) systems, the induction eddy-current problem and/or the magnetohydrodynamic Lorentz-force coupling
 
 $$
 \mathbf{J} \times \mathbf{B} = \sigma\big(\mathbf{E} + \mathbf{u}\times\mathbf{B}\big)\times \mathbf{B}
 $$
-  entering the melt momentum equation as a body force.
+
+entering the melt momentum equation as a body force.
 - **Dopant/species transport** with segregation at the growth interface, governed by the effective segregation coefficient $k_{\mathrm{eff}}$ and convection–diffusion in the melt.
 - **Quasi-steady pulling and shape evolution**, requiring either a moving/deforming mesh (ALE) or a mapped/transformed coordinate formulation, coupled to a global process/furnace-control loop (power or pull-rate feedback for diameter control).
 
