@@ -91,6 +91,7 @@
 + [Goma Finite Element Program](./doc/software-goma.md)
 + [Griffin (MOOSE-based Reactor Physics Analysis Tool for Advanced Nuclear Reactors)](./doc/software-griffin.md)
 + [Kratos Multiphysics](./doc/software-kratos.md)
++ [libMesh](./doc/software-libmesh.md)
 + [MFEM (Modular Finite Element Methods)](./doc/software-mfem.md)
 + [MOOSE Multiphysics Object-Oriented Simulation Environment](./doc/software-moose.md)
 + [NEK fast high-order scalable CFD](./doc/software-nek.md)
