@@ -80,17 +80,19 @@
 + [**Cats2D** by Andrew Yeckel](./doc/cats2d.md)
 
 ### Open source software
++ [Basilisk Flow Solver](./doc/software-basilisk.md)
++ [Code_saturne](./doc/software-code_saturne.md)
++ [COOLFluiD (Computational Object-Oriented Libraries for Fluid Dynamics)](./doc/software-coolfluid.md)
++ [Elmer](./doc/software-elmer.md)
++ [FEniCS/DOLFINx](./doc/software-dolfinx.md)
++ [Goma Finite Element Program](./doc/software-goma.md)
++ [Griffin (MOOSE-based Reactor Physics Analysis Tool for Advanced Nuclear Reactors)](./doc/software-griffin.md)
++ [Kratos Multiphysics](./doc/software-kratos.md)
++ [MOOSE Multiphysics Object-Oriented Simulation Environment](./doc/software-moose.md)
++ [NEK fast high-order scalable CFD](./doc/software-nek.md)
 + [NEMOCRYS/opencgs](./doc/software-opencgs.md)
 + [OpenFOAM](./doc/software-openfoam.md)
-+ [Elmer](./doc/software-elmer.md)
-+ [Code_saturne](./doc/software-code_saturne.md)
-+ [FEniCS/DOLFINx](./doc/software-dolfinx.md)
-+ [Basilisk Flow Solver](./doc/software-basilisk.md)
-+ [Goma Finite Element Program](./doc/software-goma.md)
-+ [MOOSE Multiphysics Object-Oriented Simulation Environment](./doc/software-moose.md)
-+ [Griffin (MOOSE-based Reactor Physics Analysis Tool for Advanced Nuclear Reactors)](./doc/software-griffin.md)
-+ [NEK fast high-order scalable CFD](./doc/software-nek.md)
-+ [COOLFluiD (Computational Object-Oriented Libraries for Fluid Dynamics)](./doc/software-coolfluid.md)
+  
 
 ### Commercial software
 + [ANSYS/Fluent](./doc/software-fluent.md)
