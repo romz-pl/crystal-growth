@@ -84,6 +84,7 @@
 + [Basilisk Flow Solver](./doc/software-basilisk.md)
 + [Code_saturne](./doc/software-code_saturne.md)
 + [COOLFluiD (Computational Object-Oriented Libraries for Fluid Dynamics)](./doc/software-coolfluid.md)
++ [deal.II](./doc/software-deal-ii.md)
 + [DUNE (Distributed and Unified Numerics Environment)](./doc/software-dune.md)
 + [Elmer](./doc/software-elmer.md)
 + [FEniCS/DOLFINx](./doc/software-dolfinx.md)
