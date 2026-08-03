@@ -95,6 +95,7 @@
 + [NEMOCRYS/opencgs](./doc/software-opencgs.md)
 + [OpenFOAM](./doc/software-openfoam.md)
 + [Proteus Multiphase Transport Framework](./doc/software-proteus.md)
++ [SU2 Foundation](./doc/software-su2.md)
   
 
 ### Commercial software
