@@ -108,9 +108,11 @@ To reach a CZ simulation capability functionally comparable to CrysMAS, the foll
 ### 4.1 View-Factor Radiation Module
 
 Diffuse-grey radiative exchange between $N$ discretized boundary facets requires the radiosity system
+
 $$
 J_i = \varepsilon_i \sigma T_i^4 + (1-\varepsilon_i)\sum_{j=1}^{N} F_{ij}\, J_j
 $$
+
 where $F_{ij}$ are view factors satisfying reciprocity $A_i F_{ij} = A_j F_{ji}$ and requiring $O(N^2)$ storage/computation (or a hemicube/Monte-Carlo ray-tracing approximation for large $N$) with shadowing tests for non-convex furnace cavities. This must be implemented from scratch on DUNE's boundary grid views, including a shadowing-aware view-factor solver — CrysMAS provides this natively (it is arguably its single most mature and validated capability, refined since the STHAMAS-era work of the 1990s).
 
 ### 4.2 Multi-Domain Conjugate Heat Transfer Assembler
