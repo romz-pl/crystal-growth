@@ -98,6 +98,7 @@
 + [MOOSE Multiphysics Object-Oriented Simulation Environment](./doc/software-moose.md)
 + [NEK fast high-order scalable CFD](./doc/software-nek.md)
 + [NEMOCRYS/opencgs](./doc/software-opencgs.md)
++ [NEPTUNE_CFD and SYRTHES](./doc/software-neptune-syrthes.md)
 + [OpenFOAM](./doc/software-openfoam.md)
 + [Proteus Multiphase Transport Framework](./doc/software-proteus.md)
 + [SU2 Foundation](./doc/software-su2.md)
