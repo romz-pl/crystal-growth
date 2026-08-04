@@ -272,7 +272,7 @@ This bibliography is organized into two main parts — **Experimental Work** and
 
 - T. Nishinaga, P. Rudolph (eds.), *Handbook of Crystal Growth*, 2nd ed., Elsevier, Boston (2015) — includes J. Friedrich, W. von Ammon, G. Müller, "Czochralski Growth of Silicon Crystals," pp. 45–104, and K. Kakimoto, B. Gao, "Fluid Dynamics: Modeling and Analysis."
 
-- J.J. Derby, A. Yeckel, "Modeling the Growth of Bulk Single Crystals: Seeing What Is Hidden," *Annual Review of Chemical and Biomolecular Engineering* (2024/2025), a modern retrospective review citing and building on Müller's foundational convection work.
+- J.J. Derby, A. Yeckel, "Modeling the Growth of Bulk Single Crystals: Seeing What Is Hidden," [*Annual Review of Chemical and Biomolecular Engineering* 16 (2025) pp. 217–248](https://doi.org/10.1146/annurev-chembioeng-082223-110559), a modern retrospective review citing and building on Müller's foundational convection work.
 
 ---
 
