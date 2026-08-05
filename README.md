@@ -68,6 +68,17 @@
 + [**InP**, Czochralski (CZ) and Liquid Encapsulated Czochralski (LEC) process](./doc/numerical-model-inp.md)
 + [**InP**, Vertical Gradient Freeze (VGF) and Vertical Bridgman (VB) process](./doc/numerical-model-vgf-inp.md)
 
+
+## Leaders and Champions in Numerical Modeling
++ [**Jeffrey J. Derby**, Department of Chemical Engineering and Materials Science, University of Minnesota](./doc/bibliography-derby.md)
++ [**Francois Dupret**, Université catholique de Louvain](./doc/bibliography-fdupret.md)
++ [**Michael S. Engelman**, co-founder of Fluid Dynamics International (FDI), and developer of FIDAP](./doc/bibliography-mengelman.md)
++ [**Jochen Friedrich**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-jfriedrich.md)
++ [**Koichi Kakimoto**, Tohoku University, Sendai, Japan](./doc/bibliography-kkakimoto.md)
++ [**Georg Müller**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-gmuller.md)
++ [**Aleks G. Ostrogorsky**, Mechanical & Aerospace Engineering Department, Illinois Institute of Technology](./doc/bibliography-aostrogorsky.md)
++ [**Andrew Yeckel** author of Cats2D](./doc/bibliography-ayeckel.md)
+
 ---
 
 ## Software for Modeling the Crystal Growth Process
@@ -112,15 +123,7 @@
 
 ---
 
-## Leaders and Champions in Numerical Modeling
-+ [**Georg Müller**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-gmuller.md)
-+ [**Jochen Friedrich**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-jfriedrich.md)
-+ [**Jeffrey J. Derby**, Department of Chemical Engineering and Materials Science, University of Minnesota](./doc/bibliography-derby.md)
-+ [**Francois Dupret**, Université catholique de Louvain](./doc/bibliography-fdupret.md)
-+ [**Andrew Yeckel** author of Cats2D](./doc/bibliography-ayeckel.md)
-+ [**Koichi Kakimoto**, Tohoku University, Sendai, Japan](./doc/bibliography-kkakimoto.md)
-+ [**Aleks G. Ostrogorsky**, Mechanical & Aerospace Engineering Department, Illinois Institute of Technology](./doc/bibliography-aostrogorsky.md)
-+ [**Michael S. Engelman**, co-founder of Fluid Dynamics International (FDI), and developer of FIDAP](./doc/bibliography-mengelman.md)
+
 
 
 ## Selected Materials and its Methods of Growth
