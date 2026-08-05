@@ -73,7 +73,7 @@
 
 + [**Wilfried von Ammon**](./doc/bibliography-mmmon.md) — Siltronic/Wacker Siemens; pioneer of global CZ silicon modeling to predict oxygen content, point defects, and thermal fluctuations at the melt–crystal interface.
 + [**Matthias Bickermann**](./doc/bibliography-bickermann.md), Leibniz-Institut für Kristallzüchtung (IKZ) Berlin, Germany
-+ **Robert A. Brown** — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage.
++ [**Robert A. Brown**](./doc/bibliography-brown.md) — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage.
 + **Arne Cröll** — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ.
 + [**Kaspars Dadzis**](./doc/bibliography-dadzis.md), Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
 + [**Jeffrey J. Derby**](./doc/bibliography-derby.md), Department of Chemical Engineering and Materials Science, University of Minnesota
