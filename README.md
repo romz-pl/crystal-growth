@@ -71,6 +71,7 @@
 
 ## Leaders and Champions in Numerical Modeling
 + [**Jeffrey J. Derby**, Department of Chemical Engineering and Materials Science, University of Minnesota](./doc/bibliography-derby.md)
++ [**Thierry Duffar**](./doc/bibliography-duffar.md)
 + [**Francois Dupret**, Université catholique de Louvain](./doc/bibliography-fdupret.md)
 + [**Michael S. Engelman**, co-founder of Fluid Dynamics International (FDI), and developer of FIDAP](./doc/bibliography-mengelman.md)
 + [**Jochen Friedrich**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-jfriedrich.md)
