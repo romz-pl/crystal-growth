@@ -71,6 +71,7 @@
 
 ## Leaders and Champions in Numerical Modeling
 + [**Matthias Bickermann**, Leibniz-Institut für Kristallzüchtung (IKZ) Berlin, Germany](./doc/bibliography-bickermann.md)
++ [**Kaspars Dadzis**, Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany](./doc/bibliography-dadzis.md)
 + [**Jeffrey J. Derby**, Department of Chemical Engineering and Materials Science, University of Minnesota](./doc/bibliography-derby.md)
 + [**Thierry Duffar**, Université Grenoble Alpes, SIMaP, France](./doc/bibliography-duffar.md)
 + [**Francois Dupret**, Université catholique de Louvain](./doc/bibliography-fdupret.md)
