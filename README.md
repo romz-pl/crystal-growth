@@ -79,6 +79,7 @@
 + [**Koichi Kakimoto**, Tohoku University, Sendai, Japan](./doc/bibliography-kkakimoto.md)
 + [**Georg Müller**, Fraunhofer IISB in Erlangen, Germany](./doc/bibliography-gmuller.md)
 + [**Aleks G. Ostrogorsky**, Mechanical & Aerospace Engineering Department, Illinois Institute of Technology](./doc/bibliography-aostrogorsky.md)
++ [**Daniel Vizman**, West University of Timisoara, Romania](./doc/bibliography-vizman.md)
 + [**Andrew Yeckel** author of Cats2D](./doc/bibliography-ayeckel.md)
 
 ---
