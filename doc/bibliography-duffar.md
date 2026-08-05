@@ -38,7 +38,7 @@ This bibliography lists journal articles, conference papers, and books authored 
 
 ## 2010s
 
-- **Duffar, T. (Ed.) (2010).** *Crystal Growth Processes Based on Capillarity: Czochralski, Floating Zone, Shaping and Crucible Techniques.* Wiley-Blackwell, Hoboken. ISBN 978-0-470-71244-3. (Edited volume; Duffar authored/co-authored chapters covering capillarity theory, Czochralski process dynamics and control, Verneuil and shape-stability modeling, and Vertical Bridgman/dewetting modeling — see next entry.)
+- **Duffar, T. (Ed.) (2010).** [*Crystal Growth Processes Based on Capillarity: Czochralski, Floating Zone, Shaping and Crucible Techniques.*](https://doi.org/10.1002/9781444320237) Wiley-Blackwell, Hoboken. ISBN 978-0-470-71244-3. (Edited volume; Duffar authored/co-authored chapters covering capillarity theory, Czochralski process dynamics and control, Verneuil and shape-stability modeling, and Vertical Bridgman/dewetting modeling — see next entry.)
 
 - Duffar, T., Sylla, L. (2010). Vertical Bridgman and dewetting. In T. Duffar (Ed.), *Crystal Growth Processes Based on Capillarity*, Wiley-Blackwell, Hoboken, pp. 355–408. (Modeling chapter on dewetted Bridgman growth.)
 
