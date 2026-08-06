@@ -77,7 +77,7 @@
 + [**Arne Cröll**](./doc/bibliography-croll.md) — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ.
 + [**Kaspars Dadzis**](./doc/bibliography-dadzis.md), Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
 + [**Jeffrey J. Derby**](./doc/bibliography-derby.md), Department of Chemical Engineering and Materials Science, University of Minnesota
-+ **Yves Delannoy** — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
++ [**Yves Delannoy**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
 + **Evgenii (Evgenii) Dornberger** — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
 + [**Thierry Duffar**](./doc/bibliography-duffar.md), Université Grenoble Alpes, SIMaP, France
 + [**Francois Dupret**](./doc/bibliography-fdupret.md), Université catholique de Louvain
