@@ -83,7 +83,7 @@
 + [**Francois Dupret**](./doc/bibliography-fdupret.md), Université catholique de Louvain
 + [**Michael S. Engelman**](./doc/bibliography-mengelman.md), co-founder of Fluid Dynamics International (FDI), and developer of FIDAP
 + [**Jochen Friedrich**](./doc/bibliography-jfriedrich.md), Fraunhofer IISB in Erlangen, Germany
-+ **Nobuyuki Imaishi** — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
++ [**Nobuyuki Imaishi**](./doc/bibliography-imaishi.md) — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
 + **Nickolay G. Ivanov** — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow.
 + [**Koichi Kakimoto**](./doc/bibliography-kkakimoto.md), Tohoku University, Sendai, Japan
 + **Vladimir V. Kalaev** — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport.
