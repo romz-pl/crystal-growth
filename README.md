@@ -90,7 +90,7 @@
 + [**Sindo Kou**](./doc/bibliography-kou.md) — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities.
 + [**Y.R. Li**](./doc/bibliography-li.md) — Beihang University; collaborator with Imaishi on global Czochralski furnace simulation and thermocapillary convection.
 + [**Xuan Liu**](./doc/bibliography-liu.md) — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling.
-+ **Yuri N. Makarov** — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals.
++ [**Yuri N. Makarov**](./doc/bibliography-makarov.md) — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals.
 + **Andris Muiznieks** — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling.
 + [**Georg Müller**](./doc/bibliography-gmuller.md), Fraunhofer IISB in Erlangen, Germany
 + [**Aleks G. Ostrogorsky**](./doc/bibliography-aostrogorsky.md), Mechanical & Aerospace Engineering Department, Illinois Institute of Technology
