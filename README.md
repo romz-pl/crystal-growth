@@ -78,7 +78,7 @@
 + [**Kaspars Dadzis**](./doc/bibliography-dadzis.md), Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
 + [**Jeffrey J. Derby**](./doc/bibliography-derby.md), Department of Chemical Engineering and Materials Science, University of Minnesota
 + [**Yves Delannoy**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
-+ **Evgenii (Evgenii) Dornberger** — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
++ [**Evgenii (Evgenii) Dornberger**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
 + [**Thierry Duffar**](./doc/bibliography-duffar.md), Université Grenoble Alpes, SIMaP, France
 + [**Francois Dupret**](./doc/bibliography-fdupret.md), Université catholique de Louvain
 + [**Michael S. Engelman**](./doc/bibliography-mengelman.md), co-founder of Fluid Dynamics International (FDI), and developer of FIDAP
