@@ -98,7 +98,7 @@
 + [**Evgenii M. Smirnov**](./doc/bibliography-smirnov.md) — St. Petersburg Polytechnic University; conjugate heat-transfer and turbulence modeling in CZ systems.
 + [**Christiane Stelian**](./doc/bibliography-stelian.md) — CEA/Grenoble collaborator with Duffar; numerical modeling of Bridgman, VGF, and Kyropoulos growth interface shape (e.g., sapphire).
 + [**Taketoshi (Takao) Tsukada**](./doc/bibliography-tsukada.md) — Tohoku University; global simulation methodology for Czochralski furnace melt/crystal heat transfer.
-+ **Juris Virbulis** — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation.
++ [**Juris Virbulis**](./doc/bibliography-virbulis.md) — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation.
 + [**Daniel Vizman**](./doc/bibliography-vizman.md), West University of Timisoara, Romania 
 + **William R. Wilcox** — Clark University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
 + **Alexander I. Zhmakin** — Ioffe Institute, St. Petersburg; large-eddy simulation of melt convection and broader numerical simulation of crystal growth transport phenomena.
