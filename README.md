@@ -100,7 +100,7 @@
 + [**Taketoshi (Takao) Tsukada**](./doc/bibliography-tsukada.md) — Tohoku University; global simulation methodology for Czochralski furnace melt/crystal heat transfer.
 + [**Juris Virbulis**](./doc/bibliography-virbulis.md) — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation.
 + [**Daniel Vizman**](./doc/bibliography-vizman.md), West University of Timisoara, Romania 
-+ **William R. Wilcox** — Clark University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
++ [**William R. Wilcox**](./doc/bibliography-wilcox.md) — Clark University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
 + **Alexander I. Zhmakin** — Ioffe Institute, St. Petersburg; large-eddy simulation of melt convection and broader numerical simulation of crystal growth transport phenomena.
 + [**Andrew Yeckel**](./doc/bibliography-ayeckel.md) author of Cats2D
 
