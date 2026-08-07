@@ -94,12 +94,12 @@
 + [**Andris Muiznieks**](./doc/bibliography-muiznieks.md) — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling.
 + [**Georg Müller**](./doc/bibliography-gmuller.md), Fraunhofer IISB in Erlangen, Germany
 + [**Aleks G. Ostrogorsky**](./doc/bibliography-aostrogorsky.md), Mechanical & Aerospace Engineering Department, Illinois Institute of Technology
-+ [**Daniel Vizman**](./doc/bibliography-vizman.md), West University of Timisoara, Romania
-+  **Dietrich Schwabe** — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models.
++  [**Dietrich Schwabe**](./doc/bibliography-schwabe.md) — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models.
 + **Evgenii M. Smirnov** — St. Petersburg Polytechnic University; conjugate heat-transfer and turbulence modeling in CZ systems.
 + **Christiane Stelian** — CEA/Grenoble collaborator with Duffar; numerical modeling of Bridgman, VGF, and Kyropoulos growth interface shape (e.g., sapphire).
 + **Taketoshi Tsukada** — Tohoku University; global simulation methodology for Czochralski furnace melt/crystal heat transfer.
-+ **Juris Virbulis** — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation. 
++ **Juris Virbulis** — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation.
++ [**Daniel Vizman**](./doc/bibliography-vizman.md), West University of Timisoara, Romania 
 + **William R. Wilcox** — Clark University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
 + **Alexander I. Zhmakin** — Ioffe Institute, St. Petersburg; large-eddy simulation of melt convection and broader numerical simulation of crystal growth transport phenomena.
 + [**Andrew Yeckel**](./doc/bibliography-ayeckel.md) author of Cats2D
