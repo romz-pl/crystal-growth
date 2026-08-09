@@ -71,7 +71,7 @@
 
 ## Leaders in Numerical Modeling of Crystal Growth from Melt
 
-+ [**Wilfried von Ammon**](./doc/bibliography-mmmon.md) — Siltronic/Wacker Siemens; pioneer of global CZ silicon modeling to predict oxygen content, point defects, and thermal fluctuations at the melt–crystal interface.
++ **Wilfried von Ammon** — Siltronic/Wacker Siemens; pioneer of global CZ silicon modeling to predict oxygen content, point defects, and thermal fluctuations at the melt–crystal interface [Bibliography](./doc/bibliography-mmmon.md), [Bio](./doc/bio-ammon.md).
 + [**Matthias Bickermann**](./doc/bibliography-bickermann.md), Leibniz-Institut für Kristallzüchtung (IKZ) Berlin, Germany
 + [**Robert A. Brown**](./doc/bibliography-brown.md) — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage.
 + [**Arne Cröll**](./doc/bibliography-croll.md) — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ.
