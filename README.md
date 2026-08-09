@@ -76,7 +76,7 @@
 + [**Robert A. Brown**](./doc/bibliography-brown.md) — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage.
 + [**Arne Cröll**](./doc/bibliography-croll.md) — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ.
 + [**Kaspars Dadzis**](./doc/bibliography-dadzis.md), Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
-+ [**Jeffrey J. Derby**](./doc/bibliography-derby.md), Department of Chemical Engineering and Materials Science, University of Minnesota
++ **Jeffrey J. Derby**, Department of Chemical Engineering and Materials Science, University of Minnesota, [Bibliography](./doc/bibliography-derby.md), [Bio](./doc/bio-derby.md).
 + [**Yves Delannoy**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
 + [**Evgenii (Evgenii) Dornberger**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
 + [**Thierry Duffar**](./doc/bibliography-duffar.md), Université Grenoble Alpes, SIMaP, France
