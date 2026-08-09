@@ -80,7 +80,7 @@
 + [**Yves Delannoy**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
 + [**Evgenii (Evgenii) Dornberger**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
 + [**Thierry Duffar**](./doc/bibliography-duffar.md), Université Grenoble Alpes, SIMaP, France
-+ [**Francois Dupret**](./doc/bibliography-fdupret.md), Université catholique de Louvain
++ **Francois Dupret**, Université catholique de Louvain, [Bibliography](./doc/bibliography-fdupret.md), [Bio](./doc/bio-fdupret.md).
 + [**Michael S. Engelman**](./doc/bibliography-mengelman.md), co-founder of Fluid Dynamics International (FDI), and developer of FIDAP
 + [**Jochen Friedrich**](./doc/bibliography-jfriedrich.md), Fraunhofer IISB in Erlangen, Germany
 + [**Nobuyuki Imaishi**](./doc/bibliography-imaishi.md) — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
