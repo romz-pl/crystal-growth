@@ -92,7 +92,7 @@
 + [**Xuan Liu**](./doc/bibliography-liu.md) — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling.
 + [**Yuri N. Makarov**](./doc/bibliography-makarov.md) — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals.
 + [**Andris Muiznieks**](./doc/bibliography-muiznieks.md) — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling.
-+ [**Georg Müller**](./doc/bibliography-gmuller.md), Fraunhofer IISB in Erlangen, Germany
++ **Georg Müller**, Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-gmuller.md), [Bio](./doc/bio-gmuller.md).
 + [**Aleks G. Ostrogorsky**](./doc/bibliography-aostrogorsky.md), Mechanical & Aerospace Engineering Department, Illinois Institute of Technology
 + [**Dietrich Schwabe**](./doc/bibliography-schwabe.md) — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models.
 + [**Evgenii M. Smirnov**](./doc/bibliography-smirnov.md) — St. Petersburg Polytechnic University; conjugate heat-transfer and turbulence modeling in CZ systems.
