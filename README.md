@@ -84,7 +84,7 @@
 + **Engelman Michael S.** — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP, [Bibliography](./doc/bibliography-mengelman.md), [Bio](./doc/bio-mengelman.md).
 + **Friedrich Jochen** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-jfriedrich.md), [Bio](./doc/bio-jfriedrich.md).
 + **Imaishi Nobuyuki** — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling, [Bibliography](./doc/bibliography-imaishi.md), [Bio](./doc/bio-imaishi.md).
-+ [**Ivanov Nickolay G.**](./doc/bibliography-ivanov.md) — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow.
++ **Ivanov Nickolay G.** — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow, [Bibliography](./doc/bibliography-ivanov.md), [Bio](./doc/bio-ivanov.md).
 + **Kakimoto Koichi** — Tohoku University, Sendai, Japan, [Bibliography](./doc/bibliography-kkakimoto.md), [Bio](./doc/bio-kkakimoto.md).
 + **Kalaev Vladimir V.** — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport, [Bibliography](./doc/bibliography-kalaev.md), [Bio](./doc/bio-kalaev.md).
 + [**Kou Sindo**](./doc/bibliography-kou.md) — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities.
