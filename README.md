@@ -74,7 +74,7 @@
 + **von Ammon Wilfried** — Siltronic/Wacker Siemens; pioneer of global CZ silicon modeling to predict oxygen content, point defects, and thermal fluctuations at the melt–crystal interface [Bibliography](./doc/bibliography-mmmon.md), [Bio](./doc/bio-ammon.md).
 + **Bickermann Matthias** — Leibniz-Institut für Kristallzüchtung (IKZ) Berlin, Germany, [Bibliography](./doc/bibliography-bickermann.md), [Bio](./doc/bio-bickermann.md).
 + **Brown Robert A.** — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage, [Bibliography](./doc/bibliography-brown.md), [Bio](./doc/bio-brown.md).
-+ [**Cröll Arne**](./doc/bibliography-croll.md) — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ.
++ **Cröll Arne** — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ, [Bibliography](./doc/bibliography-croll.md), [Bio](./doc/bio-croll.md).
 + [**Dadzis Kaspars**](./doc/bibliography-dadzis.md) — Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
 + **Derby Jeffrey J.** — Department of Chemical Engineering and Materials Science, University of Minnesota, [Bibliography](./doc/bibliography-derby.md), [Bio](./doc/bio-derby.md).
 + [**Delannoy Yves**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
