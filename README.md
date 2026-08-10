@@ -79,7 +79,7 @@
 + **Derby Jeffrey J.** — Department of Chemical Engineering and Materials Science, University of Minnesota, [Bibliography](./doc/bibliography-derby.md), [Bio](./doc/bio-derby.md).
 + [**Delannoy Yves**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
 + [**Dornberger Evgenii (Evgenii)**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
-+ [**Duffar Thierry**](./doc/bibliography-duffar.md) — Université Grenoble Alpes, SIMaP, France
++ **Duffar Thierry** — Université Grenoble Alpes, SIMaP, France, [Bibliography](./doc/bibliography-duffar.md), [Bio](./doc/bio-duffar.md).
 + **Dupret Francois** — Université catholique de Louvain, [Bibliography](./doc/bibliography-fdupret.md), [Bio](./doc/bio-fdupret.md).
 + **Engelman Michael S.** — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP, [Bibliography](./doc/bibliography-mengelman.md), [Bio](./doc/bio-mengelman.md).
 + **Friedrich Jochen** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-jfriedrich.md), [Bio](./doc/bio-jfriedrich.md).
