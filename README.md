@@ -81,7 +81,7 @@
 + [**Evgenii (Evgenii) Dornberger**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
 + [**Thierry Duffar**](./doc/bibliography-duffar.md) — Université Grenoble Alpes, SIMaP, France
 + **Francois Dupret** — Université catholique de Louvain, [Bibliography](./doc/bibliography-fdupret.md), [Bio](./doc/bio-fdupret.md).
-+ [**Michael S. Engelman**](./doc/bibliography-mengelman.md) — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP
++ **Michael S. Engelman** — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP, [Bibliography](./doc/bibliography-mengelman.md), [Bio](./doc/bio-mengelman.md).
 + [**Jochen Friedrich**](./doc/bibliography-jfriedrich.md), Fraunhofer IISB in Erlangen, Germany
 + [**Nobuyuki Imaishi**](./doc/bibliography-imaishi.md) — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
 + [**Nickolay G. Ivanov**](./doc/bibliography-ivanov.md) — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow.
