@@ -96,4 +96,4 @@ This biography is compiled from publicly available bibliographic, institutional,
 >
 > Model: Sonet 5
 >
-> Prompt: 
+> Prompt: Create an exhaustive scientific biography for Vladimir V. Kalaev (STR Group). Show the output in Markdown format. Do not copy the output of the exported files into the chat.
