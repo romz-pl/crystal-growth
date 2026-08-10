@@ -82,7 +82,7 @@
 + [**Thierry Duffar**](./doc/bibliography-duffar.md) — Université Grenoble Alpes, SIMaP, France
 + **Francois Dupret** — Université catholique de Louvain, [Bibliography](./doc/bibliography-fdupret.md), [Bio](./doc/bio-fdupret.md).
 + **Michael S. Engelman** — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP, [Bibliography](./doc/bibliography-mengelman.md), [Bio](./doc/bio-mengelman.md).
-+ [**Jochen Friedrich**](./doc/bibliography-jfriedrich.md), Fraunhofer IISB in Erlangen, Germany
++ **Jochen Friedrich** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-jfriedrich.md), [Bio](./doc/bio-jfriedrich.md).
 + [**Nobuyuki Imaishi**](./doc/bibliography-imaishi.md) — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
 + [**Nickolay G. Ivanov**](./doc/bibliography-ivanov.md) — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow.
 + [**Koichi Kakimoto**](./doc/bibliography-kkakimoto.md) — Tohoku University, Sendai, Japan
