@@ -71,38 +71,38 @@
 
 ## Leaders in Numerical Modeling of Crystal Growth from Melt
 
-+ **Wilfried von Ammon** — Siltronic/Wacker Siemens; pioneer of global CZ silicon modeling to predict oxygen content, point defects, and thermal fluctuations at the melt–crystal interface [Bibliography](./doc/bibliography-mmmon.md), [Bio](./doc/bio-ammon.md).
-+ [**Matthias Bickermann**](./doc/bibliography-bickermann.md) — Leibniz-Institut für Kristallzüchtung (IKZ) Berlin, Germany
-+ [**Robert A. Brown**](./doc/bibliography-brown.md) — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage.
-+ [**Arne Cröll**](./doc/bibliography-croll.md) — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ.
-+ [**Kaspars Dadzis**](./doc/bibliography-dadzis.md) — Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
-+ **Jeffrey J. Derby** — Department of Chemical Engineering and Materials Science, University of Minnesota, [Bibliography](./doc/bibliography-derby.md), [Bio](./doc/bio-derby.md).
-+ [**Yves Delannoy**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
-+ [**Evgenii (Evgenii) Dornberger**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
-+ [**Thierry Duffar**](./doc/bibliography-duffar.md) — Université Grenoble Alpes, SIMaP, France
-+ **Francois Dupret** — Université catholique de Louvain, [Bibliography](./doc/bibliography-fdupret.md), [Bio](./doc/bio-fdupret.md).
-+ **Michael S. Engelman** — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP, [Bibliography](./doc/bibliography-mengelman.md), [Bio](./doc/bio-mengelman.md).
-+ **Jochen Friedrich** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-jfriedrich.md), [Bio](./doc/bio-jfriedrich.md).
-+ [**Nobuyuki Imaishi**](./doc/bibliography-imaishi.md) — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
-+ [**Nickolay G. Ivanov**](./doc/bibliography-ivanov.md) — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow.
-+ **Koichi Kakimoto** — Tohoku University, Sendai, Japan, [Bibliography](./doc/bibliography-kkakimoto.md), [Bio](./doc/bio-kkakimoto.md).
-+ **Vladimir V. Kalaev** — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport, [Bibliography](./doc/bibliography-kalaev.md), [Bio](./doc/bio-kalaev.md).
-+ [**Sindo Kou**](./doc/bibliography-kou.md) — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities.
-+ [**Y.R. Li**](./doc/bibliography-li.md) — Beihang University; collaborator with Imaishi on global Czochralski furnace simulation and thermocapillary convection.
-+ [**Xuan Liu**](./doc/bibliography-liu.md) — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling.
-+ [**Yuri N. Makarov**](./doc/bibliography-makarov.md) — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals.
-+ [**Andris Muiznieks**](./doc/bibliography-muiznieks.md) — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling.
-+ **Georg Müller** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-gmuller.md), [Bio](./doc/bio-gmuller.md).
-+ **Aleks G. Ostrogorsky** — Mechanical & Aerospace Engineering Department, Illinois Institute of Technology, [Bibliography](./doc/bibliography-aostrogorsky.md), [Bio](./doc/bio-aostrogorsky.md).
-+ [**Dietrich Schwabe**](./doc/bibliography-schwabe.md) — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models.
-+ **Evgenii M. Smirnov** — St. Petersburg Polytechnic University; conjugate heat-transfer and turbulence modeling in CZ systems, [Bibliography](./doc/bibliography-smirnov.md), [Bio](./doc/bio-smirnov.md).
-+ [**Christiane Stelian**](./doc/bibliography-stelian.md) — CEA/Grenoble collaborator with Duffar; numerical modeling of Bridgman, VGF, and Kyropoulos growth interface shape (e.g., sapphire).
-+ **Taketoshi (Takao) Tsukada** — Tohoku University; global simulation methodology for Czochralski furnace melt/crystal heat transfer, [Bibliography](./doc/bibliography-tsukada.md), [Bio](./doc/bio-tsukada.md).
-+ [**Juris Virbulis**](./doc/bibliography-virbulis.md) — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation.
-+ [**Daniel Vizman**](./doc/bibliography-vizman.md) — West University of Timisoara, Romania 
-+ [**William R. Wilcox**](./doc/bibliography-wilcox.md) — Clarkson University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
-+ [**Alexander I. Zhmakin**](./doc/bibliography-zhmakin.md) — Ioffe Institute, St. Petersburg; large-eddy simulation of melt convection and broader numerical simulation of crystal growth transport phenomena.
-+ **Andrew Yeckel** — author of Cats2D, [Bibliography](./doc/bibliography-ayeckel.md), [Bio](./doc/bio-ayeckel.md).
++ **von Ammon Wilfried** — Siltronic/Wacker Siemens; pioneer of global CZ silicon modeling to predict oxygen content, point defects, and thermal fluctuations at the melt–crystal interface [Bibliography](./doc/bibliography-mmmon.md), [Bio](./doc/bio-ammon.md).
++ [**Bickermann Matthias**](./doc/bibliography-bickermann.md) — Leibniz-Institut für Kristallzüchtung (IKZ) Berlin, Germany
++ [**Brown Robert A.**](./doc/bibliography-brown.md) — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage.
++ [**Cröll Arne**](./doc/bibliography-croll.md) — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ.
++ [**Dadzis Kaspars**](./doc/bibliography-dadzis.md) — Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
++ **Derby Jeffrey J.** — Department of Chemical Engineering and Materials Science, University of Minnesota, [Bibliography](./doc/bibliography-derby.md), [Bio](./doc/bio-derby.md).
++ [**Delannoy Yves**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
++ [**Dornberger Evgenii (Evgenii)**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
++ [**Duffar Thierry**](./doc/bibliography-duffar.md) — Université Grenoble Alpes, SIMaP, France
++ **Dupret Francois** — Université catholique de Louvain, [Bibliography](./doc/bibliography-fdupret.md), [Bio](./doc/bio-fdupret.md).
++ **Engelman Michael S.** — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP, [Bibliography](./doc/bibliography-mengelman.md), [Bio](./doc/bio-mengelman.md).
++ **Friedrich Jochen** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-jfriedrich.md), [Bio](./doc/bio-jfriedrich.md).
++ [**Imaishi Nobuyuki**](./doc/bibliography-imaishi.md) — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
++ [**Ivanov Nickolay G.**](./doc/bibliography-ivanov.md) — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow.
++ **Kakimoto Koichi** — Tohoku University, Sendai, Japan, [Bibliography](./doc/bibliography-kkakimoto.md), [Bio](./doc/bio-kkakimoto.md).
++ **Kalaev Vladimir V.** — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport, [Bibliography](./doc/bibliography-kalaev.md), [Bio](./doc/bio-kalaev.md).
++ [**Kou Sindo**](./doc/bibliography-kou.md) — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities.
++ [**Li Y. R.**](./doc/bibliography-li.md) — Beihang University; collaborator with Imaishi on global Czochralski furnace simulation and thermocapillary convection.
++ [**Liu Xuan**](./doc/bibliography-liu.md) — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling.
++ [**Makarov Yuri N.**](./doc/bibliography-makarov.md) — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals.
++ [**Muiznieks Andris**](./doc/bibliography-muiznieks.md) — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling.
++ **Müller Georg** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-gmuller.md), [Bio](./doc/bio-gmuller.md).
++ **Ostrogorsky Aleks G.** — Mechanical & Aerospace Engineering Department, Illinois Institute of Technology, [Bibliography](./doc/bibliography-aostrogorsky.md), [Bio](./doc/bio-aostrogorsky.md).
++ [**Schwabe Dietrich**](./doc/bibliography-schwabe.md) — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models.
++ **Smirnov Evgenii M.** — St. Petersburg Polytechnic University; conjugate heat-transfer and turbulence modeling in CZ systems, [Bibliography](./doc/bibliography-smirnov.md), [Bio](./doc/bio-smirnov.md).
++ [**Stelian Christiane**](./doc/bibliography-stelian.md) — CEA/Grenoble collaborator with Duffar; numerical modeling of Bridgman, VGF, and Kyropoulos growth interface shape (e.g., sapphire).
++ **Tsukada Taketoshi (Takao)** — Tohoku University; global simulation methodology for Czochralski furnace melt/crystal heat transfer, [Bibliography](./doc/bibliography-tsukada.md), [Bio](./doc/bio-tsukada.md).
++ [**Virbulis Juris**](./doc/bibliography-virbulis.md) — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation.
++ [**Vizman Daniel**](./doc/bibliography-vizman.md) — West University of Timisoara, Romania 
++ [**Wilcox William R.**](./doc/bibliography-wilcox.md) — Clarkson University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
++ [**Zhmakin Alexander I.**](./doc/bibliography-zhmakin.md) — Ioffe Institute, St. Petersburg; large-eddy simulation of melt convection and broader numerical simulation of crystal growth transport phenomena.
++ **Yeckel Andrew** — author of Cats2D, [Bibliography](./doc/bibliography-ayeckel.md), [Bio](./doc/bio-ayeckel.md).
 
 
 
