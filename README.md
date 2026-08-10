@@ -86,7 +86,7 @@
 + [**Nobuyuki Imaishi**](./doc/bibliography-imaishi.md) — Kyushu University; global CZ furnace simulation and oxide/silicon melt convection modeling.
 + [**Nickolay G. Ivanov**](./doc/bibliography-ivanov.md) — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow.
 + **Koichi Kakimoto** — Tohoku University, Sendai, Japan, [Bibliography](./doc/bibliography-kkakimoto.md), [Bio](./doc/bio-kkakimoto.md).
-+ [**Vladimir V. Kalaev**](./doc/bibliography-kalaev.md) — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport.
++ **Vladimir V. Kalaev** — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport, [Bibliography](./doc/bibliography-kalaev.md), [Bio](./doc/bio-kalaev.md).
 + [**Sindo Kou**](./doc/bibliography-kou.md) — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities.
 + [**Y.R. Li**](./doc/bibliography-li.md) — Beihang University; collaborator with Imaishi on global Czochralski furnace simulation and thermocapillary convection.
 + [**Xuan Liu**](./doc/bibliography-liu.md) — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling.
