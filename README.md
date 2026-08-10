@@ -78,7 +78,7 @@
 + **Dadzis Kaspars** — Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany, [Bibliography](./doc/bibliography-dadzis.md), [Bio](./doc/bio-dadzis.md).
 + **Derby Jeffrey J.** — Department of Chemical Engineering and Materials Science, University of Minnesota, [Bibliography](./doc/bibliography-derby.md), [Bio](./doc/bio-derby.md).
 + **Delannoy Yves** — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems, [Bibliography](./doc/bibliography-delannoy.md), [Bio](./doc/bio-delannoy.md).
-+ [**Dornberger Evgenii (Evgenii)**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
++ **Dornberger Evgenii (Evgenii)** — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev, [Bibliography](./doc/bibliography-dornberger.md), [Bio](./doc/bio-dornberger.md).
 + **Duffar Thierry** — Université Grenoble Alpes, SIMaP, France, [Bibliography](./doc/bibliography-duffar.md), [Bio](./doc/bio-duffar.md).
 + **Dupret Francois** — Université catholique de Louvain, [Bibliography](./doc/bibliography-fdupret.md), [Bio](./doc/bio-fdupret.md).
 + **Engelman Michael S.** — co-founder of Fluid Dynamics International (FDI), and developer of FIDAP, [Bibliography](./doc/bibliography-mengelman.md), [Bio](./doc/bio-mengelman.md).
