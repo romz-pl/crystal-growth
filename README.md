@@ -102,7 +102,7 @@
 + [**Daniel Vizman**](./doc/bibliography-vizman.md) — West University of Timisoara, Romania 
 + [**William R. Wilcox**](./doc/bibliography-wilcox.md) — Clarkson University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
 + [**Alexander I. Zhmakin**](./doc/bibliography-zhmakin.md) — Ioffe Institute, St. Petersburg; large-eddy simulation of melt convection and broader numerical simulation of crystal growth transport phenomena.
-+ [**Andrew Yeckel**](./doc/bibliography-ayeckel.md) — author of Cats2D
++ **Andrew Yeckel** — author of Cats2D, [Bibliography](./doc/bibliography-ayeckel.md), [Bio](./doc/bio-ayeckel.md).
 
 
 
