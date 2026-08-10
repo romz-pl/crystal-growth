@@ -75,7 +75,7 @@
 + **Bickermann Matthias** — Leibniz-Institut für Kristallzüchtung (IKZ) Berlin, Germany, [Bibliography](./doc/bibliography-bickermann.md), [Bio](./doc/bio-bickermann.md).
 + **Brown Robert A.** — MIT/Boston University; finite element modeling pioneer of CZ and Bridgman melt-crystal systems, closely associated with Derby's methodological lineage, [Bibliography](./doc/bibliography-brown.md), [Bio](./doc/bio-brown.md).
 + **Cröll Arne** — University of Freiburg; floating-zone growth in magnetic fields, numerical simulation of Marangoni convection and dopant striations in silicon FZ, [Bibliography](./doc/bibliography-croll.md), [Bio](./doc/bio-croll.md).
-+ [**Dadzis Kaspars**](./doc/bibliography-dadzis.md) — Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany
++ **Dadzis Kaspars** — Leibniz-Institut für Kristallzüchtung (IKZ) in Berlin, Germany, [Bibliography](./doc/bibliography-dadzis.md), [Bio](./doc/bio-dadzis.md).
 + **Derby Jeffrey J.** — Department of Chemical Engineering and Materials Science, University of Minnesota, [Bibliography](./doc/bibliography-derby.md), [Bio](./doc/bio-derby.md).
 + [**Delannoy Yves**](./doc/bibliography-delannoy.md) — SIMaP, Grenoble; numerical modeling of magnetically damped melt flows in Bridgman/CZ systems.
 + [**Dornberger Evgenii (Evgenii)**](./doc/bibliography-dornberger.md) — Wacker Siemens; co-author of foundational CZ silicon defect/interface modeling papers with von Ammon and Kalaev.
