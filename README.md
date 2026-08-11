@@ -87,7 +87,7 @@
 + **Ivanov Nickolay G.** — St. Petersburg Polytechnic University; RANS/LES turbulence modeling of magnetic-field-affected CZ melt flow, [Bibliography](./doc/bibliography-ivanov.md), [Bio](./doc/bio-ivanov.md).
 + **Kakimoto Koichi** — Tohoku University, Sendai, Japan, [Bibliography](./doc/bibliography-kkakimoto.md), [Bio](./doc/bio-kkakimoto.md).
 + **Kalaev Vladimir V.** — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport, [Bibliography](./doc/bibliography-kalaev.md), [Bio](./doc/bio-kalaev.md).
-+ [**Kou Sindo**](./doc/bibliography-kou.md) — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities.
++ **Kou Sindo** — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities, [Bibliography](./doc/bibliography-kou.md), [Bio](./doc/bio-kou.md).
 + [**Li Y. R.**](./doc/bibliography-li.md) — Beihang University; collaborator with Imaishi on global Czochralski furnace simulation and thermocapillary convection.
 + [**Liu Xuan**](./doc/bibliography-liu.md) — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling.
 + [**Makarov Yuri N.**](./doc/bibliography-makarov.md) — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals.
