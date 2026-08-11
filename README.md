@@ -99,7 +99,7 @@
 + **Stelian Christiane (Carmen)** — CEA/Grenoble collaborator with Duffar; numerical modeling of Bridgman, VGF, and Kyropoulos growth interface shape (e.g., sapphire), [Bibliography](./doc/bibliography-stelian.md), [Bio](./doc/bio-stelian.md).
 + **Tsukada Taketoshi (Takao)** — Tohoku University; global simulation methodology for Czochralski furnace melt/crystal heat transfer, [Bibliography](./doc/bibliography-tsukada.md), [Bio](./doc/bio-tsukada.md).
 + **Virbulis Juris** — University of Latvia / formerly Wacker; CZ silicon interface shape prediction, magnetic field effects, and point-defect simulation, [Bibliography](./doc/bibliography-virbulis.md), [Bio](./doc/bio-virbulis.md).
-+ [**Vizman Daniel**](./doc/bibliography-vizman.md) — West University of Timisoara, Romania 
++ **Vizman Daniel** — West University of Timisoara, Romania, [Bibliography](./doc/bibliography-vizman.md), [Bio](./doc/bio-vizman.md).
 + [**Wilcox William R.**](./doc/bibliography-wilcox.md) — Clarkson University; classical numerical/analytical treatment of segregation, convection, and interface stability in melt growth.
 + [**Zhmakin Alexander I.**](./doc/bibliography-zhmakin.md) — Ioffe Institute, St. Petersburg; large-eddy simulation of melt convection and broader numerical simulation of crystal growth transport phenomena.
 + **Yeckel Andrew** — author of Cats2D, [Bibliography](./doc/bibliography-ayeckel.md), [Bio](./doc/bio-ayeckel.md).
