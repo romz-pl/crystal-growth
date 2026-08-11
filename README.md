@@ -89,7 +89,7 @@
 + **Kalaev Vladimir V.** — STR Group; developer of CGSim methodology, large-eddy simulation (LES) and RANS/LES models of turbulent CZ melt convection, defect and impurity transport, [Bibliography](./doc/bibliography-kalaev.md), [Bio](./doc/bio-kalaev.md).
 + **Kou Sindo** — University of Wisconsin–Madison; transport phenomena modeling in melt crystal growth, especially interface morphology and convective instabilities, [Bibliography](./doc/bibliography-kou.md), [Bio](./doc/bio-kou.md).
 + **Li You-Rong** — Chongqing University; collaborator with Imaishi on global Czochralski furnace simulation and thermocapillary convection, [Bibliography](./doc/bibliography-li.md), [Bio](./doc/bio-li.md).
-+ [**Liu Xuan**](./doc/bibliography-liu.md) — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling.
++ **Liu Xuan** — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling, [Bibliography](./doc/bibliography-liu.md), [Bio](./doc/bio-liu.md).
 + [**Makarov Yuri N.**](./doc/bibliography-makarov.md) — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals.
 + [**Muiznieks Andris**](./doc/bibliography-muiznieks.md) — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling.
 + **Müller Georg** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-gmuller.md), [Bio](./doc/bio-gmuller.md).
