@@ -94,7 +94,7 @@
 + **Muiznieks Andris** — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling, [Bibliography](./doc/bibliography-muiznieks.md), [Bio](./doc/bio-muiznieks.md).
 + **Müller Georg** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-gmuller.md), [Bio](./doc/bio-gmuller.md).
 + **Ostrogorsky Aleks G.** — Mechanical & Aerospace Engineering Department, Illinois Institute of Technology, [Bibliography](./doc/bibliography-aostrogorsky.md), [Bio](./doc/bio-aostrogorsky.md).
-+ [**Schwabe Dietrich**](./doc/bibliography-schwabe.md) — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models.
++ **Schwabe Dietrich** — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models, [Bibliography](./doc/bibliography-schwabe.md), [Bio](./doc/bio-schwabe.md).
 + **Smirnov Evgenii M.** — St. Petersburg Polytechnic University; conjugate heat-transfer and turbulence modeling in CZ systems, [Bibliography](./doc/bibliography-smirnov.md), [Bio](./doc/bio-smirnov.md).
 + [**Stelian Christiane**](./doc/bibliography-stelian.md) — CEA/Grenoble collaborator with Duffar; numerical modeling of Bridgman, VGF, and Kyropoulos growth interface shape (e.g., sapphire).
 + **Tsukada Taketoshi (Takao)** — Tohoku University; global simulation methodology for Czochralski furnace melt/crystal heat transfer, [Bibliography](./doc/bibliography-tsukada.md), [Bio](./doc/bio-tsukada.md).
