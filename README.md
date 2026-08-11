@@ -91,7 +91,7 @@
 + **Li You-Rong** — Chongqing University; collaborator with Imaishi on global Czochralski furnace simulation and thermocapillary convection, [Bibliography](./doc/bibliography-li.md), [Bio](./doc/bio-li.md).
 + **Liu Xuan** — Tohoku University (Kakimoto group); transient global modeling of the CZ silicon pulling process and carbon-contamination modeling, [Bibliography](./doc/bibliography-liu.md), [Bio](./doc/bio-liu.md).
 + **Makarov Yuri N.** — co-developer of modeling methodologies for melt turbulence and gas-flow effects on Czochralski heat transport; co-founder of STR Group/Nitride Crystals, [Bibliography](./doc/bibliography-makarov.md), [Bio](./doc/bio-makarov.md).
-+ [**Muiznieks Andris**](./doc/bibliography-muiznieks.md) — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling.
++ **Muiznieks Andris** — University of Latvia; long collaboration with Virbulis/von Ammon on CZ silicon interface-shape and global heat transfer modeling, [Bibliography](./doc/bibliography-muiznieks.md), [Bio](./doc/bio-muiznieks.md).
 + **Müller Georg** — Fraunhofer IISB in Erlangen, Germany, [Bibliography](./doc/bibliography-gmuller.md), [Bio](./doc/bio-gmuller.md).
 + **Ostrogorsky Aleks G.** — Mechanical & Aerospace Engineering Department, Illinois Institute of Technology, [Bibliography](./doc/bibliography-aostrogorsky.md), [Bio](./doc/bio-aostrogorsky.md).
 + [**Schwabe Dietrich**](./doc/bibliography-schwabe.md) — Justus Liebig University Giessen; extensive experimental and numerical characterization of Marangoni (thermocapillary) convection in floating-zone and half-zone melt models.
